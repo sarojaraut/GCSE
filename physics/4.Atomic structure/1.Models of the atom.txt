@@ -1,0 +1,57 @@
+In ancient Greece, most people thought that matter was made up of combinations of four elements: earth, air, fire and water.
+
+After discovering the electron in 1897, J J Thomson proposed that the atom looked like a plum pudding : atom consisted of positive 'dough' with a lot of negative
+electrons stuck in it. This was consistent with the evidence available at the time
+
+solids cannot be squashed, therefore the atoms which make them up must be solid throughout
+rubbing two solids together often results in static charge so there must be something (electrons) on the outsides of atoms which can be transferred as atoms collide
+
+# Rutherford and the nucleus
+In 1905, Ernest Rutherford did an experiment to test the plum pudding model. directed a beam of alpha particles at a very thin gold leaf suspended in a vacuum.
+
+The vacuum is to ensure that any deflection of the alpha particles would only be because of collisions with the gold foil and not due to deflections off anything else.
+
+Rutherford considered the observations and he concluded:
+
+the fact that most alpha particles went straight through the foil is evidence for the atom being mostly empty space
+
+a small number of alpha particles being deflected at large angles suggested that there is a concentration of positive charge in the atom - like charges repel, so the positive alpha particles were being repelled by positive charges
+
+the very small number of alpha particles coming straight back suggested that the positive charge and mass are concentrated in a tiny volume in the atom (the nucleus) - the tiny number doing this means the chance of being on that exact collision course was very small, and so the 'target' being aimed at had to be equally tiny
+
+Rutherford had discovered the nuclear atom, a small, positively-charged nucleus surrounded by empty space and then a layer of electrons to form the outside of the atom.
+
+# Bohr and energy levels
+
+Even though Rutherford had proven the existence of the nucleus, scientists were unsure how electrons fitted into this new model.
+
+In 1913, Niels Bohr revised Rutherford's model by suggesting that the electrons orbited the nucleus in different energy levels or at specific distances from the nucleus.
+
+By doing this, he was able to explain that since particular chemicals burn with certain-coloured flames, the pattern of energy released by electrons in the chemical reaction must be the same for every single atom of that element.
+
+
+
+Red is created by Strontium (Sr) : 38 : 2, 8, 18, 8, 2
+
+Green is created by Barium (Ba) 56 : 2, 8, 18, 18, 8, 2
+
+Blue is created by Copper (Cu) 29 : 2, 8, 18, 1
+
+Yellow is created by Sodium (Na) 11 : 2 8 1
+
+Orange is created by a mix of Strontium (Sr) and Sodium (Na)
+
+Purple is created by a mix of Strontium (Sr) and Copper (Cu)
+
+Silver and White are created by Titanium (Ti), Zirconium (Zr), and Magnesium (Mg)
+
+Gold is made by Iron (Fe) and small pieces of charcoal.
+
+# Chadwick and the neutron
+The proton had been proposed as being the nuclear particle responsible for the positive charge of the nucleus and for some of the nuclear mass. However, there was still a difference between the atomic number of the atom and the atomic mass.
+Bohr and other scientists knew that there also had to be a neutral particle the same size as a proton to keep the nucleus stable and to make up the mass.
+
+# 1932 that James Chadwick was able to prove its existence.
+
+Chadwick used a version of Rutherford's experiment, using a sheet of beryllium and a paraffin block instead of gold foil. He was able to prove that a proton-sized neutral particle - now known as the neutron - existed.
+

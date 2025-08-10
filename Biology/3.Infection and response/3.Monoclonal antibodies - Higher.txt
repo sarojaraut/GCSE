@@ -1,0 +1,44 @@
+3.Monoclonal antibodies - Higher
+
+    Monoclonal antibodies are identical copies of one type of antibody.
+
+    Antibodies are proteins produced by a type of white blood called lymphocytes. Pathogens have proteins on their surface called antigens. When a pathogen infects the body, the lymphocytes recognise these antigens as foreign and attack them by producing antibodies.
+
+    Antibodies bind to specific antigens on pathogens. This means that only one type of antibody will bind to a matching antigen.
+    Scientists discovered that we could make antibodies to bind to antigens on other substances, and not just those on pathogens.
+    Once bound, the antigens - and the substances they are found on - are merged tightly together. This makes them easier to identify and deal with.
+    
+    Formation of monoclonal antibodies
+        An antigen is injected into a mouse
+        The mouse naturally produces lymphocytes, which produce antibodies specific to the antigen
+        Spleen cells which produce the lymphocytes are removed during a small operation
+        The spleen cells are fused with human cancerous white blood cells called myeloma cells to form hybridoma cells which divide indefinitely
+        These hybridoma cells divide and produce millions of monoclonal antibodies specific to the original antigen
+
+    Pregnancy test kits
+        Pregnancy test kits use monoclonal antibodies. These have been designed to bind with a hormone called HCG which is found only in the urine of pregnant women. Monoclonal antibodies are attached to the end of a pregnancy test stick onto which a woman urinates.
+
+    Cancer diagnosis and treatment
+
+        Cancerous cells have antigens. Monoclonal antibodies can be designed to bind specifically with these antigens. When injected into a person's body, the monoclonal antibodies will bind with these cancer cells andclump them together. This makes it easier to identify a cancerous tumour, which can then be treated or removed.
+
+Benefits, limits & ethical issues of monoclonal antibodies
+
+Benefits
+
+Monoclonal antibodies
+ can be designed to bind to, and identify, almost any substance. They can be used for many purposes:
+
+testing for pregnancy by detecting HCG hormones in urine
+testing for diseases such herpes and chlamydia, and HIV which can lead to the development of AIDS
+to treat conditions like cancer by carrying drugs directly to the tumour cells, and helping the immune system attack them
+monoclonal antibodies can be produced quickly despite the fact that it can be time consuming when they are made for the first time
+
+    Limitations
+        The human body is very complicated. Scientists originally thought that monoclonal antibodies would be a 'magic bullet' and would be able to identify and treat many medical conditions. 
+        Tests have revealed, however, that this is not the case. 
+        The interactions in the human body has resulted in unwanted side effects. This means they are not as widely used by doctors as originally thought.
+    Monoclonal antibodies are also very expensive to produce.
+
+    Ethical issues
+        An ethical issue is one in which people disagree for religious or other moral reasons. The first step in making a monoclonal antibody is to inject a mouse with an antigen. After it has produced antibodies, a small operation removes spleen cells, which then continue make the antibodies. Some people disagree with this use of animals to produce monoclonal antibodies

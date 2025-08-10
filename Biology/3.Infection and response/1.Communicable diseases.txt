@@ -1,0 +1,144 @@
+Communicable diseases
+Pathogens are disease-causing viruses, bacteria, fungi or protists, which can infect animals and plants. Humans have an immune system, which can defend them from pathogens.
+
+Pathogens
+    A pathogen is a microorganism that causes a disease. There are four main types of pathogen:
+
+    Pathogen	      Example in animals	        Example in plants
+    Viruses	HIV       potentially leading to AIDS	Tobacco mosaic virus
+    Bacteria	      Salmonella	                Agrobacterium
+    Fungi	          Athlete's foot	            Rose black spot
+    Protists	      Malaria	                    Downy mildew
+
+    All types of pathogen have a simple life cycle. They infect a host, reproduce themselves or replicate if it is a virus, spread from their host and infect other organisms. They also all have structural adaptations that make them successful at completing their life cycles, which enable them to cause further disease.
+
+    Diseases caused by pathogens are called communicable diseases. This means they can be transferred from one person to another.
+
+    There are other types of disease which cannot be caught:
+        Inherited genetic disorders like cystic fibrosis.
+        Deficiency diseases which are caused by a lack of essential vitamins or minerals, such as scurvy which occurs when an individual has insufficient vitamin C.
+        Diseases like cancer that develop as a result of exposure to carcinogens or develop naturally as cell division occurs incorrectly.
+
+    All organisms are affected by pathogens. Even bacteria are infected by certain types of virus. Some of these infections can be transferred to organisms of a different species.
+
+    Transmission, (The spreading of pathogenic disease, for example by touch, food, water) can occur in a number of important ways, as shown in the table below.
+
+    Type	                     Examples
+    Direct contact	             This can be sexual contact during intercourse or non-sexual contact, like shaking hands.
+    Water	                     Dirty water can transmit many diseases, such as the cholera bacterium.
+    Air	                         When a person who is infected by the common cold sneezes, they can spray thousands of tiny droplets containing virus particles to infect others.
+    Unhygienic food preparation	 Undercooked or reheated food can cause bacterial diseases like Escherichia coli which is a cause of food poisoning.
+    Vector	                     Any organism that can spread a disease is called a vector. Many farmers think tuberculosis in their cattle can be spread by badgers.
+
+Viral Diseases
+    Viruses are not alive because they do not complete all of the seven life processes: Movement, Respiration, Sensitivity, Nutrition, Excretion, Reproduction and Growth
+
+    We say 'strains' of virus and not species. They are made of a relatively short length of genetic material DNA which is surrounded by a protein coat.
+
+    The life cycle of a virus is the same as other pathogens. 
+    They can often survive outside a host for long periods of time. 
+    When they have infected a suitable host cell or cells, they replicate themselves within the cell thousands of times. 
+    They do not divide and reproduce, but replicate their DNA and protein coats. 
+    These are then assembled into new virus particles. 
+    The host cell or cells then burst and other nearby cells can be infected with the virus. 
+    This process can be as quick as twelve hours in the case of the Norovirus or several days for Ebola
+        Norovirus - A common 'upset tummy' infection caused by a virus which is highly contagious.
+        Ebola - Often fatal disease caused by a virus which originated in Africa.
+    
+    Tobacco mosaic virus
+        The tobacco mosaic virus infects tobacco and lots of other closely related species, such as tomatoes and peppers. It is transmitted by contact between plants, either naturally or through the hands of farmers. It infects the chloroplasts of plant leaves and changes their colour from green to yellow or white in a mosaic pattern. It can also make leaves crinkle or curl up.
+
+        There is no cure therefore farmers must try to reduce the infection to their crops or attempt to reduce the spread of the virus.
+    HIV/AIDS
+        HIV stands for human immunodeficiency virus. This infection is transmitted by body fluids, often during unprotected sex, but also through cuts and injecting drugs using shared needles. Immediately after infection, people often suffer mild flu-like symptoms. These pass and for a period of time infected people might not know they are infected.
+
+        AIDS stands for acquired immune deficiency syndrome. Months or years after the infection of the HIV virus, it becomes active and starts to attack the patient's immune system. HIV at this point has become AIDS.
+
+        There is no cure for HIV /AIDS although many scientists are trying to find one. Currently, infected people are given antiviral drugs, which can slow the development of AIDS.
+    Measles
+        Measles is a very infectious viral disease that is often caught by young children. 
+        It is transmitted through the air in tiny droplets after an infected person sneezes. 
+        It causes a fever and skin rash. 
+        Many children in developed countries are given vaccines against measles, but sadly this is not the case throughout the world. 
+        Infection can cause more serious effects like infertility in adults who did not catch the disease as children.
+Bacterial diseases
+    Not all bacteria are pathogens which cause disease. Many bacteria, like those found in the intestines, are useful. 
+    All bacteria are prokaryotes, and do not have a nucleus. Unlike viruses, they are cells and so are larger but cannot be seen without a microscope.
+
+    Gonorrhoea
+        Gonorrhoea is a sexually transmitted disease (STD) caused by a bacterium. It is a common infection, especially amongst people aged 15-24.
+        Gonorrhoea causes a burning pain when urinating and often forms a thick yellow or green discharge from an infected person's penis or vagina. If untreated it can result in infertility. 
+
+        Many of the antibiotics which were effective against bacterial diseases like gonorrhoea are not as effective as they used to be. This is because bacteria are evolving to become resistant to existing antibiotics. Scientists are constantly trying to find new antibiotics to treat these diseases.
+    Salmonella
+        Salmonella is a genus of bacteria that causes food poisoning. 
+        This often means abdominal cramps, vomiting and diarrhoea. 
+        It is often found in unhygienic kitchens, undercooked foods such as meat, eggs and poultry, or the same foods that have not been reheated properly. 
+        To prevent the spread ofsalmonella in the UK, all poultry are vaccinated against it. 
+        Cooking food thoroughly, after preparing it in hygienic conditions, is the best way to avoid illness.
+
+
+    Cook food and keep below 5* within 90 minutes
+    If there is one bacteria it can become five hundred million in few hours by the time you eat it
+    Clean
+    Cooking through cooking
+    chilling: never chill food in fridge as it raises inside temperature
+    cross contamination : jiuce from raw meat can contaminate salads etc
+Protist diseases
+    Protists are a group of microorganisms that have features that belong to animals, plants and fungi. Some are like animals, others more like plants and some, called moulds are closest to fungi. 
+    They are all eukaryotic, which means they have a nucleus.
+
+    Malaria
+        Malaria is spread by mosquitos which carry the Plasmodium protist. 
+        These are often found in areas with higher temperatures like Africa, Asia, and South and Central America, but not the UK.
+        Mosquitos suck blood containing the protists from an infected person. 
+        They pass the protist, to other people they suck blood from. The mosquitos do not become ill and are called 'vectors' because they transmit the disease.
+
+        The symptoms of malaria include a fever, sweats and chills, headaches, vomiting and diarrhoea. Damage is also caused to the blood and liver.
+
+Fungal diseases
+    Not all fungi cause disease. Yeast is a single-celled fungus that is economically important because we use it to make some bread and beer. Not all fungi are single-celled. Some such as mushrooms are multicellular and so much larger. These are still made of tiny cells like yeast, but have many more of them. Fungal cells have a nucleus and so are eukaryotic.
+
+    Athlete's foot is a rash caused by a fungus that is usually found between people's toes. It causes dry, red and flaky or white, wet and cracked skin. It is often found in communal areas like swimming pool changing rooms or gyms. It is transmitted by touching infected skin or surfaces that have been previous contaminated.
+
+    Rose black spot is caused by a fungus which infects roses. It infects leaves and causes black or purple spots on the leaves. The rest of the leaves often turn yellow and can drop off the plant. This reduces that plant's ability to photosynthesise and reduces growth. It can be transmitted in air or water, as well as through direct contact by gardeners. It is treatable using fungicides and by removing and destroying infected leaves.
+
+    How to prevent the spread of diseases
+        The transmission of pathogens can be prevented or reduced in a number of ways. A number of important methods of doing this are shown in the table below.
+
+    Method	                    Example	       How it works
+    Sterilising water	       	Cholera        Chemicals or UV light kill pathogens in unclean water.
+    Suitable hygiene - food	    Salmonella	    Cooking foods thoroughly and preparing them in hygienic conditions kills pathogens.
+    Suitable hygiene - personal	Athlete's foot	Washing surfaces with disinfectants kills pathogens. Treating existing cases of infection kills pathogens.
+    Vaccination	                Measles	        Vaccinations introduce a small or weakened version of a pathogen into your body, and the immune system learns how to defend itself.
+    Contraception	            HIV/AIDs	    Using barrier contraception, like condoms, stops the transfer of bodily fluids and sexually transmitted diseases.
+
+Non-specific human defence systems against disease
+    The body is constantly defending against attacks from pathogens. The first line of defence against infection stops the pathogens from entering your body. These first lines are general defences, and are not specific to fight against certain types of pathogen. They are called non-specific, and they can be physical or chemical barriers.
+
+    Skin
+        The skin covers almost all parts of your body to prevent infection from pathogens. If it is cut or grazed it immediately begins to heal itself, often by forming a scab, which prevents infection as the skin acts as a physical barrier. Parts of the body that do not have skin have developed other ways to prevent infection. For example, the eyes produce tears, which contain enzymes, and these are chemical barriers.
+
+    Nose
+        The nose has internal hairs, which act as a physical barrier to infection. Cells in the nose produce mucus. This traps pathogens before they can enter the lungs. When the nose is blown, mucus is removed and any pathogens are trapped within it.
+    
+    Trachea and bronchi
+        The trachea runs from the nose towards the lungs. The cells that line the trachea also have hairs called cilia, which are much smaller than those in the nose. These are called ciliated cells. The ciliated cells waft their hairs and move mucus and pathogens upwards towards the throat where it is swallowed into your stomach. Other cells called goblet cells create the mucus in order to trap pathogens. The production of mucus in your airways is a physical barrier.
+
+    Stomach
+        Stomach acid is part of the body's non-specific first line of defence. It is hydrochloric acid and while it does us no harm, it is strong enough to kill any pathogens that have been caught in mucus in the airways or consumed in food or water.
+
+The immune system of the human body in defence against disease
+
+    If pathogens pass the non-specific first line of defence they will cause an infection. However, the body has a second line of defence to stop or minimise this infection. This is  called the immune system. As a part of this there are two types of white blood cell called phagocytes and lymphocytes.
+
+    Phagocytes
+        Phagocytes surround any pathogens in the blood and engulf them. They are attracted to pathogens and bind to them.
+        The phagocytes membrane surrounds the pathogen and enzymes found inside the cell break down the pathogen in order to destroy it. As phagocytes do this to all pathogens that they encounter, they are called 'non-specific'.
+    Lymphocytes
+        Lymphocytes are another type of white blood cell. They recognise proteins on the surface of pathogens called antigens. 
+        Lymphocytes detect that these are foreign not naturally occurring within your body and produce antibodies. 
+        This can take a few days, during which time you may feel ill. 
+        The antibodies cause pathogens to stick together and make it easier for phagocytes to engulf them.
+
+        Some pathogens produce toxins which make you feel ill. Lymphocytes can also produce antitoxins to neutralise these toxins. Both the antibodies and antitoxins are highly specific to the antigen on the pathogen, thus the lymphocytes that produce them are called 'specific'.

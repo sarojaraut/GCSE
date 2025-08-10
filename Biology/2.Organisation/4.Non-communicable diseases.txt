@@ -1,0 +1,129 @@
+4.Non-communicable diseases
+Health is the state of physical and mental well-being. Factors work together and affect physical and mental health. A disease is a disorder that affects an organism's body, organs, tissues or cells.
+
+    Different types of disease
+        communicable, which can be transferred from one person to another, or from one organism to another, eg in humans, these include measles, food poisoning and malaria
+        non-communicable, which are not transferred between people or other organisms. Cancer, diabetes, heart desease, neurological disorder, genetic disease and conditions
+
+        Other factors that can have major effects on physical and mental health include:
+        diet , life style(How people choose to live.) stress(The body's response to mental or emotional pressure.)
+
+    Different types of disease may interact.
+        Defects in the immune system mean that an individual is more likely to suffer from infectious diseases.
+        Viruses living in cells can be the trigger for cancers. For instance, the majority of cases of cancer of the cervix are linked with a virus present in the female reproductive system.
+        The reaction of the immune system to pathogens and other foreign bodies can trigger allergic reactions that lead to skin rashes and asthma. 
+    Cancer and carcinogens
+    Cancer
+    Cells grow then divide by mitosis only when we need new ones – when we’re growing or need to replace old or damaged cells.
+    When a cell becomes cancerous, it begins to grow and divide uncontrollably. New cells are produced – even if the body does not need them.
+    A group of cancerous cells produces a growth called a tumour.
+
+    There are two types of tumour - benign and malignant. 
+    Benign	Grows slowly; usually grow within a membrane, so can easily be removed; does not invade other parts of the body
+    Malignant	Grows quickly; invades neighbouring tissues and can spread to other parts of the body in the bloodstream; as the tumour grows, cancer cells detach and can form secondary tumours in other parts of the body - this is called metastasis.
+
+    At some point, secondary tumours may develop.
+        Tumor secrets chemicals
+        The chemicals stimulates blood vessels to grow around the tumor
+        cancer cells detach from the tumor and are transported in the blood
+        A malignant cell squeezez through the blood capilary wall
+        The cell devide and secondary tumor start to grow
+
+    What causes cancer?
+        There are genetic factors that increase the likelihood of developing some cancers.
+        Chemicals and other agents that can cause cancer are called carcinogens
+        Carcinogens cause cancer by damaging DNA
+        Carcinogens cause mutations to occur. A single mutation will not cause cancer – several are required. For this reason, we are more likely to develop cancer as we get older.
+
+    There are several risk factors for various types of cancers including:
+
+        Lifestyle factors:viruses linked with cancer, such as the human papilloma virus (HPV), being spread from person to person through sexual intercourse
+        the chemical carcinogens in cigarette smoke increasing the risk of lung cancer
+        alcohol intake is linked with certain cancers
+        exposure to ultraviolet radiation, part of which is ionising, during sunbathing or outdoor activities, leading to the development of skin cancers
+        diet, including fat and salt intake, increases the risk of cancer
+
+        Industrial and environmental factors at work:
+        exposure to ionising radiation increases the risk factor
+        exposure to chemical carcinogens
+        There are also genetic risk factors for some cancers.
+    Risk factors and causal mechanisms
+    Scientists look for patterns in data.
+        Research has established links between cancer and various lifestyle factors, chemicals produced in the body, or that enter the human body, and chemicals in the environment.
+
+        Scientists have established several causal mechanisms for risk factors.
+
+        Correlation and cause
+        If there is a correlation between a particular factor and an outcome, it does not mean that the factor necessarily causes the outcome. Scientists must look for a possible mechanism by which the factor could be the likely cause.
+    Smoking and cardiovascular disease
+        Smoking damages the lining of the arteries, including the coronary arteries. The damage encourages the build-up of fatty material in the arteries. This can lead to a heart attack or a stroke.
+        Inhalation of carbon monoxide in cigarette smoke reduces the amount of oxygen that can be carried by the blood.
+        The nicotine in cigarette smoke increases the heart rate, putting strain on the heart.
+        Chemicals in cigarette smoke increase the likelihood of the blood clotting, resulting in a heart attack or stroke.
+
+    A person may develop COPD – chronic obstructive pulmonary disease. This condition includes the diseases chronic bronchitis and emphysema. In COPD:
+        smoking damages the bronchioles and can eventually destroy many of the alveoli in the lungs
+        the airways become inflamed and mucus, which normally traps particles in the lungs, builds up
+        the patient becomes breathless, and finds it more and more difficult to obtain the oxygen required for respiration
+    Lung cancer
+        The carcinogens in cigarette smoke also cause lung cancer. Almost all cases of lung cancer are caused by smoking – smaller numbers of cases are linked with air pollution and ionising radiation from radon gas, a radioactive element found in the environment in some parts of the country.
+
+    Effects of smoking on babies
+        For mothers who smoke during pregnancy:
+
+        smoking increases the risk of miscarriage
+        the babies and children are more likely to suffer from respiratory infections and an increased risk of asthma
+        the long-term physical growth and intellectual development of the baby/child is affected
+        there is an increased risk of birth defects
+        the birthweight of the baby is reduced
+
+    Effects of alcohol on liver and brain function and unborn babies
+    Drinking excess alcohol can damage the liver, the organ responsible for processing and breaking down alcohol.
+        the patient begins by feeling sick, experiences weight loss, loss of appetite, there is a yellowing of the eyes, confusion, drowsiness and vomiting blood
+        alcohol causes lipids to build up in the liver - fatty liver disease
+        alcohol damage leads to alcoholic hepatitis(Inflammation or swelling of the liver, for example because of infection by a virus or drinking too much alcohol.), which can lead to death
+        cirrhosis(Scarring of the liver, which can be caused by alcoholism or hepatitis.) of the liver can develop – the liver becomes scarred and loses its ability to function
+        changes are now irreversible and the reduced ability to process alcohol can also lead to brain damage
+
+        Alcohol affects the brain in several ways, it:
+            slows reaction time
+            causes difficulty walking
+            can impair memory
+            causes slurred speech
+            causes changes in sleep patterns and mood, including increased anxiety and depression
+
+        Longer term drinking of excess alcohol:
+            causes brain shrinkage
+            leads to memory problems
+            leads to psychiatric problems
+            may result in the patient requiring long-term care
+
+        Alcohol can lead to a variety of physical, developmental and behavioural effects on the fetus.
+            is smaller in size
+            has a smaller brain with fewer neurones
+            will have long-term learning and behavioural difficulties
+            has distinct facial features
+
+    Effect of lifestyle factors on exercise, nutrition and obesity
+        Obesity leads to high blood pressure and the build-up of fatty deposits in the arteries, which lead to cardiovascular disease. It also increases the likelihood of developing diabetes, another risk factor cardiovascular disease.
+
+    Type 2 diabetes is where the body's cells lose their sensitivity to insulin - they no longer respond, or respond less effectively, to the insulin that's produced.
+
+    Obesity accounts for 80 to 85% of the risk of type 2 diabetes. Rising obesity is linked with 'western diet' - a diet that includes energy-rich 'fast foods' and an inactive lifestyle.
+
+    There is no cure for type 2 diabetes, but it may be possible to control it by diet and exercise.
+
+    The principles of sampling
+
+        Epidemiology is the study of the distribution and patterns of health and disease, in and across populations.
+        Scientists study the incidence of disease, using medical records, and use medical research to investigate causes of disease.
+        When investigating health and disease, and risk factors are involved, scientists can't study every person on the planet. Scientists must study samples
+
+.   To obtain a representative sample:
+        the study must be wide, and cover all groups in the population being studied
+        the study must be random within these groups
+
+    Line graphs
+        Line graphs display data where both variables are continuous.
+
+    Scatter graphs, or scatter diagrams, look at a possible correlation between two variables. Large amounts of data are usually recorded to investigate trends, and scatter graphs are particularly useful for analysing this kind of data.

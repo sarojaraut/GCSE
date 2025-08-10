@@ -1,0 +1,40 @@
+Fundamentals of algorithms
+
+Algorithms are step-by-step plans for solving problems. They can be designed using pseudo-code and flowcharts.
+The focus is the on the logic of the steps involved, instead of programming language
+
+Decomposition : is breaking a problem down into smaller, more manageable chunks. In programming, this means breaking down an algorithm into smaller problems that can be solved on their own.
+
+Abstraction : is the process of removing unnecessary detail from a problem so that the important details can be focused on. This can make solving the problem easier.
+
+Pseudo-code : Pseudo-code is a simple way of describing a set of instructions in a manner that resembles a programming language.
+
+For example, if a person was writing a program where a number is input and the program calculates and outputs the times table up to ten, they could write a statement like this:
+
+The user INPUTS a number which is saved as num
+FOR each number from 1 to 10, OUTPUT num*number
+
+num ← USERINPUT
+FOR number ← 1 TO 10
+  OUTPUT number * num
+ENDFOR
+The ← symbol in pseudo-code means assignment, Most programming languages use =
+Outputs use the word OUTPUT before the data to be sent to the user
+Processing refers to any operation the computer system is performing on data, for example doing a calculation or searching for something. In OUTPUT number * num. the program is actually performing a calculation within the output, so it is possible to see statements which combine one or more of these.
+
+Flowcharts
+A flowchart is a diagram that shows an overview of an algorithm and it uses standard symbols or shapes to represent different elements.
+
+Arrows or lines to represent flow from one component to another
+rectangle as a process or action
+rectangle with two vertical lines near both ends represents subroutine
+parallelogram : represents input/output
+diamond : decission
+rouneded corned rectangle : start and stop
+
+Determining the purpose of simple algorithms
+Sometimes it is clear as the algorithm is simple; however, at other times it is useful to ‘dry run’ the algorithm to see what is taking place.
+Trace tables enable the variable values in an algorithm to be recorded as the algorithm is dry run.
+
+Efficiency of algorithms
+Efficiency looks at how much time it takes to run a particular algorithm and how much space is needed. By using both measurements, an algorithm that looks much more complex can actually be more efficient.

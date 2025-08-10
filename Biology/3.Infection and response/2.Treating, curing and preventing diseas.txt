@@ -1,0 +1,131 @@
+2.Treating, curing and preventing disease
+
+    Vaccinations
+    Herd immunity
+    Antibiotics and painkillers
+    Antibiotic resistance
+    Bacterial growth in cultures
+    Bacterial calculations
+    How do antiseptics affect the growth of bacteria?
+    The effect of antibiotics and antiseptics
+    The discovery of new drugs
+    The development and testing of new drugs
+
+Vaccinations
+    Pathogens are microbes that cause diseases. Vaccines allow a dead or altered form of the disease causing pathogen to be introduced into the body, which contain a specific antigen. This causes the immune system, specifically the white blood cells, to produce complementary antibodies, 
+    which target and attach to the antigen. When a white blood cell engulfs and digests a pathogen it is called phagocytosis.
+
+    During the primary infection the antibodies slowly increase, peak at around ten days and then gradually decrease. 
+    A second exposure to the same pathogen causes the white blood cells to respond quickly in order to produce lots of the relevant antibodies, which prevents infection.
+
+Herd immunity
+    Following a vaccination, a person can become immune to the specific disease. This immunity gives protection against illness in an individual. The majority of the population must be vaccinated against serious diseases, which can reduce the chance of people coming int contact with specific pathogens, leading to herd immunity.
+
+    If the number of people vaccinated against a specific disease drops in a population, it leaves the rest of the population at risk of mass infection, as they are more likely to come across people who are infected and contagious. This increases the number of infections, as well as the number of people who could die from a specific infectious disease.
+
+Antibiotics and painkillers
+    Different types of medicines are available to treat many different diseases. Some medicines only treat the symptoms and others cure the disease by killing the pathogens
+    Drug types
+        Painkiller
+        Antibiotics
+    Painkillers
+        are chemicals that relieve the symptoms but do not kill the pathogens. Common examples include paracetamol and aspirin, and they can relieve a headache or a sore throat.As the symptoms are treated, your immune system still needs to combat the pathogen.
+    Antibiotics
+        Antibiotics are substances that slow down or stop the growth of bacteria. They are commonly prescribed medicines, examples include penicillin and amoxicillin. These can be taken to cure the disease by killing the pathogen, but only cure bacterial diseases and not viral ones.
+
+        penicillin : An antibiotic produced by a fungus, Penicillium. Discovered by Alexander Fleming.
+        Different bacteria cause different diseases. One antibiotic may only work against one type of bacteria, or a few types
+
+    Viral diseases 
+        Viral diseases cannot be cured by antibiotics, as they reproduce inside the host cells. It is very difficult to develop antiviral drugs, as they might damage the host cell whist killing the virus. Antiviral drugs only slow down viral development, and viruses change their antigens quickly which means new drugs have to be generated regularly.
+
+    A virus enter a cell
+    substance in the cell begin to strip of virus's outer coat of protien
+    The nuclic acid in the center of virus is released
+    The viral nuclic acid gets into the cells chemical manufacturing process
+    The cell ignores it own chemical needs and starts making new viruses
+    The cell is sometimes destroyed in the process and many of the new viruses are released to infect other cells
+Antibiotic resistance
+    Since Penicillin was discovered in 1928, the use of antibiotics for the treatment of diseases has increased exponentially. Antibiotics are being overused in many ways in our world today.
+
+    Problems with antibiotics
+        Commonly prescribed antibiotics are becoming less effective due to a number of reasons:
+            overuse of antibiotics
+            failing to complete the fully prescribed course by a doctor
+            use of antibiotics in farming
+    
+    These can lead to the effectiveness of antibiotics being reduced, and the incidence of antibiotic resistance increasing. These bacteria are commonly known as superbugs.
+    
+    Patients should always fully complete the prescribed course of antibiotics, every time they are taken. This ensures all bacteria are killed, and so none survive which can subsequently mutate and produce resistant strains. Patients begin to feel well after a few days of taking the medicine, and stop taking them
+
+    Ways to reduce antibiotic resistance
+        Only take antibiotics when necessary.
+        Treat specific bacteria with specific antibiotics.
+        High hospital hygiene levels, including regular hand washing by staff and visitors.
+        Patients who are infected with antibiotic resistant strains of bacteria should be isolated from other patients
+
+    The development of new antibiotics stopped years ago, as they were hailed as the solution to a very difficult disease control problem.
+
+Bacterial growth in cultures
+    Bacteria can replicate approximately every 20 minutes by binary fission, which is a simple form of cell division. This level of replication will depend on the availability of nutrients and other suitable conditions such as temperature
+
+    There are many ways to culture bacteria, and these include:
+        nutrient broth solution
+        colonies on an agar plate
+
+    Nutrient broth solution or culture medium, allows a liquid or gel to provide all the nutrients needed for bacteria to grow successfully. These must include: carbohydrates for energy, nitrogen for protein synthesis, plus other minerals.
+
+    Agar plates are created by pouring hot molten agar into sterile Petri dishes, which are then allowed to set. Bacteria can be spread onto the plates, and allowed to form individual colonies of the specific bacterium.
+
+        Petri dish : A clear glass or plastic dish, used to grow living cells from organisms so they can be studied.
+        agar plate : A Petri dish that contains agar gel and usually some nutrients. Agar plates are used to culture (grow) bacteria and fungi in the lab.
+
+    Bacterial calculations
+        Bacteria reproduce at regular intervals, an example might be every 20 minutes. This allows mathematical calculations to be undertaken in order to predict how many bacteria will be present in a given time. For a higher mark, you could express answers in standard form.
+
+        The mean division time for a bacterial population is 30 minutes. Calculate how many bacteria will be present after 8 hours, when starting with 1 bacterium.
+        60 minutes ÷ 1 division every 30 minutes = 2 divisions per hour.
+
+        2 divisions × 8 hours = 16 total divisions. Therefore 1 × 2**16 = 1 × 65,536 which is 65,536 bacteria or 6.55 × 104 bacteria in standard form.
+
+How do antiseptics affect the growth of bacteria?
+    https://www.bbc.co.uk/bitesize/guides/z8fkmsg/revision/7
+Calculating the effect of antibiotics and antiseptics
+
+The discovery of new drugs
+    New drugs are being developed all the time. Historically drugs have come from nature, as parts of plants and microorganisms have been extracted. One of the most famous discoveries was made by Sir Alexander Fleming, who discovered penicillin from the Penicillium mould.
+
+    Plant extracts
+        Certain drugs can be extracted from natural sources, and have been known about for a long time
+        For example, willow bark was used by the ancient Greeks to help cure fevers and pains. It was later discovered that the active ingredient was salicylic acid. This was modified by chemists into the substance we call aspirin
+
+        Plants are still important today, but most plant drugs are now created in a laboratory by scientists at pharmaceutical companies. 
+        These companies now have synthetic versions of the plant extracts, and use these as the starting point to develop new drugs.
+
+    New medical drugs have to be tested to ensure that they work, and are safe, before they can be prescribed.
+
+    Thalidomide
+        Thalidomide is a medical drug that caused unexpected and serious damage to unborn babies in the 1950s and 1960s. Thalidomide was developed as a sleeping pill, but it was also thought to be useful for easing morning sickness in pregnant women. Unfortunately, it had not been tested for use in this way.
+
+    Birth defects
+        By 1960 thalidomide was found to damage the development of unborn babies, especially if it had been taken in the first four to eight weeks of pregnancy. The drug led to the arms or legs of the babies being very short or incompletely formed. More than 10,000 babies were affected around the world. As a result of this disaster, thalidomide was banned. Drug testing was also made more rigorous than before.
+
+    Thalidomide today : Thalidomide is now used as a treatment for leprosy and bone cancer. Its use is heavily regulated, however, to prevent a repeat of the problems it caused in the last century.
+
+The development and testing of new drugs
+    New drugs need to be tested and trialled before doctors prescribe them and patients take them. This allows drugs to be checked for:
+
+    safety
+    effectiveness
+    dosage
+
+    Three stages of testing drugs
+    There are three main stages of testing:
+
+        The drugs are tested using computer models and skin cells grown using human stem cells in the laboratory. This allows the efficacy and possible side effects to be tested. Many substances fail this first test of a preclinical drug trial because they damage cells or do not seem to work.
+
+        Drugs that pass the first stage are tested on animals in the second part of a preclinical drug trial. In the UK, new medicines have to undergo these tests. But it is illegal to test cosmetics and tobacco products on animals. A typical test involves giving a known amount of the substance to the animals, then monitoring them carefully for any side-effects.
+
+        Drugs that have passed animal tests are used in human clinical trials. They are tested on healthy volunteers to check that they are safe. The substances are then tested on people with the illness to ensure that they are safe and that they work. Low doses of the drug are used initially, and if this is safe the dosage increases until the optimum dosage is identified.
+
+        

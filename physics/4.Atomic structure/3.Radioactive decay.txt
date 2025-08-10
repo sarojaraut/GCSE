@@ -1,0 +1,43 @@
+An atom’s nucleus can only be stable if it has a certain amount of neutrons for the amount of protons it has.
+
+As the number of protons increases in periodictable more neutrons are needed to keep the nucleus stable. For example lead, lead-206 has 82 protons and has 124 neutrons.
+
+Nuclei with too many, or too few, neutrons do exist naturally but are unstable and will decay by emitting radiation.
+
+If the nucleus has too few neutrons, it will emit a ‘package’ of two protons and two neutrons called an alpha particle. An alpha particle is also a Helium-4 nucleus. After alpha decay mas number reduced by 4 and atomic number reduced by 2.
+
+
+If the nucleus has too many neutrons, a neutron will turn into a proton and emit a fast-moving  electron
+. This electron is called a beta (β) particle - this process is known as beta radiation.
+
+After emitting an alpha or beta particle, the nucleus will often still be too ‘hot’ and will lose energy in a similar way to how a hot gas cools down.
+A hot gas cools by emitting infrared radiation which is an electromagnetic wave.
+High energy particles will emit energy as they drop to lower energy levels.
+Since energy levels in the nucleus are much higher than those in the gas, the nucleus will cool down by emitting a more energetic electromagnetic wave called a gamma ray.
+
+Gamma ray emission causes no change in the number of particles in the nucleus meaning both the atomic number and mass number remain the same.
+
+Alpha radiation a pair of neutron and proton
+Beta radition neutron turns into proton and eject an electron. Electron comss from nucleus but not from outer shell. like ionisation
+
+alpha : penetrating power : obstructed by paper or skin, range in air is less than 5cm.
+beta : penetrating power : obstructed by 3mm al foil, range in air is around 1 meter.
+gamma : penetrating power : obstructed by lead or concrete wall, range in air is more than 1 KM.
+
+Neutron emission
+Occasionally it is possible for a neutron to be emitted by radioactive decay.
+This can occur naturally, ie absorption of cosmic rays high up in the atmosphere can result in neutron emission, although this is rare at the Earth’s surface. Or it can occur artificially, ie the work done by James Chadwick firing alpha particles at Beryllium resulted in neutrons being emitted from that.
+
+Half life
+
+Radioactive decay is a random process. A block of radioactive  material will contain many trillions of
+nuclei  and not all nuclei are likely to decay at the same time so it is impossible to tell when a  particular nucleus will decay.
+
+Half-life is the time it takes for half of the unstable nuclei in a sample to decay or for the activity of the sample to halve or for the count rate to halve. Count-rate is the number of decays recorded each second by a detector, such as the Geiger-Muller tube.
+
+Uranium 238, emits an alpha particle to become what nucleus? U has 92 protons and after emiting 2 protons it becomes Thorium 234 with 90 protons
+
+Carbon 14 with 8 neutorn after beta radition gains an extra proton and ejects an electron to become Nitrogen 14, with 7 neutrons
+
+Irradiation
+

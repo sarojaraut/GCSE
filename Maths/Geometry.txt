@@ -1,0 +1,284 @@
+### Angles, lines and polygons
+
+An acute angle is an angle less than 90°.
+An obtuse angle is an angle between 90° and 180°.
+A reflex angle is an angle between 180° and 360°.
+
+Angles in parallel lines
+Parallel lines are lines which are always the same distance apart and never meet.
+
+intersecting transversal
+Corresponding angles :same size two angles on hands of F shape
+Alternate angles: same size angles at opposite side of trsnsverse
+Vertically opposite angles : opposite angles of x shape
+
+A scalene triangle has 3 sides of different lengths and 3 unequal angles.
+An isosceles triangle has 2 sides of equal length. The dashes on the lines show they are equal in length. The angles at the base of the equal sides are equal.
+An equilateral triangle has 3 sides of equal length. The dashes on the lines show they are equal in length. All of the angles are also equal.
+A right-angled triangle is a triangle that has a right angle.
+
+Square
+A square has four sides of equal length.
+It has four right angles (90°).
+The opposite sides are parallel.
+The diagonals bisect each other at right angles.
+
+Rectangle
+A rectangle has two pairs of equal sides.
+It has four right angles (90°).
+The opposite sides are parallel.
+The diagonals bisect each other.
+
+
+Parallelogram
+A parallelogram has two pairs of equal sides.
+It has two pairs of equal angles.
+The opposite sides are parallel.
+The diagonals bisect each other.
+
+
+Rhombus
+A rhombus has four sides of equal lengths.
+It has two pairs of equal angles.
+The opposite sides are parallel.
+The diagonals bisect each other at right angles.
+
+
+Trapezium
+A trapezium has one pair of parallel sides.
+
+Kite
+A kite has two pairs of equal sides.
+It has one pair of equal angles.
+The diagonals bisect at right angles.
+
+Polygons
+POlygons are 2D shapes with straight sides
+If the angles are all equal and all the sides are equal length it is a regular polygon.
+The formula for calculating the sum of interior angles is: (n-2)*180,  n is the number of sides
+
+The sum of the exterior angles of a polygon is 360°.
+
+Lines of symmetry
+A shape can be folded to see if it has a line of symmetry(when half of 2D shape can be reflected in the mirror line called as line of symetry)
+
+The number of lines of symmetry in a regular polygon is equal to the number of sides.
+
+Rotational symmetry
+A shape has rotational symmetry when it can be rotated and it still looks the same.
+
+The order of rotational symmetry of a shape is the number of times it can be rotated around a full circle and still look the same.
+
+The minimum order of rotational symmetry a shape can have is 1.
+
+If the triangle is rotated a full 360°, it never looks the same except when it arrives back at its original starting position. It only has one order of rotational symmetry, the starting position
+
+A regular star with five corners has rotational symmetry of five
+
+Square: four lines of symmetry and rotational symmetry of order four.
+Rectangle : two lines of symmetry and rotational symmetry of order two
+Parallelogram : no lines of symmetry,  rotational symmetry of order Two
+Rhombus: two lines of symmetry and rotational symmetry of order two.
+Trapezium : rotational symmetry of order one., Some trapeziums have one line of symmetry. They are called isosceles trapeziums as they have 2 sides of an equal length like isosceles triangles.
+Kite :  one line of symmetry, rotational symmetry of order one
+
+Loci and constructions
+Loci : A locus iThe perimeter is the total distance around the edge of a 2D shape.s a path formed by a point which moves according to a rule. The plural is loci.
+The tip of each hand is always the same distance - equidistant - from the centre of the clock.
+The locus the hands create is a circle.
+
+A locus of points at equal distance around a point is a circle.
+
+2-dimensional shapes
+Triangle (3 sides)
+Quadrilateral (4 sides)
+Pentagon (5 sides)
+Hexagon (6 sides)
+Octagon (8 sides)
+Decagon (10 sides)
+
+A regular polygon has sides that are equal in length and equal angles. A regular triangle is called an equilateral triangle. A regular quadrilateral is called a square.
+
+The perimeter is the total distance around the edge of a 2D shape.
+
+The area of a 2D shape is the amount of space inside it.
+
+trainagle = 1/2bh
+Parallelogram = bh
+Trapezium = 1/2(a+b)h
+
+3-dimensional shapes
+3D shapes have faces, edges and vertices.
+A face is a flat surface.
+An edge is where two faces meet.
+A vertex is a corner where edges meet. The plural is vertices.
+
+A prism is a 3D shape with a uniform cross-section. This means that you would see the same shape no matter where you cut through the shape (parallel to the ends)
+
+A pyramid has a polygon as its base and the rest of its faces are triangles that meet at the same vertex.
+
+Shape Name          faces           edges       vertices
+Cube                6(all square)   12          8
+Cuboid              6(all rectan)   12          8
+Sq based Pyramid    5               8           5
+Tr based Pyramid    4               6           4
+
+The volume of a 3D shape is the space inside it.
+Cube
+    Volume= a**3
+    surface area = 6a**2
+Cuboid
+    Volume= lbh
+    surface area = 2(lb+bh+hl)
+Prisms
+    Volume= Multiply the area of the cross-section by the length
+    surface area = 2(lb+bh+hl)
+Cylinders
+    Volume= pi r**2 h
+    surface area = 2 pi r**2 + 2 pi r h
+Pyramids
+    Volume= 1/3 * area of base * perpendicular height
+    surface area = Sum of area of all surfaces
+    If the base of the pyramid is a regular polygon, each of the triangular faces will be identical
+Cone
+    Volume= 1/3 * pi r**2 h ( h ie heigt of cone)
+    surface area = pi r**2 +  pi r l (l is slanted height)
+Spheres
+    Volume= 4/3 pi r**3
+    surface area = 4 pi r**2
+A cylinder is a 3D shape with a circular cross-section and a curved surface
+
+Plans and elevations
+Plans and elevations are 2D drawings of a 3D shape.
+
+##Circles, sectors and arcs
+    The diameter of a circle is the distance from one side of a circle to the other through the centre.
+    The circumference of a circle is the distance around the circle. It is another name for the perimeter of a circle. 2 pi r
+    The formula to calculate the area of a circle, with radius r is: pi r**2
+More parts of a circle
+    A chord is a straight line joining two points on the circumference of a circle.
+    An arc is a part of the circumference of a circle.
+    A segment is an area enclosed by a chord and an arc.
+    A sector is an area enclosed by two radii and an arc.
+    A tangent is a straight line which touches the edge of a circle.
+
+Arc length
+    A chord separates the circumference of a circle into two sections - the major arc and the minor arc.
+    It also separates the circle into two segments - the major segment and the minor segment.
+    The formula to calculate the arc length is : angle /360 * pi * d
+
+    Sector area : angle /360 * pi * r**2
+
+Circle theorems - Higher
+    Theorem: Mathematical statement that can be demonstrated to be true
+    There are seven circle theorems.
+    An important word that is used in circle theorems is subtend, An angle is created by two chords
+
+
+        The angle subtended by an arc at the centre is twice the angle subtended at the circumference.
+            join a diameter connecting two subtending vertexes and that will make two isosceles triangles. One triangle with angles as x, x, 180-2x and other y, y, 180-2y. This means the suteneded angle at center is 2x+2y and angle subtended at circumference is x+y. hence proved
+
+        The angles at the circumference subtended by the same arc are equal. Put more simply, angles in the same segment are equal.
+            Take a arc and make two anlges at circumference. Now for the same arc make angle at cennter. From previous theorem angle at centre is 2x and angle at circumference is x hence both angles at circumference is same x.
+
+        A cyclic quadrilateral is a quadrilateral drawn inside a circle. Every vertex of the quadrilateral must touch the circumference of the circle. The opposite angles in a cyclic quadrilateral add up to 180°.
+            Opposite angles of quadilateral can be shown as two arcs whose angle subtended at center can be 2x and 2y and their angle subtended at circumference as x and y. 2x+2y=360 hence x+y =180
+
+        The angle at the circumference in a semicircle is a right angle. at center it's 180 hence at circum ference = 180/2
+
+        The angle between a tangent and a radius is 90° and Tangents which meet at the same point are equal in length.
+
+        The perpendicular from the centre of a circle to a chord bisects the chord. Congruent triangles
+
+        The angle between a tangent and a chord is equal to the angle in the alternate segment.
+
+### Transformations
+
+Reflection
+    A shape can be reflected across a line of reflection to create an image.
+    Every point in the image is the same distance from the mirror line as the original shape.
+    The line joining a point on the original shape to the same point on the image is perpendicular to the mirror line.
+
+
+The equation of the line of symmetry
+
+Rotation turns a shape around a fixed point called the centre of rotation.
+
+A translation moves a shape up, down or from side to side but it does not change its appearance in any other way. Every point in the shape is translated the same distance in the same direction.
+
+Describing translations : Column  vectors  are used to describe translations.
+    (4, -3) means 4 squares to right and 3 steps down
+    (-2, 1) means 2 squares to left and 3 steps up
+
+Congruent shapes
+    Two shapes that are the same size and the same shape are congruent.
+        For two triangles to be congruent, one of 4 criteria need to be met.
+            SSS - The three sides are equal (SSS: side, side, side)
+            AA corr S : Two angles are the same and a corresponding side is the same (AA corr S: angle, angle, corresponding side)
+            SAS : Two sides are equal and the angle between the two sides is equal (SAS: side, angle, side)
+            RHS : A right angle, the hypotenuse and a corresponding side are equal (RHS, right angle, hypotenuse, side)
+
+
+Similar shapes
+When a shape is enlarged, the image is similar to the original shape. It is the same shape but a different size.
+
+Two triangles are similar if the angles are the same size or the corresponding sides are in the same ratio.
+
+###Pythagoras' theorem
+
+c**2 = a**2 + b**2
+
+Units of measure
+    speed = distance/time
+    density = mass/volume unit kg/m3 or gm/cm3
+    pressure = force/area, unit is pascal = 1 newton/meter**2
+Converting units of area
+    1 meter sqaure = 100 * 100 cm square, 1 cm square = 10 * 10 mm sqauare
+Converting units of volume
+    1 meter cube = 100*100*100 cm cube
+
+Converting units of speed, density and pressure
+    340 km/h = 340*1000/60*60 = 94.4 m/s
+    The density of gold is 19.3 g/cm3. Convert this into kg/m3: 19.3 * 100*100*100/ 100*100*100 = 19300 kg/m3
+
+##Trigonometric ratios
+
+sin(x) = opposite/hypotenuse, cos(x) =  adjacent/hypotenuse, tan(x) = opposite/adjacent
+
+Angles of elevation and depression
+Trigonometric graphs
+    point on circle of radius 1 and centre at origin = (cos(x), sin(x))
+    Graph of y= sin(x), y=cos(x), y=tan(x)
+
+
+    sin (x) = sin(180-x)
+    con(x) = cos(360-x)
+    Solve sin(x) = 0.5 -360<=x<=360
+    y=0.5 cross sin graph four times : 30, 180-30 and 180+30, 360-30
+
+    Solve cos(x) = 0.5 -360<=x<=360
+    y=0.5 cross sin graph four times : 60, and -60, then 360-60, 60-360
+
+    Sin rule : a/sin(A) = b/sin(B) = c/sin(C)
+    cosine rule : a**2 = b**2 + c**2 - 2bc cos(A)
+    cos(A) = (b**2 + c**2 - a**2)/2bc
+
+    Area of a triangle = 1/2bc sin(A) = 1/2ab sin(C) = 1/2ac sin(B)
+
+## Vectors
+    A vector describes a movement from one point to another. A vector quantity has both direction and magnitude (size).
+    column format(a b)= a is displacement along x axsia dn y is displacement along y axsis
+
+    Vectors are equal if they have the same magnitude and direction regardless of where they are.
+
+    A negative vector has the same magnitude but the opposite direction.
+
+    Vectors can be multiplied by a scalar which changes the size of the vector but not the direction.
+
+    Vectors can be added by drawing the first vector, then starting the second vector where the first vector ends.
+
+    xy + yz = xz : (4 2) + (1 -4) = (4+1 2-4)= (5 -2)
+
+    Subtracting vectors : Subtracting a vector is the same as adding a negative vector.
+
+    Geometric problems can be solved using the rules for adding and subtracting vectors and multiplying vectors by a scalar.

@@ -1,0 +1,141 @@
+
+Cell measurement
+    animal cells are between 0.01 mm – 0.05 mm
+
+    plant cells are between 0.01 mm – 0.10 mm
+
+    The human naked eye can see objects as small as around 0.05 mm. A microscope is required to see cells in any detail.
+    Parts of microscope : eyepiece, objective lens, coarse focus, fine focus, arm, stage, mirror, condensor
+
+    The compound microscope uses two lenses to magnify the specimen – the eyepiece and an objective lens.
+    magnification of the microscope is: magnification of eyepiece × magnification of objective
+    size of real image = (real size of object * magnification)
+    Millimetre, mm = 10 ** -3 metre
+    Micrometre, μm = 10 ** -6 metre
+    Nanometre, nm = 10 ** -9 metre
+
+    1 mm = 1000 μm and i μm = 1000 nm
+
+    When viewing any slide with a microscope, a small square or circle of thin glass called a coverslip is placed over the specimen. It protects the microscope and prevents the slide from drying out when it’s being examined.
+    It is important that no air bubbles are trapped underneath. Most cells are colourless. Stains are used to add contrast. 
+
+    Turn the coarse focus so that the stage is as close to the objective lens as possible. You should not look through the microscope to do this.
+
+    Place the microscope slide – either one you have prepared, or a permanent slide – on the stage. Line it up so that the specimen – if you can see it – is in the centre of the stage, where the light passes through.
+
+    Focus the slide towards you by turning the coarse focus adjustment.
+
+    rotate the objectives so that the high power objective, eg x40, is in line with the stage
+
+    Bring the slide back into focus using the fine focus adjustment. If you do not succeed, go back to low power and re-focus, then try again
+
+    Late 1600s – Dutch scientist Antonie van Leeuwenhoek constructed a microscope with a single spherical lens. It magnified up to ×275.
+
+    1800s - the optical quality of lenses increased and the microscopes are similar to the ones we use today.
+
+    The maximum magnification with a light microscope is around ×1500.
+
+The limits of the light microscope
+    The magnification of a microscope is not the only factor that’s important when viewing cells. The detail that can be seen is also important.
+
+    The ability to see greater detail in an image depends on the resolution or resolving power. This is the ability to see two points as two points, rather than merged into one.
+
+    The resolution of a light microscope is around 0.2 μm, or 200 nm. This means that it cannot distinguish two points closer than 200 nm
+
+    The electron microscope
+        Electron microscopes use a beam of electrons instead of light rays.
+        There are two types of electron microscope:
+            SEM : The scanning electron microscope (SEM) has a large field of view so can be used to examine the surface structure of specimens.
+            TEM : The transmission electron microscope (TEM) is used to examine thin slices or sections of cells or tissue.
+
+        TEMs have a maximum magnification of around ×1 000 000, but images can be enlarged beyond that photographically. The limit of resolution of the transmission electron microscope is now less than 1 nm.
+
+    Animal cells
+        Cytoplasm	A jelly-like material that contains dissolved nutrients and salts and structures called organelles. It is where many of the chemical reactions happen.
+
+        Nucleus	Contains genetic material, including DNA, which controls the cell’s activities.
+
+        Cell membrane	Its structure is permeable to some substances but not to others. It therefore controls the movement of substances in and out of the cell.
+
+        Mitochondria	Organelles that contain the enzymes for respiration, and where most energy is released in respiration.
+
+        Ribosomes	Tiny structures where protein synthesis occurs.  Protein synthesis is a fundamental biological process where genetic information encoded in DNA is used to build proteins like hormones and enzymes
+
+        Most cells are specialised and are adapted for their function. Animals and plants therefore consist of many different types of cell working together.
+    Plant cells
+        Has Cytoplasm, Nucleus, Cell membrane, Mitochondria, Ribosomes also has additional structures
+        Chloroplast	Organelles that contains the green pigment, chlorophyll, which absorbs light energy for photosynthesis. Contains the enzymes needed for photosynthesis.
+
+        Cell wall	Made from cellulose fibres and strengthens the cell and supports the plant.
+
+        Permanent vacuole	Filled with cell sap to help keep the cell turgid.
+    
+    Measuring cell size
+        Cell size can be measured using an eyepiece graticule. The graticule has a scale ruled on it.
+
+        You must find out the distance measured for each division of the graticule. You can then use the graticule to measure cells. The distance will be different for each objective.
+        To do this, you will use a stage micrometer. You will use this to calibrate the eyepiece graticule. Once it's calibrated, you can use the eyepiece graticule every time you use the microscope.
+
+    Comparing sizes
+        ant 3 mm, human hair=100 μm, red blood  cell=7μm, cheek cell=70μm, salmonelia bacterium = 1 μm, hiv virus=100nm, 
+
+        What is the difference in order of magnitude for a human hair and HIV?
+        The width of a human hair is 100 μm, while the width of the HIV is 100 nm.
+        Answer
+            The width of the human hair is 100 μm = 10-4 m
+            The width of the HIV is 100 nm = 10-7 m
+            So, there are three orders of magnitude difference: 3
+
+    Eukaryotes and prokaryotes
+        Cells of bacteria are called prokaryotic cells. they are made of single cells. Their cell structure is simpler than the cells of animals. A group of organisms called Archaea are also prokaryotic.
+        Cells of animals, plants and fungi are called eukaryotic cells
+              	                               
+        Size	                
+        Eukaryotic cell   : Most are 5 μm – 100 μm	               
+        Prokaryotic cell  : Most are 0.2 μm – 2.0 μm
+
+        Outer layers of cell	
+        Eukaryotic cell  : Cell membrane - surrounded by cell wall in plants and fungi	
+        Prokaryotic cell : Cell membrane - surrounded by cell wall
+
+        Cell contents	        
+        Eukaryotic cell  : Cytoplasm, cell organelles include mitochondria, chloroplasts in plants and ribosomes	
+        Prokaryotic cell : Cytoplasm, ribosomes, no mitochondria or chloroplasts
+
+        Genetic material	    
+        Eukaryotic cell  : DNA in a nucleus - plasmids are found in a few simple eukaryotic organisms	
+        Prokaryotic cell : DNA is a single molecule, found free in the cytoplasm - additional DNA is found on one or more rings called plasmids
+
+        Type of cell division	
+        Eukaryotic cell  : Mitosis	
+        Prokaryotic cell : Binary fission
+
+    Plant and animal cells
+        There are many different types of cells in animals. Each type is specialised for a particular role. These ensure that the organism functions as a whole
+
+        Sperm Cell
+            The head of the sperm contains the genetic material for fertilisation. 
+            The acrosome in the head contains enzymes so that the sperm can penetrate an egg. 
+            The middle piece is packed with mitochondria to release energy needed to swim and fertilise the egg. 
+            The tail enables the sperm to swim.
+        nerve cell
+            The nerve cell is extended, so that nerves can run to and from different parts of the body to the central nervous system. 
+            The cell has extensions and branches, so that it can communicate with other nerve cells, muscles and glands. 
+            The nerve cell is covered with a fatty sheath, which insulates the nerve cell and speeds up the nerve impulse.
+        Muscle cells
+            Muscle cells contain filaments of protein that slide over each other to cause muscle contraction. 
+            The arrangement of these filaments causes the banded appearance of heart muscle and skeletal muscle. 
+            They contain many well-developed mitochondria to provide the energy for muscle contraction. 
+            In skeletal muscle, the cells merge so that the muscle fibres contract in unison.
+
+        Plant Cells
+
+        root hair cell
+        The root hair cell has a large surface area to provide contact with soil water. 
+        It has thin walls so as not to restrict the movement of water.
+
+        xylem
+        There are no top and bottom walls between xylem vessels, so there is a continuous column of water running through them. Their walls become thickened and woody. They therefore support the plant
+
+        Phloem
+        Dissolved sugars and amino acids can be transported both up and down the stem. Companion cells, adjacent to the sieve tubes provide energy required to transport substances in the phloem.

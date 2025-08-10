@@ -1,0 +1,103 @@
+Cell division
+
+Chromosomes and DNA
+    Chromosomes carry genetic information in a molecule called DNA. A type of cell division called mitosis ensures that when a cell divides each new cell produced has the same genetic information.
+
+    DNA(Deoxyribonucleic acid) exists in a cell's nucleus within structures called chromosomes. Each section of a chromosome that contains the code for the production of a particular protein is called a gene. 
+
+    Gene is the basic unit of genetic material inherited from our parents. A gene is a section of DNA which controls part of a cell's chemistry - particularly protein production.
+
+    Each chromosome is made from a single molecule of DNA.
+    when a cell is ready to divide, the DNA copies itself, then coils and condenses to form the chromosomes that we see in micrographs
+    Each human body cell contains 46 chromosomes. These can be arranged into 23 pairs.
+
+    Each chromosome in a pair carries the same types of genes. The 23rd pair are the sex chromosomes:
+
+    In females, the two chromosomes are identical in shape. There are two X chromosomes. Females are referred to as XX.
+    In males, one of the chromosomes is a different in shape. There is an X and also a Y chromosome. Males are referred to as XY
+
+Mitosis and the cell cycle
+
+    Mitosis
+        Cells divide when:
+
+        an organism grows
+        an organism becomes damaged and needs to produce new cells
+
+    A growing and dividing cell goes through a series of stages called the cell cycle
+        cell growth -> DNS Synthesis(chromosomes are now double stranded) -> further growth and DNAs checked for error -> Mitosis -> The cytoplasm separates and two cells formed -> Temporary resting period stops further dividing - and cycle to cell growth
+
+Stem cells in humans
+    Stem cells are cells that have not undergone differentiation(has not yet become specialised).
+    Cells at the early stages in the development of the embryo are stem cells.
+    Some stem cells remain in the bodies of adults – adult stem cells. Adult stem cells are found in limited numbers at certain locations in the body.
+
+    Adult stem cells can be found in several regions of the body, including the:
+        brain
+        eyes
+        blood
+        heart
+        liver
+        bone marrow
+        skin
+        muscle
+
+    Medical treatments with stem cells can help conditions
+
+        Stem cells in plantsCell division in plants occurs in regions called meristems.
+
+        Cells of the meristem can differentiate to produce all types of plant cells at any time during the life of the plant.
+
+        The main meristems are close to the tip of the shoot, and the tip of the root.
+        In a growing shoot, new cells are being produced continuously near the tip. As the cells become older, further away from the tip, they become differentiated
+
+    Cell differentiation
+        Animals and plants produced by sexual reproduction begin life as a single cell – a fertilised egg or zygote.
+        This cell must divide to produce a multicellular organism. It must also differentiate so that its cells develop features that enable them to fulfil specific roles.
+
+    Specialised cells in animals
+        Cells of the…
+        Circulatory system	Transport substances, defend the body, regulate temperature
+        Excretory system	Remove waste products and unwanted substances, regulate the water content of the body
+        Muscular system	    Bring about movement
+        Nervous system	    Respond to internal and external stimuli and conditions, carry messages for the body work as a coordinated whole
+        Respiratory system	Deliver oxygen for respiration and remove waste
+        Reproductive system	Bring about fertilisation to produce new offspring
+        Skeletal system	    To bring about movement, support and protect internal structures, produce blood cells, store and release calcium
+    Specialised cells in plants
+        Leaf	Palisade mesophyll	Carry out photosynthesis
+                Spongy mesophyll	Allow gases to circulate for the exchange of gases between the leaf and the environment, carry out some photosynthesis
+                Guard cells	        Open and close to control the exchange of gases – carbon dioxide, water vapour and oxygen
+        Phloem	Sieve tubes	        Transport products of photosynthesis, including sugars and amino acids, from the leaf to where they are needed
+                Companion cells	    Provide the energy required for transporting substances in sieve tubes
+        Xylem	Xylem vessels	    Transport water and dissolved minerals from the roots, up the plant
+        Growing points	Meristem	Produce new cells as they divide
+    Cloning in plants
+
+    Cells from meristems can be cloned (A scientific method by which genetically identical copies are made of animals or plants.). Meristematic cells are removed from a plant and grown in tissue culture (A technique where animal or plant cells or tissue are isolated and transferred to a sterile culture medium. If successful, the cells will continue to grow and divide, though not indefinitely.). The cells are grown in a culture medium that contains agar(A jelly-like substance that is derived from a type of seaweed and used in the lab as a medium on which to grow bacteria and fungi.) – to provide support and water for the growing cells – along with nutrients and plant hormones to stimulate growth and cell division.
+
+    Cloning in plants also occurs naturally, for instance, in runners in strawberry plants. An older, simpler method of cloning plants that gardeners use to produce new, identical plants is by taking cuttings.
+
+    Using human stem cells
+
+    Stem cells can divide to produce new cells, which can then divide into different cell types. They therefore have the potential to be transplanted into patients to treat medical conditions and disease. They could be used to replace cells that have been damaged or destroyed, eg:
+
+    in type 1 diabetes (A serious disease in which the body is unable to regulate blood sugar.)
+    in cases of multiple sclerosis (A condition, usually autoimmune, in which the myelin sheaths of the neurones of the brain and spinal cord are damaged, reducing the transmission of nerve impulses, and leading eventually to paralysis.), which can lead to paralysis(The loss of muscle function in part of the body.)
+    in cases of spinal cord or brain injury, that have led to paralysis
+
+    The stem cells used could be:
+
+    embryonic stem cells
+    adult stem cells
+
+    Embryonic stem cells can differentiate into a wider range of cell types, but are difficult to obtain and their use raises ethical challenges. The best source is the five-day-old embryo.
+
+    Adult stem cells will differentiate into a narrower range of cell types. Bone marrow transplants are an example of adult stem cell transplant.
+
+    Therapeutic cloning
+    Transplanting stem cells
+
+    dult stem cell transplants could use a patient's own stem cells or be from a donor. Those that use the patient’s own stem cells would be genetically identical and would not be rejected by the patient's immune system.
+
+Those from a donor would not be genetically identical. Fewer complications would arise if the stem cells came from a close member of the family. Alternatively, donor cells could come from a person with closely-matched tissue types.

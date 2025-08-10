@@ -1,0 +1,64 @@
+4.Plant disease
+
+Pathogens as causes of plant diseases
+    A pathogen is an organism that causes a disease. There are four main types of pathogen:
+        virus
+        bacteria
+        fungi
+        protists
+
+    Virus
+        The tobacco mosaic virus infects tobacco and lots of other closely related species like tomatoes and peppers. It is transmitted by contact between plants, either naturally or on the hands of farmers. It infects the chloroplasts of plant leaves and changes their colour from green to yellow or white in a mosaic pattern. It can also make leaves crinkled or curled up. This reduces the plant's ability to photosynthesise and grow properly, which can reduce farmers' crop yields.
+    fungi
+        Rose black spot is caused by a fungus which infects roses. It infects leaves and causes black or purple spots on the leaves. The rest of the leaves often turn yellow and can drop off the plant. This reduces the plant's ability to photosynthesise and reduces growth. Black rose spot can be transmitted in air or water as well as direct contact by gardeners. It is treatable using fungicides and by removing and destroying infected leaves.
+    Insects
+        As well as microbial pathogens, insects can infest a plant. Aphids are a common example of these seen in UK gardens and greenhouses. In particular, they infest roses and tomatoes. They are found in large numbers on new shoots, from which they suck sap. This reduces that growth rate of plants and can eventually kill them. Aphids are eaten by ladybirds, so gardeners often try to cultivate these in their gardens as a natural way of reducing aphids.
+
+    Mineral ion deficiencies
+        Deficiency diseases are diseases caused by a lack of essential vitamins or mineral ions.
+
+        Nitrate deficiency
+            Plants use nitrates as a supply of nitrogen, which is needed to make proteins for healthy growth. Plants absorb nitrates in water through their roots. Nitrate natuarally found in surface and underground water. Without nitrates, the amount of chlorophyll in leaves reduces. This means leaves turn a pale green or yellow colour. This reduces the plant's ability to photosynthesise and grow properly,
+
+        Magnesium ion deficiency
+            Plants use magnesium ions to make chlorophyll in their leaves. Like in nitrate deficiency, the plant is limited in terms of its photosynthetic ability and the plant growth iscompromised. Magnesium is a limiting factor in healthy plant growth.
+    Growth of plants in different nutrient solutions
+    science experiments to measure the growth of barley seedlings on different solutions
+    Method
+        Sow ten barley seeds onto cotton wool in a Petri dish. Add 10 cm3 of distilled water, seal using tape to avoid water loss through evaporation and place on a sunny windowsill to germinate. Repeat with three other Petri dishes.
+        About one week after germination, open the each Petri dish, pour out any distilled water and add 10 cm3 of the following solutions:
+        Petri dish 1 - Distilled water
+        Petri dish 2 - Culture solution containing magnesium sulfate and potassium nitrate
+        Petri dish 3 - Culture solution containing magnesium sulfate (deficient in nitrogen)
+        Petri dish 4 - Culture solution containing potassium nitrate (deficient in magnesium)
+        Replace all Petri dishes on the window sill and leave for two weeks.
+        Open each Petri dish and carefully remove each seedling from the cotton wool.
+        Dry in an oven and record the total dry mass of each set of ten seedlings.
+
+        Observations: Seedlings grown without nitrogen are smaller than others. Nitrogen is used to make proteins, which are used for growth and repair. Seedlings grown without magnesium will appearyellow and will be smaller. Magnesium is used to make chlorophyll, which is essential for photosynthesis.
+
+    Symptoms of plant diseases and identification of pathogens
+    Identification
+        Farmers and gardeners often use books and the internet to identify plant diseases. They can also take a small cutting of an infected plant (or a photograph of it) to a local garden centre, which have staff that can often help identify and treat the disease. 
+
+Plant defences
+    Just like animals, plants are constantly defending themselves from attack from pathogens. Again like us, plants have physical and chemical defences which stop pathogens from infecting them and causing disease.
+
+    Physical defences
+        Many plants are covered with a thick bark. This is an external layer of dead cells which forms a physical barrier against infection. In this way it is very much like our skin. Beyond bark, each plant cell has a cellulose cell wall which acts as another barrier against infection. Leaves are covered with a waxy cuticle which also stops their cells from becoming infected.
+    Chemical defences
+        Some plants such as mint and witch hazel produce antibacterial chemicals. These limit the spread of bacteria that were not stopped by physical defences. These chemical defences are now used in antiseptics for humans.
+
+        Other plants, like stinging nettles, have developed poisons to stop themselves being eaten by herbivores. These do not defend plants from infection by pathogens.
+
+    Mechanical plant defences
+        Plants have also evolved other defences from attack. These defences are often to avoid being eaten by herbivores.
+
+        Thorns and hairs
+        Plants like roses have evolved large thorns to avoid being eaten, while plants like cacti have evolved thin spines. These adaptations protect plants from damage and keeps their vital water stores safe.
+
+        Drooping leaves
+        The Mimosa pudica plant is very special. It has evolved to close its leaves and then point its stems towards the ground when touched by an insect as it lands on it, making it difficult for the insect to feed on the leaves.
+
+        Mimicry
+        Some plants have evolved the ability to mimic what is around them. The passion flower vine has evolved small yellow spots on its leaves. These look like the eggs left behind by butterflies. Female butterflies are unable to tell the difference between these and real eggs, so they lay eggs on other leaves to avoid competition when they 'might' turn into caterpillars.

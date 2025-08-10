@@ -1,0 +1,216 @@
+5.Questions
+
+Multiple choice questions
+    What is the part of the animal cell that is labelled by A?
+    Which of these units is most suitable for measuring the length of a cell?
+    A cell of the pancreas produces digestive enzymes, which are proteins. The enzymes are released into the small intestine.
+        Suggest which two of the following are adaptations to its role?
+    By which two processes does glucose enter cells in the human body?
+
+One- and two-mark questions
+The number of marks per question part is given in this form [2 marks]. It is essential that you give two different answers if a question is worth two marks. Sometimes you can gain a second mark by giving the units in a calculation or stating specific data points,
+
+    Use one word from the box to complete the sentence.
+    The structure in a cell that controls the cell's activities is called the _________
+
+    Give two differences between plant and animal cells.
+
+    Name the type of cell in plants that can differentiate into different types of cell.
+    You need to be precise not "stemcells". Meristem cell or meristematic cell.
+
+Three- and four-mark questions
+
+    Describe the process of cloning and how it can help to prevent plant species from becoming extinct.
+    Describe how a sperm cell is adapted to its role.
+    Describe the similarities and differences between the processes of diffusion and osmosis.
+    Compare the advantages and disadvantages of light and electron microscopes.
+
+    Describe the process of cloning and how it can help to prevent plant species from becoming extinct.
+        cells removed from the meristem of plant (that is being protected from extinction)
+        culture the cells in sterile cell/tissue culture medium
+        plantlets produced are transferred to pots
+        more individuals of the plant species are produced without the plants having to reproduce sexually (which takes time or there may not be another individual available)
+    Describe how a sperm cell is adapted to its role.
+        role is to fertilise an egg
+        the head has the nucleus, which contains the male genetic material
+        it has a tail for swimming
+        the acrosome has enzymes so that the sperm can penetrate the egg
+        it is packed with mitochondria to supply the energy for movement
+    Describe the similarities and differences between the processes of diffusion and osmosis.
+        all gases and liquids move by diffusion
+        only water moves by osmosis
+        molecules move from high to low concentration in both processes
+        this means molecules move down a concentration gradient
+        osmosis must occur across a partially permeable membrane
+        neither process requires energy
+    Compare the advantages and disadvantages of light and electron microscopes.
+        electron microscopes have higher magnification
+        electron microscopes have higher resolution
+        scanning electron microscopes can be used to examine the surface structure of cells/structures
+        light microscopes can be used to examine living cells, electron microscopes cannot
+
+Maths questions
+    A student observed a cell with a microscope. The magnification of the eyepiece was x10. The magnification of the objective was x20.
+    What magnification was the student using?
+
+    The student measured a cell they were looking at as 0.5 mm.
+    Convert this into micrometres.
+
+    A student measured the change in mass of potato cylinders placed in different concentrations of salt solution. Their results are shown below.
+
+
+    The diameter of a red blood cell is 7 μm.
+    The diameter of one species of Amoeba is 0.7 mm.
+    Calculate the difference in order of magnitude between the two.
+
+    (a) A student is calibrating an eyepiece graticule.
+        The student finds that 45 divisions on the eyepiece graticule correspond with 100 μm on the stage micrometer.
+        Calculate what one division of the eyepiece graticule at this magnification represents. Write your answer to two significant figures.
+
+    (b) The student then finds that the length of a protist they are examining measures 42 divisions on the eyepiece graticule.
+
+
+Practical questions
+    You will complete twenty-one required practical activities if you are studying GCSE combined science: Trilogy. You could be asked questions about the apparatus, methods, safety precautions, results, analysis and evaluation of these experiments.
+
+    In this Cell Biology section there are two required practical activities:
+
+    Required Practical Activity 1: Use a light microscope to observe, draw and label a selection of plant and animal cells. A magnification scale must be included.
+    Required Practical Activity 3: Investigate the effect of a range of concentrations of salt or sugar solution on the mass of plant tissue.
+
+    A student is investigating the process of mitosis with a microscope.
+    The hazard warning label on the chromosome stain they use states:
+        may cause skin irritation
+        may cause eye irritation
+        may be harmful if swallowed
+        non-flammable
+    Suggest three safety precautions they should take.
+
+    Describe how to prepare a stained slide of onion epidermal tissue.
+        (a) A student investigated the effects of osmosis in potato tissue by placing potato cylinders in different concentrations of sugar solution.
+        Their results are shown below (as a percentage).
+        Identify the anomalous result. [1 mark]
+
+    (b) Calculate the mean change in mass for each concentration. Do not include the anomalous result from Experiment 6 in your calculations.
+    Give your answer to one decimal place. [2 marks]
+
+    (c) Explain why the student expressed change in mass as a percentage. [3 marks]
+
+    Describe how you would set up a microscope to examine a prepared slide under high power. [6 marks]
+
+Six-mark questions
+Six-mark questions are often the questions that people find the most difficult. 
+In all longer answer questions, but especially the six-mark ones, it is important that you plan your answer and not just rush into it. 
+After all, you would plan an essay or short story before starting. 
+Without a plan it is easy to stray away from the key point and lose marks, get steps in a process in the wrong order or forget key bits of information. 
+Remember to write your answer in full sentences, not bullet points.
+
+    Explain why a plant will wilt if not watered. [6 marks]
+    Describe the process of therapeutic cloning. [6 marks]
+    Discuss the arguments for and against stem cell research. [6 marks]
+    Compare the structure of prokaryotic and eukaryotic organisms. [6 marks]
+
+    Explain why a plant will wilt if not watered. [6 marks]
+        The following is a list of valid points that could be included in your answer. In your answer, it is important that you do not bullet point them, but link your ideas together:
+
+        water enters plant cells by osmosis
+        when a plant is well-watered, the cells are turgid
+        when a plant isn’t watered, it will lose water, as water will diffuse from the cells
+        as water concentration is now lower outside the cell
+        cells will lose their turgidity/become plasmolysed
+        the cell contents are no longer pushing against the cell wall – the cells will become flaccid and the plant will wilt
+    Describe the process of therapeutic cloning. [6 marks]
+        The following is a list of valid points that could be included in your answer. Remember that it is important that you do not bullet point them, but link your ideas together:
+
+        a body cell is removed from a patient and an egg cell is taken from a donor
+        the nucleus is removed from the (donor) egg cell and discarded
+        the nucleus is taken from the patient’s cell
+        the nucleus is transferred to the donor cell
+        the resulting embryo is stimulated to divide
+        the embryo is cultured for 4-5 days
+        stem cells can then be removed and cultured
+    Discuss the arguments for and against stem cell research. [6 marks]
+        The following is a list of valid points that could be included in your answer.
+
+        research on stem cells could lead to therapies to treat conditions such as diabetes and paralysis
+        research could be used to increase our understanding of cell development/ differentiation
+        stem cells could be used to test new drugs
+        adult stem cells are rare in the human body and few in numbers
+        they do not differentiate in many different cell types, so can only be used to treat certain conditions
+        embryonic stem cells have the potential to differentiate into a greater number of cell types
+        the use of embryonic stem cells involves destruction of an embryo
+        people object to the use of embryos for stem cell research for ethical, social and religious reasons
+        stem cell therapy, so far, has had limited success
+        stem cell therapy may lead to viral infections
+    Compare the structure of prokaryotic and eukaryotic organisms. [6 marks]
+        The following is a list of valid points that could be included in your answer.
+        Note that questions with ‘Compare...’ in them will look for similarities as well as differences.
+
+        they are both bounded by a cell membrane
+        they both have ribosomes (though they are different sizes)
+        prokaryotic organisms have a cell wall. Cell walls are also found in the eukaryotic organisms, plants and fungi
+        prokaryotic organisms are much smaller in size than eukaryotic organisms
+        the genetic material of prokaryotic cells is a single loop of DNA that lies in the cytoplasm - in eukaryotic organisms, it is in the nucleus
+        prokaryotic cells have additional DNA - DNA in a ring called a plasmid (plasmids are very rarely found in eukaryotic organisms)
+
+Linking questions
+Linking questions span different topics.
+
+One way to answer linking questions is to follow these steps:
+
+identify exactly what the question is asking (perhaps by underlining key parts)
+identify what the link between the two parts of the question is
+make a short plan of these links (which will form the basis of your answer)
+include as much information as you can to obtain full marks (see below)
+
+    In the future, how might stem cells be used to treat a patient with type 1 diabetes? [3 marks]
+    This question combines ideas about diabetes with stem cells and potential stem cell therapies.
+    When answering questions on stem cells, be careful, as therapies are being developed, rather than being used.
+        Answer:
+        type 1 diabetes occurs when a person cannot produce any, or enough insulin
+        in the future, stem cells from a donor or family member could be transplanted
+        so that the patient can produce insulin
+    
+    Describe an experiment to demonstrate the effect of different concentrations of salt on beetroot cells. [6 marks]
+
+        This question combines ideas about osmosis and techniques used in microscopy.
+        While you could write about an experiment on osmosis in beetroot cylinders it's better to write about the examination of the beetroot cells.
+        Marking points:
+
+        prepare a range of concentrations of salt solution on a microscope slide
+        cut a thin slice of beetroot tissue and place it on the slide
+        place a coverslip on top
+        examine with low power, then high power to observe individual cells
+        observe/draw/record digitally what you see, but look at other areas of the slide to make sure that these observations are consistent
+        repeat with other concentrations of salt solution
+
+    Explain how plants meet the challenges of growing in hot, dry climates. [6 marks]
+
+        This question combines ideas about photosynthesis, diffusion, transpiration and surface area to volume ratios.
+
+        The following is a list of valid points that could be included in your answer.
+
+        when plants open stomata to let in the carbon dioxide required for photosynthesis, water diffuses out - a process called transpiration
+        in hot, dry climates, the rate of transpiration will be higher
+        these plants have adaptations to reduce water loss
+        leaves are reduced in size and may be reduced to spines
+        stomata may be sunken in pits, surrounded by hairs or in furrows in the stem
+        wwater will be lost over the plants’ surface and the shape of the plant, eg globular, reduces the surface area to volume ratio and therefore the amount of water lost
+
+    There are two types of cell division in eukaryotes.
+    Explain the importance of mitosis in the growth and repair of an organism but meiosis in the production of gametes. [6 marks]
+
+        This question combines ideas about mitosis, meiosis, genetic variation and evolution.
+
+        Note that it is not just a standard, compare the difference between mitosis and meiosis, type question. It has particular focus.
+
+        The following is a list of valid points that could be included in your answer:
+
+        mitosis takes place where it is essential that the daughter cells produced are identical to the parent cells
+        daughter cells must have the same alleles so that genes can be expressed appropriately
+        the production of identical daughter cells is important in growth, from the embryo, to the foetus, to the mature organism - and in the repair and replacement of damaged and worn out cells
+        meiosis is a reduction division that produces daughter cells with half the number of chromosomes as the parent cells
+        this is necessary because otherwise, a gamete would contain the same number of chromosomes as a parent (if they were produced by mitosis), and an organism’s chromosome number would double every generation
+        during meiosis, there is also an exchange of genetic material between chromosomes as their pair up. This leads to genetic variation in the offspring
+        the genetic variation from sexual reproduction contributes to the survival of a species.
+        when DNA is copied, in both types of cell division, mistakes are made – mutations occur. In the case of meiosis, this is the driving force of evolution

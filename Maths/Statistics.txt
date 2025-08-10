@@ -1,0 +1,179 @@
+### Statistics
+
+Data is a collective name for information recorded for statistical purposes. There are many different types of data:
+
+discrete data - numerical data that can only take certain values, for example, the number of children in a classroom or a shoe size
+continuous data - numerical data that can take any value within a given range, for example, the masses of 10 babies or the heights of some adults
+primary data - data that has been collected from the original source for a specific purpose, for example, if a school wanted to know what their students thought of the school canteen service they would question the pupils directly
+secondary data - data that is not originally collected by a group for a specific purpose, for example, finding out the average cost of cars in a car park by using national statistics
+
+
+Population and sampling
+The population of a survey is everyone who can be questioned in relation to that survey. For example, if a shop wanted to know the opinion of a new marketing strategy, the population of the survey would be everyone who lives close enough to use the shop. A sample is a small selection of the population.
+
+When a lot of data needs to be sorted, one of the most efficient ways is to use a frequency table.
+
+bar charts
+A bar chart, like a frequency diagram, shows the frequency of events occurring. The height of the bar is the frequency.
+
+Composite bar charts
+Bar charts may be needed to compare data
+Composite bar chart has multi color/patter stacked bars.
+
+A pictogram shows the frequency of events using pictures. A key that shows what each picture is worth is needed to be able to read a pictogram properly. for e.g. full monitor icon for 4 people, 3/4 monitor icon for 3 people, 1/2 monitor icon for 2 people and 1/4 monitor icon for 1 people
+
+A pie chart is a circular chart. It shows the proportion of each group at a glance. Remember that there are 360° in a circle so each group in the pie chart will be a proportion of 360°.
+
+Scatter graphs are a good way of displaying two sets of data to see if there is a correlation, or connection.
+Graphs can have: positive correlation; negative correlation; or no correlation.
+Positive correlation means as one variable increases, so does the other variable. e.g. temp and icecrem aold
+Negative correlation means as one variable increases, the other variable decreases. e.g. temp and coat aold
+No correlation means there is no connection between the two variables.
+
+ it is important to remember that correlation does not imply causation. If data plotted on a scatter graph shows correlation, we cannot assume that the increase in one of the sets of data caused the increase or decrease in the other set of data – it might be coincidence or there may be some other cause that the two sets of data are related to.
+
+A line of best fit is a sensible straight line that goes as centrally as possible through the coordinates plotted. It should show the general trend of the relationship between the two sets of data.
+
+Interpolation and extrapolation
+From the diagram above, we can estimate how many umbrellas would be sold for different amounts of rainfall. For example, how many umbrellas would be sold if there was 3mm of rainfall? What if there was 10mm of rainfall?
+
+A cumulative frequency diagram creates a running total of the frequencies within a table.
+
+A cumulative frequency diagram is a good way to represent data to find the median.
+
+The table below shows the lengths of 40 babies at birth.
+
+Length (cm)	Frequency	Cumulative frequency
+30 < l <= 35    4	        4
+35 < l <= 40    10      	14
+40 < l <= 45    11      	25
+45 < l <= 50    12      	37
+50 < l <= 55    3	        40
+
+We can plot the uppwe class frequency diagram, Cumulative frequency on y axis and upper class length on x axis
+Median is 40/2 = 20th value,  Using graph y=20 corresponds to x=42.5
+
+A cumulative frequency diagram is also a good way to find the interquartile range, which is the difference between the upper quartile and lower quartile.
+
+The interquartile range is a measure of how spread out the data is. It can be more useful than the range because it does not include extreme values. A high value for the interquartile range shows that the data is spread out. A low value for the interquartile range means the data is closer together or more
+
+There are 40 babies in the table, so to find the lower quartile, find 1/4 of 40, which is the 10th value. Reading from the graph, the lower quartile is 38.
+
+To find the upper quartile, find 3/4 of 40, which is the 30th value. Reading from the graph, the upper quartile is 47.
+
+The interquartile range is the upper quartile – the lower quartile, so for this data the interquartile range is 47 – 38 =9.
+
+A box plot shows a visual representation of the minimum, maximum, median and quartiles of a set of data.
+
+To draw a box plot, the following information is needed:
+
+minimum value
+lower quartile
+median
+upper quartile
+maximum value
+
+Example
+Draw a box plot for these numbers: 9, 10, 10, 12, 13, 14, 17, 18, 19, 21, 21
+
+The numbers are already in order so the minimum and maximum numbers can be easily read off as 9 and 21, and the middle number can be read as 14.
+To find the lower quartile, there are 11 numbers, so (11+1)/4 = 3rd number.
+lower quartile will be the 3rd number and the upper quartile is the 9th number.
+
+Now we can draw the box on the number line : start from 9(Min) and draw a line till 10(lower q), box start and box end at 19(upper quartile) and then line till 21(max) and show medin 14(median) inside the box
+
+We can draw a box plot for cumulative frequency diagram
+
+Time series
+The table shows the number of visitors per quarter (per three months) to a seaside town.
+
+Quarter (year)	      1 (2005)	2 (2005)	3 (2005)	4 (2005)	1 (2006)	2 (2006)	3 (2006)	4 (2006)
+Visitors (thousands)	14	       24	       9	        8	       12	       22        	11	        7
+
+From the graph, it can be seen that there is a large fluctuation each year in the amount of visitors. However, there is a pattern that repeats each year. For example, many more people visit in the summer months than they do in the winter months, and this is the same year by year.
+
+Histograms
+On a histogram, the area of the bar, and not the height, represents the frequency of the data. Histograms are typically used when the data is in groups.
+
+
+The table shows the ages of 25 children on a school trip.
+
+Age	   Frequency
+5-10	6
+11-15	15
+16-17	4
+
+To draw a histogram for this information, first find the class width of each category. When class widths are not equally sized, they are called unequal class intervals
+
+Age	   Frequency     class width
+5-10	6                  6 (5,6,7,8,9,10)
+11-15	15                 5 (11,12,13,14,15)
+16-17	4                  2 (16,17)
+
+The area of the bar represents the frequency, so to find the height of the bar, divide frequency by the class width. This is called frequency density.
+
+Age	   Frequency     class width   frequency density
+5-10	6                  6        6/6=1
+11-15	15                 5        15/5=3
+16-17	4                  2        4/2=2
+
+Now draw a bar chart with age on x axis and frequensy density on y axis. e.g. one bar length 5 to 11 and height 1
+
+## Analysing data
+
+Mean
+The mean is the most commonly used average. To find the mean of a list of numbers, add them all together and divide by how many numbers there are:
+
+Median
+The median is the middle number in a set of data, when the data has been written in ascending or descending size order.
+If there is an odd number of items of data, there will be one number in the middle.
+
+If there is an even number of items of data, there will be two numbers in the middle. The median is the number that is half way between these two numbers.
+
+Mode
+The mode is the number, or item, which occurs most often in a set of data.
+
+To find the mode, find the value that occurs most.
+
+Range
+In statistics, a range shows how spread out a set of
+data is. The bigger the range, the more spread out the data. If the range is small, the data is closer together or mor consistent.
+
+Range = largest - smallest
+
+Averages from tables
+To make calculations more efficient, tables are often used to group the data.
+
+Number of goals	    Frequency
+0	                2
+1	                2
+2	                5
+3	                1
+
+The mode or modal value is the value that occurs most. with highest frequency : The modal number of goals scored is 2
+
+The median value is the middle value when all items are in order. In this table, the amounts of goals are in order, as they start with zero goals and move up to three goals scored.
+
+The total frequency is 10, so there are 10 items of data. median is 10+1/2 = 5.5 .
+
+Number of goals	Frequency	Cumulative frequency (running total)
+0	               2	           2
+1	               2	           4
+2	               5	           9
+3	               1	           10
+
+The third group starts with the 5th item of data, so the 5th and 6th items of data will both be 2. The median number of goals is 2.
+
+Finding the mean from a table
+The mean is found by adding up all the numbers and dividing by how many numbers there are.
+
+Number of goals	    Frequency   fx
+0	                2            0
+1	                2            2
+2	                5            10
+3	                1            3
+
+The total number of goals is 15. There were 10 football games so : mean = 15/10
+
+Averages from a grouped table
+To collect data  together in an efficient way, it is sometimes necessary to group data. This allows for fewer classes and categories of data to be used. This is especially true for continuous data  which would all be unique values.

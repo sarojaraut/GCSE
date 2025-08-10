@@ -1,0 +1,60 @@
+Questions
+    https://www.bbc.co.uk/bitesize/guides/zgwf4qt/revision/6
+    
+    Multiple choice questions
+        How is carbohydrate stored in plants? starch
+        Which of the following are true of gas exchange in plants? 
+        Which one of the following molecules is the storage form of carbohydrate in humans? glycogen
+        Which two of the following would increase the rate of photosynthesis? 
+    One and two mark questions
+        Pollen grains grow down into female flowers on their way to fertilising an egg. In the flower tissue, oxygen concentrations are low.
+        Suggest which molecules are produced as a pollen grain respires. 
+
+        Describe how anaerobic respiration is important in bread making.
+        Define the inverse square law.
+            For a type of electromagnetic radiation such as light [1 mark]As the distance from the light source increases, light intensity is inversely proportional to the square of the distance
+        Explain how some plants are adapted to growing in the shade.
+            Shade-adapted plants produce more chlorophyll (so that they are more efficient at absorbing light) [1] 
+            So can photosynthesise at lower light intensities/have a lower compensation point than plants that grow in brighter conditions [1]
+    Three and four mark questions
+        Complete the following table comparing aerobic and anaerobic respiration.
+        In an experiment investigating the effect of light intensity on photosynthesis in a pondweed, explain how a student kept the carbon dioxide constant at the beginning of the experiment
+        In a wood where bluebells live around the base of the trees, suggest what factors limit the rate of the bluebells' photosynthesis in the spring, and then in midsummer.
+        The graph shows some data from Long et al (2004) on how elevated carbon dioxide concentration affects production of glucose and starch in a plant. Describe and explain the effects of elevated carbon dioxide concentration on glucose and starch in the plant
+
+    Six-mark questions
+        Describe how the products of photosynthesis are used by a plant.
+        The graph shows the concentration of lactic acid in an athlete's blood before, during and after a training session.
+        Describe and explain the changes in the athlete's blood.
+        Discuss how a commercial plant grower, with locations in the UK and across Europe, could increase yields in greenhouse and field crops.
+
+
+
+        Describe how the products of photosynthesis are used by a plant.
+            glucose is the product of photosynthesis
+            some glucose is used for respiration by the plant's cells
+            starch is built up and stored in the plant's cells, including those of storage organs
+            starch can be broken down and the glucose used when it is needed, eg for respiration during the germination of seeds
+            some glucose is converted into cellulose, used to construct cell walls
+            glucose is converted into amino acids, with the help of nitrates absorbed from the soil
+            amino acids built into proteins
+            glucose is converted into lipids, eg used as an energy store in seeds
+
+        Discuss how a commercial plant grower, with locations in the UK and across Europe, could increase yields in greenhouse and field crops.
+            Increased yields are dependent on rate of photosynthesis and reducing losses, eg by pests.
+
+            Greenhouse crops:
+
+            irrigate with optimum amount of water
+            increase greenhouse temperature using heating system
+            increase light intensity
+            increase carbon dioxide concentrations by piping in carbon dioxide gas
+            add fertiliser or use a hydroponics system
+            increase yields using appropriate pesticides or other control methods
+            Field crops:
+
+            select a location across Europe optimum for the growth of the crop, eg for sunlight and rainfall
+            use an irrigation system to provide the optimum amount of water
+            could not increase external carbon dioxide concentration (unless the plants were grown in polythene/plastic tunnels)
+            add fertilisers
+            reduce losses from pests using pesticides and/or growing genetically modified (GM) crops

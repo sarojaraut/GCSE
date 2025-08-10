@@ -1,0 +1,275 @@
+Animal organisation - gaseous exchange systems
+
+Levels of organisation
+    In order of increasing complexity, multicellular organisms are made of:
+
+    Organelle → cells → tissues → organs → organ systems
+
+    Organelle	A specialised unit within a cell which performs a specific function(Nucleus)
+    Cell	The basic building block of all living organisms(Heart muscle cells)
+    Tissue	A group of cells working together to perform a shared function, and often with similar structure(Heart muscle tissue)
+    Organ	A structure made up of groups of different tissues, working together to perform specific functions(heart)
+    Organ system	A group of organs with related functions, working together to perform certain functions within the body(circulatory system)
+
+The need for exchange surfaces
+
+    Small organisms exchange these essential and waste substances between themselves and the environment usinf diffusion. Inside their bodies, in small organisms, substances don’t have to move far.
+
+    As multicellular organisms increase in size, they face two problems:
+    Their surface area does not increase as fast as the volume, Solution to that is : Body systems that add additional absorbing area to exchange surfaces
+    Their volume increases: Diffusion is not quick enough to move substances to where they’re needed in the organism’s body, A transport system
+
+    Adaptations of effective exchange surfaces in all organisms
+    A large surface area:
+        the flattened shape of structures such as leaves
+        the alveoli in the respiratory system
+        the villi in the digestive system
+
+    The human gas exchange system
+        The human lungs provide an exchange surface adapted for: 
+            1. absorbing oxygen for respiration - into the blood from the air
+            2. transferring  co2, produced by respiration – from the blood into the lungs then the air
+        The lungs are organs enclosed within the chest or thorax(The ribs and upper backbone, and the organs found in the chest in other words the region between the neck and abdomain).
+
+        The lungs are enclosed in the thorax, surrounded and protected by 12 pairs of ribs. 
+        The ribs are moved by two sets of intercostal muscles. 
+        There is a muscular diaphragm below the lungs. 
+        The lungs are sealed within two airtight pleural membranes. 
+        These wrap around the lungs and line the rib cage.
+
+        The trachea, or windpipe, branches into two bronchi
+        one bronchus to each lung. 
+        Rings of cartilage in the walls of the trachea help to keep it open as air is drawn in.
+        The bronchi split into smaller branches and then into smaller tubes called bronchioles
+        Each bronchiole ends in a cluster of microscopic air sacs called alveoli
+        The exchange of gases occurs between the alveoli and blood in the capillaries that supply the lungs.
+        Capillaries cover 70% of the outside of alveoli, providing a large surface area for gases to diffuse across.
+
+        The alveoli are adapted to provide a very large surface area for gaseous exchange:
+
+            small size - each alveolus is a small sphere about 300 μm in diameter, giving it a larger surface area to volume ratio than larger structures
+            number - there are around 700 million alveoli – ie 350 million per lung
+
+            The total surface area of the alveoli is around 70 square metres.
+
+            There is also a short diffusion path - the walls of blood capillaries and alveoli are just one cell thick.
+        Breathing
+        The diaphragm contracts, pulling downwards
+        The intercostal muscles contracts moving ribs upwards and outwards
+        that create a increase in volume of thorax and a lower air pressure in the lungs than that of the air outside the body. Air then rushes into the lungs.
+
+        Then diaphragm ralaxes and moves up. 
+        intercostal muscles relaxes moving ribs downwards.
+        Causes decrease in thorax volums and increased pressure
+        Air leaves out of lungs
+
+        Gills in fish
+            Water is capable of holding only low concentrations of oxygen, so fish need a different type of exchange system.
+
+            Water is taken in through the fish's mouth, passes over the gills, and then out under the operculum
+
+            Each gill filament has a network of blood capillaries
+
+            Water that flows over the gills flows in the opposite direction to the blood. This is called counter current flow. It means that the exchange of oxygen and carbon dioxide is more efficient than if the water and blood were both flowing in the same direction.
+
+            Exchange of gases in fish is very efficient because of:
+
+            the large surface area of the gills
+            the large surface area of the blood capillaries in each gill filament
+            the short distance required for diffusion – the outer layer of the gill filaments and the capillary walls are just one cell thick
+            the efficient ventilation of the gills with water - there is a counter current flow of water and blood
+
+#####################################
+Animal organisation - digestion
+    Molecules of life
+    Carbohydrates, proteins, lipids (or fats) are major nutrients that we need in large quantities.
+
+    We get these by eating them. They are broken down first and then reassembled into our own carbohydrates, proteins and lipids. This is because:
+
+    most of the molecules in food are too large to pass through the absorbing surface of the gut wall
+
+
+    carbohydrate
+        Food belonging to the food group consisting of sugars, starch and cellulose. Carbohydrates are vital for energy in humans and are stored as fat if eaten in excess. In plants, carbohydrates are important for photosynthesis.
+
+    protein
+        Organic compound made up of amino acid molecules. One of the three main food groups, proteins are needed by the body for cell growth and repair. Meat, eggs, cheese, beans, nuts and seeds.
+        
+    lipid Fat or oils, composed of fatty acids and glycerol. Butter and margarine, meat and processed meat, plant oils, oily fish, nuts and seeds
+
+    Structures of carbohydrates, proteins and lipids
+        Carbohydrates in our diet include sugars and starches.
+        sugar : A simple carbohydrate that is sweet to the taste.
+        starch : A type of carbohydrate. Plants can turn the glucose produced in photosynthesis into starch for storage, and turn it back into glucose when it is needed for respiration
+        glucose: Single sugar
+        Sucrose: chemical bond double sugar`
+        Starch: 500 to 2 000 000 glocose molecules
+
+        The glucose molecule is small enough to be absorbed directly through the walls of the digestive system
+        Starch is a polymer of glucose and it's too large to pass through the gut and needs to be broken down into glucose
+
+        Cellulose is also made up of glucose molecules. It makes up plant cell walls. It is therefore  fundamental part of our diet. It cannot be broken down by the digestive system, so is egested from the gut.
+
+        Once absorbed by the body, glucose molecules are transported to cells and: used for respiration
+
+
+        Proteins
+            Proteins are made up of amino acids.
+
+        Peptide bond : 2 to 20 amino acids
+        Protien : 50 to 2000 amino acids folded into the correct shape
+
+        Proteins are big molecules that are too large to pass through the gut wall. They must first be broken down into amino acids.
+
+        Once inside the body, the amino acids are reassembled into the proteins the individual requires – the process of protein synthesis (The production of proteins from amino acids, which happens in the ribosomes of the cell).
+
+        Excess amino acids are broken down in the liver (The large organ, beside the stomach, which has many functions, including processing substances absorbed by the digestive system and a role in the storage of the body's carbohydrate.)
+
+        Lipids
+            Lipids are esters of fatty acids and glycerol.
+                lipid : Fat or oils, composed of fatty acids and glycerol.
+                ester : A type of organic compound formed in the reaction between an alcohol and a carboxylic acid.
+                fatty acids : Carboxylic acids with a long chain of carbon atoms. Fatty acids react with glycerol to produce lipids (fats and oils).
+
+        Lipid molecules are too large to pass through the gut wall and must be digested first.
+
+        In the body's cells, they are reassembled into the lipids the cell needs, for instance, for the cell membranes.
+
+    Required practical activity - food tests
+    There are several qualitative tests for food chemicals. These can be used to detect the presence of food chemicals, but not how much is present.
+
+    Test for sugars
+        Benedict's test is used to detect sugars
+
+        Add Benedict's solution to food, heat in a water bath.
+        After heating, it may go through stages - green, yellow, orange, red or brown - depending on how much glucose is present
+
+        Reducing sugars give a red-brown precipitate with Benedict's solution.
+        reducing sugars : Sugars that act as reducing agents. Glucose, fructose, lactose and maltose are reducing sugars. Sucrose is a non-reducing sugar.
+
+        If there's not much glucose present, the final colour may be green or yellow, or orange if there's a little more.
+
+        Hazards
+            Wear safety goggles.
+            Benedict's solution is an irritant.
+            Avoid contact with skin and eyes.
+
+    Test for starch
+        Add iodine solution to the food being tested. Foods containing starch will turn a blue-black colour.
+
+        Hazards
+            Wear safety goggles.
+            Iodine solution is an irritant.
+            Avoid contact with skin and eyes.
+
+    Test for proteins
+        The biuret test is used to detect proteins.
+        Method
+            Add 1 cm3 of biuret solution A to the food solution.
+            Mix the liquids.
+            Add 1 cm3 of biuret solution B and shake.
+
+            Purple color indicates protien is present purple ring bwteeen the layers also indicates protien is present.
+
+        Hazards
+            Wear safety goggles.
+            Biuret solution A is corrosive.
+            Biuret solution B is an irritant.
+            Avoid contact with skin and eyes.
+
+    Test for fats
+        The Sudan III test : Equal amount of food ans water added in the test tube. drops of sudan III are added and shaken. A red stained layer is formed on the water.
+
+        Hazards
+            Wear safety goggles.
+            Sudan III solution is flammable as it is dissolved in alcohol.
+            Avoid contact with skin and eyes.
+
+    The emulsion test is an alternative test for lipids.
+        Ethanol is added to a test tube containing the crushed food.
+        The liquid is poured into a second test tube, 
+
+        Hazards
+            Wear safety goggles.
+            Ethanol is flammable.
+            Avoid contact with skin and eyes. 
+
+    The human digestive system
+
+    Region	                     Function
+    Mouth	                     Begins the digestion of carbohydrates
+    Stomach	                     Begins the digestion of protein; small molecules such as alcohol absorbed
+    Small intestine - Duodenum   Continues the digestion of carbohydrate and protein; begins the digestion of lipids (joo·uh·dee·nuhm) 
+    Small intestine - Ileum	    Completes the digestion of carbohydrates and proteins into single sugars and amino  acids; absorption of single sugars, amino acids and fatty acids and glycerol i·lee·uhm
+    Large intestine	           Absorption of water; egestion of undigested food
+
+    Absorption
+        The surface of the small intestine wall is folded, and has projections called villi
+        The epithelial cells that cover each villus themselves have projections called microvilli
+
+    Most of the digested food passes through the epithelial cells of the gut wall and is carried by blood to the liver. Digested lipids pass through the gut wall and enter the lacteals.
+
+    Enzymes
+    Enzymes are biological catalysts– they speed up chemical reactions to break them down cabrohydarates, protiens and lipids.
+
+    Enzymes are proteins that have a complex 3D shape. Each enzyme has a region called an active site
+    The substrate – the molecule or molecules taking part in the chemical reaction – fits into the active site. Once bound to the active site, the chemical reaction takes place
+
+    In an organism, the active site of each enzyme is a different shape. It is a perfect match to the shape of the substrate molecule, or molecules. This is essential to the enzyme being able to work. One enzyme is therefore specific to one substrate's chemical reaction, or type of chemical reaction. lock and key theory
+
+    Factors affecting enzyme action
+    At low temperatures, the number of successful collisions between the enzyme and substrate is reduced because their molecular movement decreases. The reaction is slow.
+
+    The human body is maintained at 37°C as this is the temperature at which the enzymes in our body work best.
+
+    Each enzyme is made from proteins made of twisting and folding amino acids, and therefore the enzyme has a unique shape. This structure is held together by weak forces between the amino acid molecules in the chain.
+
+    High temperatures will break these forces. The enzyme, including its active site, will change shape and the substrate will no longer fit. The rate of reaction will be affected, or the reaction will stop.
+
+    The effect of pH
+    Enzymes are also sensitive to pH (1 being most acidic and 14 being most alkaline).
+
+    Many amino acids in an enzyme molecule carry a charge and that attraction of negative and positive amino acids makes up the active site shape. 
+
+    Changing the pH will affect the charges on the amino acid molecules and deshape the active site
+
+    Different parts of the digestive system produce different enzymes and has different optimum pH.
+    Enzyme	                         Optimum pH
+    Salivary amylase	             6.8
+    Stomach protease (pepsin)	     1.5 - 2.0
+    Pancreatic protease (trypsin)	 7.5 - 8.0
+
+    Digestive enzymes
+    Carbohydrases  break down carbohydrates to simple sugars
+    Proteases break down proteins to amino acids
+    Lipases break down lipids to fatty acids and glycerols
+
+    Carbohydrases
+    Region of digestive system	Enzyme	            Where produced	   Substrate	Broken down into
+    Mouth	                    Salivary amylase	Salivary glands	   Starch	     Maltose
+    Small intestine - Duodenum	Pancreatic amylase	Pancreas	       Starch	     Maltose
+    Small intestine - Ileum	    Maltase	            Wall of ileum	   Maltose	     Glucose
+
+    Proteases
+    Proteases break down proteins in several regions of the digestive system.
+
+    Region of digestive system	Enzyme	                Where produced	            Substrate	    Broken down into
+    Stomach	                    Protease - pepsin	    Gastric glands in stomach	Proteins	Begins the breakdown into amino acids
+    Small intestine - Duodenum	Protease - trypsin	    Pancreas	                Proteins	Continues the breakdown into amino acids
+    Small intestine - Ileum	    Protease - peptidase	Wall of ileum	            Peptides	Completes the breakdown into amino acids
+
+    Lipases
+    Lipases break down lipids in one region of the digestive system.
+
+    Region of digestive system	Enzyme	Where produced	Substrate	Broken down into
+    Small intestine - Duodenum	Lipase	Pancreas	    Lipids	    Fatty acids and glycerol
+
+    The liver and digestion
+    The liver does not secrete any enzymes, but it plays an important role in digestion, and then processing food molecules that have been absorbed.
+
+    The liver produces bile.
+
+    Bile 
+    emlsifies the lipids, breaking them up physically into tiny droplets. Tiny droplets have a much larger surface area, over which lipases can work, than larger pieces, or drops of lipid.
+    Contains sodium hydrogencarbonate, which is an alkali. It neutralises stomach acid and produces the optimum pH for pancreatic enzymes.
+    Is produced in the liver, but stored and concentrated in the gall bladder.

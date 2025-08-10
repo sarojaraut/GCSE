@@ -1,0 +1,67 @@
+1.Photosynthesis
+    Photosynthesis
+    Factors affecting photosynthesis
+    Affecting photosynthesis
+    Limiting the rate of photosynthesis – Higher
+    Required practical activity
+    Scientific calculations
+    Scientific calculations – Higher only
+    The importance of limiting factors – Higher only
+    
+    Photosynthesis
+        During photosynthesis, plants produce glucose from simple inorganic molecules – carbon dioxide and water – using light energy.
+
+       6co2 + 6h20 (light and chorophyl) -> c6h12o6 + 6o2
+
+       Be careful not to confuse this photosynthesis equation with respiration which is the reverse of this.
+
+       Photosynthesis requires energy in the form of light to drive the chemical reaction. Photosynthesis is an endothermic(energy is used) reaction.
+
+       The light energy required is absorbed by a green pigment called chlorophyll in the leaves. Chlorophyll is located in chloroplasts in plant cells, particularly the palisade and spongy mesophyll cells.
+
+       Plant leaves are the main photosynthetic organ, but any part of the plant exposed to the light will develop chlorophyll and photosynthesise.
+
+       The carbon dioxide required for photosynthesis comes from the air. It enters leaves through the stomata. Water enters the plant through the roots, and is transported to the leaves in the xylem.
+
+       Oxygen is formed as the waste product. Some is used for the plant's respiration, and also released which makes it available for respiration to animals and many microorganisms.
+
+       Biosynthesis
+       Some of the glucose produced by photosynthesis is used for respiration.
+
+    Glucose is the starting point for the biosynthesis of materials that plants need to live.
+    biosynthesis is the production of more complex molecules, from simpler ones, in living organisms.
+
+    The glucose not used for respiration is used in the following ways:
+
+    Glucose -> plus nitrates absorbed from soil > amino acids -> protien
+    Glucose -> fat/oil/lipids to strore in seed 
+    Glucose -> many glucose molecules joined to form cellulose
+    Glucose -> many glucose molecules joined to form starch insoluble storage form of carbohydrates
+
+Factors affecting photosynthesis
+    There are several ways of measuring the rate of photosynthesis in the lab. These include:
+        the rate of oxygen output
+        the rate of carbon dioxide uptake
+        the rate of carbohydrate production
+
+    These are not perfect methods as the plant will also be respiring, which will use up some oxygen and carbohydrate and increase carbon dioxide output.
+
+    Several factors can affect the rate of photosynthesis:
+        light intensity
+        carbon dioxide concentration
+        temperature
+    light intensity
+        Without enough light, a plant cannot photosynthesise very quickly - even if there is plenty of water and carbon dioxide and a suitable temperature.
+        Increasing the light intensity increases the rate of photosynthesis, until some other factor – a limiting factor – becomes in short supply.
+        At very high light intensities, photosynthesis is slowed and then inhibited, but these light intensities do not occur in nature.
+
+    Carbon dioxide concentration
+        If the concentration of carbon dioxide is increased, the rate of photosynthesis will therefore increase. Again, at some point, a factor may become limiting.
+
+    Temperature
+        At low temperatures, the rate of photosynthesis is limited by the number of molecular collisions between enzymes and substrates. At high temperatures, enzymes are denatured.
+    
+    Chlorophyll
+        Chlorophyll absorbs the light energy required to convert carbon dioxide and water into glucose. Chlorophyll is green - so absorbs the red and blue parts of the electromagnetic spectrum and reflects the green part of the spectrum.
+
+    The photosynthesis compensation point is the light intensity at which the rate of photosynthesis in a plant exactly equals the rate of respiration. At this point, there is no net exchange of oxygen or carbon dioxide because the amount of carbon dioxide used in photosynthesis is equal to the amount produced by respiration

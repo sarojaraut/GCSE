@@ -1,0 +1,59 @@
+1.Atomic structure - AQA - Early ideas about atoms
+
+John Dalton published his ideas about atoms in 1803. He thought that all matter was made of tiny particles called atoms, which he imagined as tiny spheres that could not be divided.
+
+in 1897, J J Thomson carried out experiments and discovered the electron. This led him to suggest the plum pudding model of the atom. In this model, the atom is a ball of positive charge with negative electrons embedded in it. rubbing two solids together often results in static charge so there must be something (electrons) on the outsides of atoms which can be transferred as atoms collide
+
+In 1909 Ernest Rutherford designed an experiment to test the plum pudding model. In the experiment,positively charged alpha particles were fired at thin gold foil. Most alpha particles went straight through the foil. But a few were scattered in different directions.
+
+the mass of an atom is concentrated at its centre, the nucleus
+the nucleus is positively charged
+
+Niels Bohr adapted Ernest Rutherford's nuclear model. Bohr did calculations that led him to suggest that electrons orbit the nucleus in shells. The shells are at certain distances from the nucleus.
+
+Further experiments led to the idea that the nucleus contained small particles, called protons
+. Each proton has a small amount of positive charge.
+
+# 1932 that James Chadwick was able to prove its existence.
+
+Chadwick used a version of Rutherford's experiment, using a sheet of beryllium and a paraffin block instead of gold foil. He was able to prove that a proton-sized neutral particle - now known as the neutron - existed.
+
+Structure of the atom
+The nucleus is tiny compared to the atom as a whole:
+
+the radius of an atom is about 0.1 nm (1 × 10-10 m)
+the radius of a nucleus (1 × 10-14 m) is less than 1/1000 of the radius of an atom
+
+The nucleus is tiny compared to the atom as a whole:
+
+For comparison, the radius of a typical bacterium is 1 × 10-6 m and the radius of a human hair is about 1 × 10-4 m.
+
+The nuclei of all atoms contain subatomic particles called protons. The nuclei of most atoms also contain neutrons.
+
+Atomic numberThe number of protons in an atom of an element is its atomic number. Remember that:
+all atoms of a given element have the same number of protons
+atoms of different elements have different numbers of protons
+An atom contains equal numbers of protons and electrons.
+
+Mass number : The mass number of an atom is its total number of protons and neutrons.
+the mass number of argon atoms and calcium atoms can both be 40.
+
+Isotopes
+
+Atoms of the same element must have the same number of protons, but they can have different numbers of neutrons. Atoms of the same element with different numbers of neutrons are called isotopes. Isotopes of an element have:
+
+the same atomic number
+different mass numbers
+
+Calculating relative atomic mass
+
+The relative atomic mass, Ar, of an element is calculated from:
+the mass numbers of its isotopes
+the abundance of these isotopes
+
+Chlorine naturally exists as two isotopes, (chlorine-35) and (chlorine-37). The abundance of chlorine-35 is 75% and the abundance of chlorine-37 is 25%.
+
+To calculate the relative atomic mass, Ar, of chlorine: (75*35 + 25*37)/100 = 35.5
+
+
+

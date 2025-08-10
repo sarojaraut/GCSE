@@ -1,0 +1,66 @@
+Searching and sorting algorithms
+Two algorithms often used are searches and sorts:
+
+Methods of searching include:
+linear search
+binary search
+
+Methods of sorting include:
+bubble sort
+merge sort
+
+Linear Search
+    Identify a search term.
+    Look at the first item in the list.
+    Compare the item with the search term.
+    Is the current item the same as the search term? If so, the item has been found. If not, move to the next item.
+    Repeat from step two until the last item in the list has been reached.
+    If the end of the list has been reached and the search term has not been found, then the search term is not in the list and the algorithm can stop.
+
+Pseudo Code
+    find <-- 1
+    found <-- False
+    length <-- length(list)
+    counter <-- 0
+
+    WHILE found = False AND counter <= length
+        IF list[counter] = find THEN
+            found <-- True
+            OUTPUT 'Found at position', counter
+            ELSE
+            counter <-- counter + 1
+            ENDIF
+    ENDWHILE
+    IF found = False THEN
+    OUTPUT 'Item not found'
+    ENDIF
+
+Binary search
+This is a more complex algorithm than linear search and requires all items to be in order.
+
+    Find <-- 7
+    Found <-- False
+    Start <-- 0
+    End <-- length(list)
+
+    WHILE Found = False AND Start <= End
+        Mid <-- (Start + End) DIV 2
+
+        IF list[Mid] = Find THEN
+            OUTPUT 'Found at' +  Mid
+            Found <-- True
+        ELSE
+            IF List[Mid] > Find THEN
+            End <-- Mid - 1
+            ELSE
+            Start <-- Mid + 1
+            ENDIF
+        ENDIF
+    ENDWHILE
+
+    IF Found = False THEN
+        OUTPUT 'Not found'
+    ENDIF
+
+Although linear and binary searching produces the same overall results, linear search is best used when the data is not in order, or for smaller lists.
+

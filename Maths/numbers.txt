@@ -1,0 +1,71 @@
+Whole numbers
+    7 × 8 = x then 700 and 80 = ?
+    8+4 = x then 0.8 + 0.4 = ?
+    26 * 71 = 1846 then 1846 / 7.1 = ?
+    8.109 * 100 = ?
+    Create the largest odd number possible using 4, 6, 8, 9
+    Smallest even number from 7,0,4,3
+
+Approximation
+    Rounding to decimal places
+    248.5|61 to 1 decimal place is 248.6
+    248.56|1 to 2 decimal places is 248.56
+
+    Round 53,879 to 1 significant figure, then 2 significant figures.
+    5|3879 to 1 significant figure is 50,000
+    53|879 to 2 significant figures is 54,000
+
+Deccimals
+    1.2 * 1.2  =
+    1.2 / 0.12 =
+
+Multiples and Factors
+    HCF : Multiplication of common prime Factors
+    LCM : HCF * remaining prime factors
+
+Laws of indices
+    C ** 2 * C ** 3 =
+    b ** 5 / b ** 2 =
+    (x ** 2) ** 3 =
+    x ** -2 =
+    X ** 0 =
+    0! =
+    16 * 1/2 =
+Converting between fractions, decimals and percentages
+    0.46 as a fraction
+    1/3 = 0.33 = 33%
+    Converting recurring decimals :
+    Show that 0.18 = 2/11 x=0.181818...100x = 18.181818 99x = 18 x=
+Fractions
+    2 & 1/2is an example of a mixed number.
+    convertign that to Improper fraction = 5/2
+    Multiplying and dividing fractions
+Standard form
+    Standard form is written in the form of a * 10 ** n, where is a number bigger than or equal to 1 and less than 10.
+    10 ** -6 = 0.000001 (hou many zeros after decimal point)
+Surds
+    Roots that cannot be written as exact decimals are called surds. Leaving an answer in surd form means the answer is exact.
+    square root of 12 + square root of 27
+    Find exact perimeter of reatcngle with side as 2 square root of 2 and 3 suqare root ot 3
+
+    Rationalising denominators : 1 / suqare root of 2
+Financial mathematics
+    gross pay :  before any deductions
+    Deductions are income tax, national insurance and sometimes pension contributions
+    Net pay is what's left after deductions
+
+    5000 with 3.5% comound interst for three years total = 5000 * 1.035 ** 3 = 5543.59
+    5000 with 4% first year, 3.5% second year and 3% third yeartotal = 5000 * 1.04 * 1.035 * 1.03 = 5543.46
+VAT
+    Value added tax (VAT) is payable to the government by a business.
+    Currently it stands at 20% having been increased from 17.5%
+    if cost of car is 19800 after 20% vat then price before vat is =
+    120% is = 19800
+    10% = 19800/12
+    10* is = (19800/12)*10
+
+
+
+
+
+

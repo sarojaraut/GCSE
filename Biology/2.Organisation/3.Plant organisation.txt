@@ -1,0 +1,212 @@
+3.Plant organisation
+
+    Plant organisation
+        The main roles of plant stems and roots are to transport substances around. They have two types of transport systems - xylem and phloem. Xylem transports water and minerals. Phloem transports sugars and amino acids dissolved in water.
+
+        These are distributed differently in roots and stems. In the root, the xylem forms a central column. It forms a solid support. The phloem is towards the centre, outside the xylem.
+
+        In the stem, the transport tissues of the xylem and phloem are grouped into vascular bundles.
+
+        Any part of a plant above ground, where it is exposed to light, can photosynthesise. But a plant's leaves are the main organ of photosynthesis.
+
+        Plant leaves are adapted for gas exchange and photosynthesis.
+
+        Large surface area	: For maximum absorption of light; for optimum absorption of carbon dioxide
+        A thin, flattened blade - though there are exceptions :	So that water and gases have a limited distance to diffuse
+        Vascular tissue in the midrib and veins	: Branches of the xylem, to transport water and minerals to the leaf; branches of the phloem, to transport glucose and other products of photosynthesis to other parts of the plant
+        Air spaces between cells within the leaf	: For the diffusion of gases
+
+    Plant tissues - epidermis, palisade mesophyll and spongy mesophyll
+        Plant leaves are adapted for photosynthesis, and the exchange of gases required for the process. The structure of the tissues is related to their functions in the plant.
+
+        Absorbing light energy
+            The palisade mesophyll layer of the leaf is adapted to absorb light efficiently. The cells:
+                are packed with many chloroplasts
+                are column-shaped and arranged closely together
+                towards the upper surface of the leaf
+        Gas exchange
+            Spongy mesophyll
+            tissue is packed loosely for efficient gas exchange. The spongy mesophyll cells are covered by a thin layer of water. Gases dissolve in this water as they move into and out of the cells.
+
+            When the plant is photosynthesising during the day, these features allow carbon dioxide to diffuse into the spongy mesophyll cells, and oxygen to diffuse out of them.
+
+            To enter the leaf, gases diffuse through small pores called stomata. As the stomata open, water is lost by the process of 
+            transpiration
+            . Closing the stomata helps to control water loss.
+
+    Plant transport tissues - xylem and phloem
+    Xylem : transports water and minerals from the roots up the plant stem and into the leaves.
+        In a mature flowering plant or tree, most of the cells that make up the xylem are specialised cells called vessels.
+            Vessels
+                Lose their end walls so the xylem forms a continuous, hollow tube.
+                Become strengthened by a chemical called lignin (lig·nuhn). The cells are no longer alive. Lignin gives strength and support to the plant. We call lignified cells wood.
+        Transport in the xylem is a physical process. It does not require energy.
+
+    Phloem : moves food substances that the plant has produced by photosynthesis to where they are needed for processes such as:
+        growing parts of the plant for immediate use
+        storage organs such as bulbs and tubers
+        developing seeds.
+
+        Transport in the phloem is therefore both up and down the stem. Transport of substances in the phloem is called translocation.
+
+            Phloem consists of living cells. The cells that make up the phloem are adapted to their function:
+            Sieve tubes - specialised for transport and have no nuclei. Each sieve tube has a perforated end so its cytoplasm connects one cell to the next.
+
+            Companion cells - transport of substances in the phloem requires energy. One or more companion cells attached to each sieve tube provide this energy. A sieve tube is completely dependent on its companion cell(s).
+
+    The need for transport in plants
+
+    For simple multicellular organisms, such as small plants such as mosses, substances diffuse into the leaves and simple roots over their surface.Once inside the plant, they don't need to move far. They can move into and around the plants by diffusion and osmosis.
+
+    Larger organisms do not have sufficient absorbing area to meet their needs. Their needs are represented by their volume.
+
+    Larger plants and animals need transport systems and to ensure that they have sufficient absorbing surface area. This could be additional surfaces, such as the digestive system and lungs in animals, or adaptations such as the flattened shape of leaves, which increase their surface area.
+
+    Transpiration
+        When the plant opens its stomata to let in carbon dioxide, water on the surface of the cells of the spongy mesophyll and palisade mesophyll evaporates and diffuses out of the leaf. This process is called transpiration. (The loss of water from leaves by evaporation through the stomata.)
+
+        Transpiration is an unavoidable consequence of photosynthesis - only five per cent of the water taken up by the plant is used for photosynthesis - but does have its purposes:
+
+        provides the water for photosynthesis
+        transports mineral ions
+        cools the leaf as water evaporates
+        provides water that keeps the cells turgid, which supports herbaceous plants
+
+    Water uptake and transport across the root
+        Root hairs are single-celled extensions of epidermal cells in the root. They grow between soil particles and absorb water and minerals from the soil.
+        Water enters the root hair cells by osmosis. This happens because soil water has a higher water potential than the cytoplasm of the root hair cell Minerals enter by active transport.
+
+    Factors affecting transpiration
+
+    Factor	        Change in factor 	Explanation
+                    that increases 
+                    transpiration rate
+    Temperature	    Increases	         An increase in temperature increases evaporation, so the rate of diffusion of water from inside the leaf to outside increases
+    Humidity	    Decreases	         A decrease in humidity reduces the concentration of water molecules outside the leaf, so the rate of diffusion of water from inside the leaf to outside increases
+    Air movement	Increases	         An increase in air movement removes water vapour from outside the leaf, so the rate of diffusion of water from inside the leaf to outside increases
+    Light intensity	Increases	         An increase in light intensity generally increases the number of open stomata, so the rate of diffusion of water from inside the leaf to outside increases
+
+    Scientific calculations - investigating transpiration
+    Method
+        Remove a number of leaves from a bush or tree.
+        Find the mass of each leaf.
+        Suspend each leaf from a piece of wire or string.
+        After a set period of time, re-measure the mass.
+
+    Measuring water uptake - potometers
+        The uptake of water can be measured using a potometer. Under normal circumstances, the rate of water uptake gives a measure of the rate of transpiration.
+        To find the rate of water uptake of a plant.
+        The potometer is filled with water.
+        A shoot is cut from a woody plant. The end of the shoot is cut under water to ensure that the xylem remains water-filled and prevents air locks.
+        The shoot is inserted into the rubber tubing at the end of the potometer.
+        The potometer is raised so that a bubble of air is taken up.
+        The potometer is lowered into the water. The distance travelled by the air bubble is recorded over a period of time.
+
+    The effect of environmental factors on water using potometers
+
+    Investigate distribution of stomata and guard cells
+
+    Questions
+    Multiple choice questions
+        Identify the chamber of the heart labelled A.
+        If structure B is faulty, which is the best way of correcting its effect on the heart?
+        Which two of the following are functions of bile?
+        When urea is synthesised in the body, where is it transported?
+
+    One- and two-mark questions
+        In levels of organisation in an organism, a number of cells are grouped into --- (A body system	An organ	An organelle	A tissue)
+        Name the parts of the digestive system labelled A and B. (duodenum and stomach)
+        State the functions of the organ labelled C in the diagram. (pancreas: Its functions are to release enzymes, contained in pancreatic juice, and to produce insulin.)
+        What is a potometer used for? To measure the rate of water uptake by a plant shoot.(Be careful - water uptake by a plant is often very similar to the rate of transpiration, but not always. Your answer must refer to water uptake.)
+
+    Three- and four-mark questions
+        Describe how a sample of food could be tested for reducing sugars.
+            grind up the food or dissolve the food in water
+            transfer to a test tube and add 1 cm3 of Benedict's solution
+            heat the test tube in a water bath for five minutes
+            a colour change to red or brown, or through any of the intermediate stages of green → yellow → orange, demonstrates that a reducing sugar is present in the food sample
+        Describe the differences between arteries and veins.
+            Four marking points from:
+            structure: arteries have a thick wall of muscular, elastic and connective tissue, while the layers in the walls of veins are thinner
+            blood flow: arteries have a narrow lumen, while veins have a wide lumen - blood in arteries is pumped under pressure, while (because of the low pressure) veins have valves to prevent the back flow of blood
+            direction of flow: arteries take blood away from the heart, while veins take blood back to the heart
+            oxygenation: arteries transport oxygenated blood, except for the pulmonary artery, while veins transport deoxygenated blood, except for the pulmonary vein
+
+        Explain the changes that occur in the thorax as a person breathes in
+            the ribs move upwards and outwards
+            the diaphragm flattens
+            with the increase in volume in the thorax, the air pressure is lowered
+            the pressure is now lower than the air pressure
+            so air moves into the lungs passively
+
+        Describe the digestion of starch in the body
+            starch digestion begins in the mouth
+            the enzyme, amylase that is released is contained in saliva
+            amylase catalyses the breakdown of starch into maltose
+            in the duodenum, pancreatic amylase contains enzymes that continue the digestion of starch and maltose
+            starch digestion is completed by enzymes in the ileum (these are actually in the wall of the ileum)
+            human amylases work best around neutral/slightly alkaline pHs and these are created by the secretion of sodium hydrogencarbonate
+
+    Maths Questions
+        A study looked at people's sodium intake - mostly in the form of salt - and rates of stomach cancer in populations of different countries. A scatter diagram of the results of the study are shown below. Discuss the results of the study.
+            Ans : There is a correlation between the intake of sodium (ions) and the death rate from stomach cancer - as the intake of sodium increases, the rate of stomach cancer increases also.
+        A study in Switzerland investigated the relationship between the number of cigarettes smoked per day by mothers and the number of premature births. plt histogram
+        Find surface area to volume ratio
+        The number of new cases of malignant skin cancer in the UK increased at a steady rate between 1975 and 2010.
+    
+    Practical questions
+        A student is carrying out food tests. Her results are shown below. What conclusions can be drawn about the three foods, A, B and C?
+        Describe how the effect of temperature on the effect of amylase could be investigated
+        A student was investigating the effect of pH on the rate of an enzyme-controlled reaction.
+        Complete the table by calculating the rate of reaction. Write your answer to three decimal places.
+        For the data in question 3, plot a graph of rate of reaction over pH.
+    Six-mark questions
+        Describe the flow of blood from when it arrives back to the heart from the body, to when it reaches the digestive system.
+        Explain how temperature affects how enzymes work
+        Explain the effects of smoking on the human body.
+        Describe and explain the effects of obesity on the body.
+
+        Describe the flow of blood from when it arrives back to the heart from the body, to when it reaches the digestive system.
+            blood arrives back to the heart in the two vena cavae
+            it enters the right atrium and when this is full, the atrium contracts and blood is forced into the right ventricle
+            a valve prevents the back flow of blood into the right atrium
+            the right atrium contracts, and blood enters the pulmonary arteries
+            valves prevent back flow into the right atrium
+            blood is oxygenated at the lungs and returns to the left atrium
+            it passes to the left ventricle, and to the aorta
+            blood is taken to the digestive system in a branch of the aorta
+        Explain how temperature affects how enzymes work
+            enzymes are proteins
+            they have a specific shape
+            for enzymes to work, the substrate fits into a region of the enzyme called the active site
+            the shape of the active site is specific to each substrate
+            as the temperature is increased, the number of (successful) collisions between the substrate and the enzyme increases, so the rate of reaction increases
+            above a certain temperature, the shape of the enzyme is changed - the enzyme is denatured
+            the substrate no longer fits into the active site, so the reaction slows, then stops
+            each enzyme has an optimum temperature at which it works best
+
+        Explain the effects of smoking on the human body.
+            person can develop chronic obstructive disease (COPD)/chronic bronchitis/emphysema
+            bronchioles and alveoli are damaged/destroyed
+            lungs become inflamed and mucus builds up
+            breathing is impaired, and the patient does not receive sufficient oxygen
+            lung cancer is another effect owing to chemical carcinogens in cigarette smoke
+            cells divide uncontrollably and invade other parts of the body, forming secondary tumours - lung cancer is usually fatal
+            in pregnant women, smoking increases the risk of miscarriage, reduced birthweight of the baby, and respiratory disease in the child/later life
+
+        Describe and explain the effects of obesity on the body.
+            obesity is a condition where a person is very overweight, with an abnormal amount of excess body fat beneath the skin
+            obesity is a risk factor for cardiovascular disease
+            obesity leads to high blood pressure and the build-up of fatty deposits in the arteries
+            fatty deposits in the coronary arteries reduce the oxygen reaching the heart, causing a heart attack
+            build-up of fat/lipids in the abdomen increases blood pressure beyond normal levels along with increasing levels of blood lipids
+            obesity increases the risk of type 2 diabetes
+            type 2 diabetes is where the body's cells lose their sensitivity to insulin - they no longer respond, or respond less effectively, to the insulin that's produced
+            fat intake and obesity increases the risk of certain cancers
+    Linking questions
+        Compare the transport systems in animals and plants.
+        The graph shows the effect of alcohol on the risk of developing one form of heart disease: The death rate was estimated relative to people who did not drink. Discuss what the results show
+        Explain how the protein eaten in a piece of meat enters the body and is used by the body's cells.
+        Glyphosate is a herbicide, or weed killer. It is often sprayed on crops, including soya and wheat, genetically modified for herbicide-resistance crops to increase yields. Some scientists are concerned about the use of glyphosate. Data they have plotted on the use of glyphosate since its introduction and rates of diabetes in the USA is shown below: Discuss the positive and negative aspects of using glyphosate on crops. 
+
+    https://www.bbc.co.uk/bitesize/guides/z8nsrwx/revision/7

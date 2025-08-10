@@ -1,0 +1,25 @@
+# Structure of the atom
+
+The modern view of the atom is of a nucleus containing protons and neutrons with smaller electrons orbiting outside the nucleus.
+
+Protons and neutrons are the heaviest particles in an atom and as a result they make up most of the mass of the atom.
+
+The number of protons is what defines the element
+The total number of protons and neutrons is called the mass number and the number of protons is called the atomic number
+
+An element's atomic number defines it. An element with 17 protons will always be chlorine.However an element's mass numbers can vary, which means that it can have different numbers of neutrons.
+So although chlorine has a mass number of 35 which means it has 18 neutrons, it can also have a mass number of 37, which means it has 20 neutrons.
+
+The different types of chlorine are called isotopes.
+
+Isotopes are forms of an element that have the same number of protons but different numbers of neutrons.
+
+There are three isotopes of hydrogen: hydrogen, deuterium (hydrogen-2) and tritium (hydrogen-3):
+
+# Ions
+Normally, atoms are neutral. They have the same number of protons in the nucleus as they have electrons orbiting in the energy levels around the nucleus.
+
+Atoms can, however, lose or gain electrons due to collisions or other interactions.
+
+if the atom loses one or more electrons, it becomes a positively-charged ion
+if the atom gains one or more electrons, it becomes a negatively-charged ion

@@ -1,0 +1,246 @@
+Factorising quadratics
+    ax**2 + b*x + c : find two numbers whose addition is b and multiplication is ac. mind the signs
+
+Algebraic formulae
+    The plural of formula is formulae.
+    A formula is a mathematical rule or relationship that uses letters to represent amounts which can be changed – these are called variables.
+    Area of triangle = 1/2bh
+    Function notation
+
+Factorising is the reverse process of expanding brackets.
+
+In Foundation Tier, 𝑎 will always be 1, so quadratic expressions will be in the form 𝑥² + 𝑏𝑥 + 𝑐.
+
+To factorise the quadratic 𝑥² + 𝑏𝑥 + 𝑐, the sum of the two numbers in the brackets must be 𝑏, and the product must be 𝑐.
+
+𝑥² + 12𝑥 + 20
+
+Factorising quadratic expressions of the form 𝑎𝑥² + 𝑏𝑥 + 𝑐 where 𝑎 is greater than 1 requires a different method to those where 𝑎 = 1.
+
+Multiply the coefficient of 𝑥2 and the constant term
+
+2𝑥² + 13𝑥 + 15 > 2𝑥² + 10𝑥 + 3x + 15
+
+List pairs of numbers that multiply to make 30.  Find the pair that adds to make 13.
+
+
+Key points about algebraic reasoning and proof
+
+    Two even numbers added together will always make an even number because they are always in groups of 2.
+    Two odd numbers added together will always make an even number because the extra ​1s​​​​​ add together to make another lot of 2.
+    An even and an odd number added together make an odd number because there will always be an extra 1.
+    An e​​ven lot of an odd number becomes even because the extra 1s are paired together. An odd​​ lot of an odd number is odd because there will always be an extra 1 left.​
+
+    If 𝑡 is odd, explain why 5𝑡 + 3 is even. odd * odd = odd and + odd = even
+Type of integers	        Numerical examples	Algebraic examples
+3 different integers	    4, 7, 99	           𝑛, 𝑚, 𝑝
+3 consecutive integers	    4, 5, 6	               𝑛, 𝑛 + 1, 𝑛 + 2
+3 different even integers	6, 8, 42	           2𝑛, 2𝑚, 2𝑝
+3 different odd integers	9, 11, 37	           2𝑛 + 1, 2𝑚 + 1, 2𝑝 + 1
+3 consecutive even integers	10, 12, 14	           2𝑛, 2𝑛 + 2, 2𝑛 + 4
+3 consecutive odd integers	13, 15, 17	           2𝑛 + 1, 2𝑛 + 3, 2𝑛 + 5
+
+
+Prove that the sum of four consecutive odd numbers is always a multiple of 8.
+
+Changing the subject of a formula
+In the case of 𝑦 = 3𝑥 + 4, 𝑦 is the subject.
+x = (y-4)/3
+
+How much do you know about plotting straight line graphs? x=-2, y=2, y=-x, y = 3-2x
+
+A geometric sequence starts with 2 and has a common ratio of 5. Another geometric sequence starts with 800 and has a common ratio of 0·25.
+What number is in both sequences?
+
+triangular sequence : 1, 3, 6, 10, 15,
+Finding the gradient : d y / d x, y = mx+c and what is the y intercept
+A gradient of 8 is steeper than a gradient of 3.
+A negative value of 𝑚 shows the line has a downward slope.
+
+2y=3x-1
+
+(1, 6) and (3, 2) are two points on a line.  Find the equation of the line. find the slope first and use y = mx +c and put any point cordinates to find out c
+
+f(x) = 3x+1
+Inverse of f(x) is f to the power -1(x)
+
+inverse f(x) = (x+1)/3
+
+Composite functions
+
+Composite functions are created by combining two functions. They are made when the output from one function is used as the input for another function.
+
+
+f(x) = 2x+3 and g(x) = x**2
+fg(4) = F(g(4)) = f(16) = 35
+
+Solve one or two step equations : 3x+4=25
+
+4x+3 = 9-2x
+
+(3x+5)/4 = 7
+
+(17x+33)/4=7x
+
+Higher tier equarions solve with fractions : 2x/3 + 3x/4 = 17
+
+inequalities
+
+-2n > 6
+n < -3
+
+Solve 18 < 7𝑛 − 10 ≤ 25
+Add + 10 on all sides and device by 7 :  4<n<=5
+
+The set of whole numbers is made up of zero and positive numbers with no decimal part (0, 1, 2, 3, …).
+
+The set of integers is made up of all the whole numbers and negative numbers with no decimal part
+(…−3, −2, −1, 0, 1, 2, 3, …).​
+
+Solid dot and empty dot to sidtinguish <= and <
+
+What is the largest integer that satisfies the inequality 2𝑛 < 7?
+
+graphs of inequalities
+Include a dashed line for inequalities where the sign < or > is used and a solid line for inequalities where the sign ≤ or ≥ is used.
+
+Label the region, R, that satisfies the inequalities 𝑥 > 0, 𝑦 > 2, and 𝑦 > 2𝑥 – 1.
+
+find the nth term : 3, 7, 11, 14, plus 4 write 4 time table along side each number and find out the offset
+
+Find nth term : 14, 11, 8, 5, 2
+
+New Sequences
+𝒏th term of a quadratic sequence
+
+Work out the 𝑛𝑡ℎ term of the sequence 3, 6, 11, 18, 27, ...
+Find the second differences between the terms. The second differences are all + 2.
+Half the second difference and that will be the coefficient of n**2
+find the offset for 2n* which is 6,5,4,3,2 : find out the liner nth term for this which is 7-n
+
+So n**2 + 7 - n s the equation for nth term
+
+-4, 1, 10, 23, 40, 61
+
+  5   9   13  17  21
+    4   4    4   4
+
+2    8    18   32   50 -- So coefficitn of n**2 is 2
+-6   -7   -8   -9   -10
+-n -5
+
+2n**2 -n -5
+
+New geometric and special sequences
+
+A linear (or arithmetic) sequence increases or decreases by the same number each time, whereas non-linear sequences have different patterns between the numbers. 4, 7, 10, 13, 16
+
+A geometric sequence has a term-to-term rule of multiplying by a specific number each time. 4, 20, 100, 500, 2500
+
+Other types of special non-linear sequences include quadratic sequences and Fibonacci sequences , as well as triangular, square and cube numbers. A sequence can also take the form of a picture pattern.
+
+
+Fibonanci sequence : 1, 1, 2 ,3 ,5 ,8
+
+Triangular number squence :
+1, 3, 6, 10, 15, 21
+1  4  9  16  25  36
+0 -1 -3  -6 -10  -15
+
+
+parallel and perpendicular lines
+
+allel
+ lines have the same
+gradient
+.
+
+Higher -
+Perpendicular
+ lines have gradients that are the negative
+reciprocal
+ of each other.
+
+Higher - The gradients of two perpendicular lines will always multiply to make –1.
+
+Simultaneous equations
+
+3x+y=11 and 2x+y=8
+
+Simultaneous equations with one linear and one quadratic - Higher
+
+y = x+3 and y = x**2 + 3x
+
+Quadratic equations
+
+Solving by factorising
+quadratic formula : (-b +or-squere root of (b**2 - 4ac))/2a
+
+completing the square
+
+X**2 + bx + c = 0
+
+(x+b/2)**2 -(b/2)**2+c = 0
+
+(x+b/2)**2 = (b/2)**2 - c
+(x+b/2) = square root of
+
+x**2 + 6x -10 = 0
+
+(x+3)**2 - 9-10 = 0
+(x+3)**2 = 19
+x+3 = squareroot of 19
+
+Graphs of quadratic functions
+
+Graph of y = ax2 + bx + c
+
+if a> 0 then parabola opening upwards, with turning point at the bottom
+if a < 0 then parabola opening downwards, with turning point at the top
+
+The roots or solutions to the equation are the values of the x-coordinates of the points where the graph crosses the
+-axis.
+
+if the quadratic equation has no roots then that means that curve does not intersect x-axis
+y intercet can be found by putting x=0
+
+Finding the turning point and the line of symmetry
+
+--Other graphs
+
+Reciprocal graphs : y= 1/x
+Exponential graph = y= k**X
+equation of a circle : Find the equation of a circle with radius 3 units and centre (0, 0) x**2 + y**2 = 9
+
+equation of the tangent to a circle
+Find the equation of the tangent to the circle x**2 + y**2 = 25 at the point (3, -4).
+
+Imagine tangent = y= mx+C, slope of perpendicular line from centre to the point is = -4/3 from origin
+
+so the actual slope of tangent is 3/4: find y intercept and find out equation of line
+
+Transformation of curves
+The graph of y=f(x) where  f(x)=x**2 is the same as the graph of y=x**2. Writing equations as functions in the form
+f(x) is useful when applying translations and reflections to graphs.
+
+Translations parallel to the y-axis
+If f(x) = x**2 , then f(x) = a+ x**2. Here we are adding a to the whole function. The addition of the value
+ represents a vertical translation in the graph. If a is positive, the graph translates upwards. If a
+ is negative, the graph translates downwards.
+
+Translations parallel to the x-axis
+If f(x) = x**2 , then f(x+a) = (x+a)**2.
+
+Here we add a to x, not to the whole function. This time we will get a horizontal translation. If a is positive then the graph will translate to the left. If the value of a is negative, then the graph will translate to the right.
+
+f(x) = x**2, y=f(x), y = f(x-2), graph will be translated to right
+
+if f(x+a) represents a transalation of graph f(x) then in vector form it this translation is represented as (-a 0)
+
+Reflections of graphs
+
+Graphs can be reflected in either the x or y axes.
+Reflections in the x-axis
+If f(x) = x**2, then -f(x) = -(x**2)
+Reflections in the y-axis
+If f(x) = x**3, then f(-x) = (-x**3)

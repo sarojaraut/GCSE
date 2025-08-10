@@ -1,0 +1,108 @@
+Respiration
+
+    Cellular respiration
+    Releasing energy
+        Respiration releases energy – it is an exothermic process.
+
+        Photosynthesis is the process by which plants, and some bacteria, synthesise food molecules – which they then use, in addition to other things, for respiration. 
+        The process of photosynthesis requires energy – it is endothermic.
+
+        Don't confuse respiration with breathing, which is ventilation. Respiration happens in cells
+        Why organisms need energy
+            All organisms need energy to live. This energy is used: to drive the chemical reactions needed to keep organisms alive – the reactions to build complex carbohydrates, proteins and lipids from the products of photosynthesis in plants, and the products of digestion in animals, require energy
+            movement – in animals, energy is needed to make muscles contract, while in plants, it is needed for transport of substances in the phloem
+
+            Respiration is only around 40 per cent efficient. As animals respire, heat is also released. In birds and mammals, this heat is distributed around the body by the blood. It keeps these animals warm and helps to keep a constant internal temperature.
+
+            Energy is also used:
+            for cell division
+            to maintain constant conditions in cells and the body - homeostatis
+            to move molecules against concentration gradients in - active transport
+            for the transmission of  nerve pulses
+    Aerobic and anaerobic respiration
+        Respiration using oxygen to break down food molecules is called aerobic respiration. Glucose is the molecule normally used for respiration – it is the main respiratory substrate. Glucose is oxidised to release its energy.
+
+        glucose + oxygen → carbon dioxide + water + energy released
+
+        You need to be able to recognise the chemical symbols: C6H12O6 + 6O2 → 6CO2 + 6H2O + energy released
+
+        Respiration is a series of reactions, but this summarises the overall process.
+
+        The first stages of respiration occur in the cytoplasm of cells, but most of the energy released is in the mitochondria.
+
+    Anaerobic respiration
+        Most organisms cannot respire without oxygen but some organisms and tissues can continue to respire if the oxygen runs out. 
+        These organisms and tissues use the process of anaerobic respiration.
+
+        Human muscle can respire anaerobically for short periods of time – even though the process is relatively inefficient, it's better to continue respiring and be able to run away from danger – or run a race. The glucose in muscle is converted to lactic acid: glucose → lactic acid + energy released
+        C6H12O6 -> 2C3H6O3 + energy
+
+        Some plants, and some fungi such as yeast can respire anaerobically – it's preferable to release less energy but remain alive.
+    
+    Anaerobic respiration in yeast
+    Anaerobic respiration is economically important – many of our foods are produced by microorganisms respiring anaerobically.
+
+    Yeast is used to make alcoholic drinks. When yeast cells are reproducing rapidly during beer or wine production, the oxygen runs out. The yeast switches to anaerobic respiration. Ethanol and carbon dioxide are produced.
+
+    Yeast can also be used to produce bread. Yeast respires using sugar added to the dough. Bubbles of carbon dioxide make the bread rise. The alcohol that’s produced evaporates as the bread is baked.
+
+Response to exercise
+    Muscles need energy to contract. While exercising, the muscles need additional energy as:
+
+    the breathing rate and volume of each breath increases to bring more oxygen into the body and remove the carbon dioxide produced
+    the heart rate increases, to supply the muscles with extra oxygen and remove the carbon dioxide produced
+
+    If insufficient oxygen is available to the muscles, for instance the exercise is vigorous and/or prolonged, the heart and lungs are unable to supply sufficient oxygen. Muscles begin to respire anaerobically. Lactic acid is produced from glucose, instead of carbon dioxide and water. Muscles continue to contract, but less efficiently.
+
+    During long periods of vigorous activity: lactic acid levels build up
+    glycogen reserves in the muscles become low as more glucose is used for respiration, and additional glucose is transported from the liver.This build-up of lactic acid produces an oxygen debt.
+
+    As body stores of glycogen become low, the person suffers from muscle fatigue.
+
+Oxygen debt and the liver
+Liver converts lactic acid back to glucose which needs oxygen.
+
+Oxygen debt
+    When a period of exercise is over, lactic acid must be removed. The body's tolerance of lactic acid is limited.
+
+    Lactic acid is taken to the liver by the blood, and either:
+        oxidised to carbon dioxide and water, or
+        converted to glucose, then glycogen - glycogen levels in the liver and muscles can then be restored
+        These processes require oxygen. This is why, when the period of activity is over, a person’s breathing rate and heart rate do not return to normal straightaway.
+
+    The amount of oxygen required to remove the lactic acid, and replace the body's reserves of oxygen, is called the oxygen debt.
+
+    When someone who has been exercising pays back an oxygen debt, it can take from a few hours for normal exercise, to several days after a marathon.
+Metabolism
+    Metabolism is the term used for all the chemical reactions that go on inside an organism's body.
+    These reactions build up molecules, and break them down. They are controlled by enzymes. 
+    
+    In plants, here's a summary of the reactions that build up substances following photosynthesis:
+
+           |-> Cellulose : Many glucose molucules joined to build cell walls, adds strength to cell walls
+    Glucose|-> Starch : insoluble storage form of cabrohydrate
+    |   |-> Lipids/fats/oils used for storage in seeds
+    |nitrate obsorbed from the soil -> amino acids -> many amino acid molecules joined -> protien
+
+    In plants, here's a summary of the reactions that break down compounds:
+
+    Starch and lipids in cells and storage organs break down to glucose
+    Protiens breks down to amino acids -> amino groups removed -> glucose 
+
+    In animals, here's a summary of the reactions that build up substances following the absorption of the products of digestion:
+
+
+    Glycogen is broken down to meet short-term demands for energy.
+
+    Longer term, lipids are broken down. Proteins may be broken down during starvation.
+    Glucose used for respiration
+    Many glucose molecules joined to form glycogen and stored in liver and muscles 
+    fatty acid and glycerol product of digestion -> gives lipids used to build cell membrane stored under skin
+    Amino acids molecules joined to form protiens
+
+    In animals, here's a summary of the reactions that break down compounds:
+
+    Glycogen is a storage form of carbohydrate , large stores in liver and muscles > breaks down to glucose > used in respiration
+    Lipids stored under skin > breaks down into fatty acids and glycerol > used in respiration
+    Protiens > breaks down to amino acids > amino group removed > produces urea in liver and excreated by kidney > amino groups used in respiration
+    

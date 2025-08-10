@@ -1,0 +1,11 @@
+#Scalar and vector quantities - AQA
+
+A physical quantity is something that can be measured. Scalar quantities only have a magnitude or size.
+
+Examples of scalar quantities : Temprature, mass, speed, length, volume, distance, energy, density etc
+Scalers can be added sutracted like standard numerical operations
+
+Vector quantities have both magnitude and an associated direction, unlike scalar quantities, which just have magnitude.
+
+Examples of vector quantities : Velocity, displacement, force, acceleration, momentum
+
