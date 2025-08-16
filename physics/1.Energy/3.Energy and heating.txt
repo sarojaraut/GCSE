@@ -1,4 +1,84 @@
 3.Energy and heating
-As well as transferring energy from one store to another, energy is transferred or transmitted from place to place. 
-As it moves through a substance, energy is transmitted by conduction, convection or radiation.
 
+    Energy and heating
+    Thermal conductivity
+    Investigating the effectiveness of insulating materials
+    Investigating methods of insulation - thickness
+    Specific heat capacity
+    Practical - measuring specific heat capacity
+
+Energy transfer
+    As well as transferring energy from one store to another, energy is transferred or transmitted from place to place. 
+    As it moves through a substance, energy is transmitted by conduction, convection or radiation.
+
+    Conduction
+        The aluminium base of a pan, the copper in the wires from a plug and the steel of a bell are all conductors.
+        A conductor is a material that allows internal (thermal) energy to be transmitted through it easily.
+        An insulator is a material that will not allow the easy flow of energy.
+
+        All metals are good conductors. 
+        When one end of a metal rod is put into a fire, the energy from the flame makes the ions in the rod vibrate faster.
+        Since the ions in the solid metal are close together, this increased vibration means that they collide with neighbouring ions more frequently. 
+        Energy is passed on through the metal by these collisions, transmitting the energy. 
+        More frequent collisions increase the rate of transfer.
+
+        Insulation
+            The cushion on a chair is an insulator. 
+            A metal seat at a railway station will feel cold as it conducts energy away from the passenger’s body, whereas a cushion on the chair would not allow energy to flow so easily.
+
+Thermal conductivity
+    There are a number of factors that affect how energy flows through an object. A very important factor is what the object is made from.
+
+    Thermal conductivity is a measure of how well a material conducts energy when it is heated.
+
+    Some typical values of conductivities are:
+    Material	Thermal conductivity (watts per metre per degree Celsius (W/m/°C))
+    Copper	       385.0
+    Glass	       0.17
+    Brick	       0.15
+    Air	           0.024
+
+    This means that 385 joules (J) of energy will flow per second through a cubic block of copper (1 m × 1 m × 1 m) when the temperature difference between its sides is 1°C.
+
+Investigating methods of insulation - materials
+    Aim of the experiment
+        To compare the effectiveness of different materials as thermal insulators.
+    https://www.bbc.co.uk/bitesize/guides/z2gjtv4/revision/3
+    https://www.bbc.co.uk/bitesize/guides/z2gjtv4/revision/4
+
+
+Specific heat capacity
+    The amount of energy needed to raise the temperature of 1 kg of substance by 1°C.
+
+    When materials are heated, the molecules gain kinetic energy and start moving faster. The result is that the material gets hotter.
+    Temperature is a measure of the average kinetic energy of the molecules.
+
+    Different materials require different amounts of energy to change temperature. The amount of energy needed depends on:
+        the mass of the material
+        the substance of the material (specific heat capacity)
+        the desired temperature change
+
+    The specific heat capacity of water is 4,200 Joules per kilogram per degree Celsius (J/kg°C). This means that it takes 4,200 J to raise the temperature of 1 kg of water by 1°C.
+
+    Material	Specific heat capacity (J/kg/°C)
+        Brick	840
+        Copper	385
+        Lead	129
+
+    Lead will warm up and cool down fastest because it doesn’t take much energy to change its temperature. Brick will take much longer to heat up and cool down. This is why bricks are sometimes used in storage heaters as they stay warm for a long time. Most heaters are filled with oil (1,800 J/kg°C) or water (4,200 J/kg°C) as these emit a lot of energy as they cool down and, therefore, stay warm for a long time.
+
+Required practical - measuring specific heat capacity
+
+    Aim of the experiment
+        To measure the specific heat capacity of a sample of material.
+
+    Method
+        Place the immersion heater into the central hole at the top of the block.
+        Place the thermometer into the smaller hole and put a couple of drops of oil into the hole to make sure the thermometer is surrounded by hot material.
+        Fully insulate the block by wrapping it loosely with cotton wool.
+        Record the temperature of the block.
+        Connect the heater to the power supply and turn it off after ten minutes.
+        After ten minutes the temperature will still rise even though the heater has been turned off and then it will begin to cool. Record the highest temperature that it reaches and calculate the temperature rise during the experiment.
+
+    energy transferred = potential difference × current × time
+    E = V * I * t

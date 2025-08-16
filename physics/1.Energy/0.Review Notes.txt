@@ -1,0 +1,32 @@
+Review Notes
+
+    what is energy
+    different energy stores
+    Energy dissipation
+    Ek kinetic energy
+    Ee elastic potential energy 
+    Ep Calculating gravitational potential
+
+    W = F * d
+    P = W/t
+    efficiency = useful energy transferred/total energy transferred
+
+    energy is transmitted by conduction, convection or radiation
+    Conduction is the transfer of heat through direct contact, like a pan on a stove. 
+    Convection is the transfer of heat through the movement of fluids (liquids or gases), such as hot air rising. Hotter, less dense fluid rises, while cooler, denser fluid sinks, creating a circular flow
+    Radiation is the transfer of heat through electromagnetic waves, like sunlight. 
+    Specific heat capacity: The amount of energy needed to raise the temperature of 1 kg of substance by 1°C.
+    National and global energy demands and resources
+
+
+    The motor in the lifts a 2.5 N weight 2 m. work done  W = fd = 5J
+
+    A saucepan containing 4.5 kg of water is heated from 20 °C to 100 °C. Given that the specific heat capacity of water is 4200 J/kg°C, calculate the energy transferred to the water. 4200 * 4.5 * 80 = 4200 * 360 = 1512,000 J
+
+    The boat has a mass of 800 kg and is moving at a speed of 4 m/s. Calculate the amount of energy in the boat’s kinetic store. = 0.5 * 800 * 4 * 4 = 6400J
+
+    The boat transfers 5000 J of energy from the chemical store of its fuel, causing the boat’s store of (useful) kinetic energy to increase by 3000 J – while the remaining 2000 J is dissipated as (wasted) heat. Effciency = usefull energy / total energy = 3/5 percentage effciency= 60%
+
+    The immersion heater is used to heat a block of metal. It has a power of 50 W and is switched on for 10 minutes.Calculate the energy transferred to the heater.
+    p = w/t => w = pt = 50 * 10 * 60 = 30000J ( Mind conversion of minutes to seconds)
+

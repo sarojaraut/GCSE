@@ -1,75 +1,83 @@
 Changes in energy stores
 
-## Types of energy store: meecking
-Examples of energy stores
- magnetic : The energy stored when repelling poles have been pushed closer together or when attracting poles have been pulled further apart.
- internal (thermal) : The total kinetic and potential energy of the particles in an object, in most cases this is the vibrations - also known as the kinetic energy - of particles. In hotter objects, the particles have more internal energy and vibrate faster. Human bodies, hot coffees, stoves or hobs. Ice particles vibrate slower
- chemical : The energy stored in chemical bonds, such as those between molecules. Foods, muscles, electrical cells.
- kinetic : The energy of a moving object. Runners, buses, comets.
- electrostatic : The energy stored when repelling charges have been moved closer together or when attracting charges have been pulled further apart. Thunderclouds, Van De Graaff generators.
- elastic potential : The energy stored when an object is stretched or squashed.  compressed springs, inflated balloons.
- gravitational potential : The energy of an object at heigh. Aeroplanes, kites, mugs on a table.
- nuclear : The energy stored in the nucleus of an atom. Uranium nuclear power, nuclear reactors.
+Energy can be described as being in different ‘stores’. It cannot be created or destroyed but it can be transferred, dissipated or stored in different ways
+
+Types of energy store
+Energy transfers
+Energy dissipation
+The conservation of energy
+Calculation of energy change
+
+    ## Types of energy store: 
+        Examples of energy stores
+        magnetic : The energy stored when repelling poles have been pushed closer together or when attracting poles have been pulled further apart.
+        internal (thermal) : The total kinetic and potential energy of the particles in an object, in most cases this is the vibrations - also known as the kinetic energy - of particles. In hotter objects, the particles have more internal energy and vibrate faster. Human bodies, hot coffees, stoves or hobs. Ice particles vibrate slower
+        chemical : The energy stored in chemical bonds, such as those between molecules. Foods, muscles, electrical cells.
+        kinetic : The energy of a moving object. Runners, buses, comets.
+        electrostatic : The energy stored when repelling charges have been moved closer together or when attracting charges have been pulled further apart. Thunderclouds, Van De Graaff generators.
+        elastic potential : The energy stored when an object is stretched or squashed.  compressed springs, inflated balloons.
+        gravitational potential : The energy of an object at heigh. Aeroplanes, kites, mugs on a table.
+        nuclear : The energy stored in the nucleus of an atom. Uranium nuclear power, nuclear reactors.
 
 
-## Energy transfers
-There are energy transfers going on all the time - whenever a system changes there is a change in the way some or all of the energy is stored.
+    ## Energy transfers
+        There are energy transfers going on all the time - whenever a system changes there is a change in the way some or all of the energy is stored.
 
-A swing : Kinetic energy is transferred into gravitational potential energy. At the bottom max kinetic energy, at the highest altitude max Gravitational potential energy
+        A swing : Kinetic energy is transferred into gravitational potential energy. At the bottom max kinetic energy, at the highest altitude max Gravitational potential energy
 
-energy is transferred  by one of the following four types of energy transfer:
-mechanical work - a force moving an object through a distance
-electrical work - charges moving due to a potential difference 
-heating - due to temperature difference caused electrically or by chemical reaction
-radiation - energy transferred as a wave, eg light and infrared - light radiation and infrared radiation are  emitted  from the sun
+        energy is transferred  by one of the following four types of energy transfer:
+            mechanical work - a force moving an object through a distance
+            electrical work - charges moving due to a potential difference 
+            heating - due to temperature difference caused electrically or by chemical reaction
+            radiation - energy transferred as a wave, eg light and infrared - light radiation and infrared radiation are  emitted  from the sun
 
-Doing 'work' is the scientific way of saying that energy has been transferred. For example, a grazing cow, a firing catapult and a boiling kettle are all doing 'work', as energy is being transferred.
+    Doing 'work' is the scientific way of saying that energy has been transferred. For example, a grazing cow, a firing catapult and a boiling kettle are all doing 'work', as energy is being transferred.
 
-Transfer diagrams
-In transfer diagrams the boxes show the energy stores  and the arrows show the energy transfers.
-Child sliding on a slide: GP gets transferred to Kinetic and Interal(heat due to friction)
+    Transfer diagrams
+        In transfer diagrams the boxes show the energy stores  and the arrows show the energy transfers.
+        Child sliding on a slide: GP gets transferred to Kinetic and Interal(heat due to friction)
 
-Sankey diagrams
-Sankey diagrams start off as one arrow that splits into two or more points. This shows how all of the energy in a system is transferred into different stores.
+    Sankey diagrams
+        Sankey diagrams start off as one arrow that splits into two or more points. This shows how all of the energy in a system is transferred into different stores.
 
-gravitational potential energy 1200J
-    > kinetic energy of the child 800j
-    > Internal energy of the slide and child 400j
+    gravitational potential energy 1200J
+        > kinetic energy of the child 800j
+        > Internal energy of the slide and child 400j
 
-## Energy dissipation
-Energy can be described as being in different ‘stores’. It cannot be created or destroyed but it can be transferred, dissipated or stored in different ways.
+    ## Energy dissipation
+        Energy can be described as being in different ‘stores’. It cannot be created or destroyed but it can be transferred, dissipated or stored in different ways.
 
-Dissipation is a term that is often used to describe ways in which energy is wasted. Any energy that is not transferred to useful energy stores is said to be wasted because it is lost to the surroundings. Energy is usually lost by heating up the surroundings though sometimes energy is dissipated as sound waves.
+        Dissipation is a term that is often used to describe ways in which energy is wasted. Any energy that is not transferred to useful energy stores is said to be wasted because it is lost to the surroundings. Energy is usually lost by heating up the surroundings though sometimes energy is dissipated as sound waves.
 
-## The conservation of energy
-Energy can be transferred usefully, stored or dissipated, but it cannot be created or destroyed.
+    ## The conservation of energy
+        Energy can be transferred usefully, stored or dissipated, but it cannot be created or destroyed.
 
-When a skydiver jumps out of a plane, he begins to lose gravitational potential energy as his height decreases and he gains kinetic energy as his speed increases.
+        When a skydiver jumps out of a plane, he begins to lose gravitational potential energy as his height decreases and he gains kinetic energy as his speed increases.
 
-Not all of the gravitational potential energy is transferred into kinetic energy as some work is done pushing against the air particles increasing their internal energy
+        Not all of the gravitational potential energy is transferred into kinetic energy as some work is done pushing against the air particles increasing their internal energy
 
-All smartphones contain a battery that stores chemical energy. When a smartphone is in use, electrical work is done and a current flows - the battery’s chemical energy is transferred in a number of ways to light the screen and produce sound.
-In addition to this, many smartphones also heat up when used  so chemical energy is also transferred into internal energy.
+        All smartphones contain a battery that stores chemical energy. When a smartphone is in use, electrical work is done and a current flows - the battery’s chemical energy is transferred in a number of ways to light the screen and produce sound.
+        In addition to this, many smartphones also heat up when used  so chemical energy is also transferred into internal energy.
 
-## Calculation of energy changes
+    ## Calculation of energy changes
 
-Calculating kinetic energy
-Ek = 1/2 * m * v**2
-kinetic energy (Ek) is measured in joules (J)
-mass (m) is measured in kilograms (kg)
-speed (v) is measured in metres per second (m/s)
-j in kg*meter**2/second**2 (kg*meter/second**2) * meter
+        Calculating kinetic energy
+        Ek = 1/2 * m * v**2
+        kinetic energy (Ek) is measured in joules (J)
+        mass (m) is measured in kilograms (kg)
+        speed (v) is measured in metres per second (m/s)
+        j in kg*meter**2/second**2 (kg*meter/second**2) * meter
 
-Calculating elastic potential energy
-Ee = 1/2 * k * e**2
-elastic potential energy (Ee) is measured in joules (J)
-spring constant (k) is measured in newtons per metre (N/m)
-extension (e) is measured in metres (m)
-j in newton*meter
+        Calculating elastic potential energy
+        Ee = 1/2 * k * e**2
+        elastic potential energy (Ee) is measured in joules (J)
+        spring constant (k) is measured in newtons per metre (N/m)
+        extension (e) is measured in metres (m)
+        j in newton*meter
 
-Calculating gravitational potential energy
-Ep = m*g*h
-gravitational potential energy (Ep) is measured in joules (J)
-mass (m) is measured in kilograms (kg)
-gravitational field strength (g) is measured in newtons per kilogram (N/kg) (g = ~10 N/kg on earth)
-height (h) is measured in metres (m)
+        Calculating gravitational potential energy
+        Ep = m*g*h
+        gravitational potential energy (Ep) is measured in joules (J)
+        mass (m) is measured in kilograms (kg)
+        gravitational field strength (g) is measured in newtons per kilogram (N/kg) (g = ~10 N/kg on earth)
+        height (h) is measured in metres (m)

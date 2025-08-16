@@ -1,32 +1,37 @@
 2.Work, power and efficiency
 
-## Energy and work
-When a force causes a body to move, work is being done on the object by the force. Work is the measure of energy transfer when a force (F) moves an object through a distance (d).
-energy transferred = work done
-work done = force × distance
-W = F * d
-work done (W) is measured in joules (J)
-force (F) is measured in newtons (N)
-distance (d) is in the same direction as the force and is measured in metres (m)
+    Work, power and efficiency : w=fd ( joule = newton*meter)
+    Energy and power : p=w/t (watt = joule/second)
+    Efficiency : efficiency = useful energy transferred/total energy transferred
+    Electrical appliances
 
-## Energy and power
-When work is done on an object, energy is transferred. The rate at which this energy is transferred is called power. So the more powerful a device is, the more energy it will transfer each second.
+    ## Energy and work
+        When a force causes a body to move, work is being done on the object by the force. Work is the measure of energy transfer when a force (F) moves an object through a distance (d).
+        energy transferred = work done
+        work done = force × distance
+        W = F * d
+        work done (W) is measured in joules (J)
+        force (F) is measured in newtons (N)
+        distance (d) is in the same direction as the force and is measured in metres (m)
 
-P = W/t
+    ## Energy and power
+        When work is done on an object, energy is transferred. The rate at which this energy is transferred is called power. So the more powerful a device is, the more energy it will transfer each second.
 
-power (P) is measured in watts (W)
-work done (W) is measured in joules (J)
-time (t) is measured in seconds (s)
+        P = W/t
 
-One watt is equal to one joule per second (J/s).
+        power (P) is measured in watts (W)
+        work done (W) is measured in joules (J)
+        time (t) is measured in seconds (s)
 
-## Efficiency
-Devices are designed to waste as little energy as possible. This means that as much of the input energy as possible should be transferred into useful energy stores.
+        One watt is equal to one joule per second (J/s).
 
-How good a device is at transferring energy input to useful energy output is called efficiency
+    ## Efficiency
+        Devices are designed to waste as little energy as possible. This means that as much of the input energy as possible should be transferred into useful energy stores.
 
-efficiency = useful energy transferred/total energy transferred
+        How good a device is at transferring energy input to useful energy output is called efficiency
 
-What are the useful and wasted stores of energy for a washing machine?
-Useful stores - kinetic energy of the drum, internal (thermal) energy of the water.
-Wasted stores - sound radiation and infrared radiation dissipated to the surroundings.
+        efficiency = useful energy transferred/total energy transferred
+
+        What are the useful and wasted stores of energy for a washing machine?
+        Useful stores - kinetic energy of the drum, internal (thermal) energy of the water.
+        Wasted stores - sound radiation and infrared radiation dissipated to the surroundings.
