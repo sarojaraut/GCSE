@@ -1,0 +1,97 @@
+Calculations in chemistry (Higher)
+	The actual masses of atoms, molecules and ions are too small to be useful in calculations. For this reason, chemical amounts are measured in moles. The mole is a unit. Its symbol is mol.
+
+	The mass of one mole of a substance is equal to:
+
+		the relative atomic mass (Ar) of its formula in grams if the substance is an element
+		the relative formula mass (Mr) of its formula in grams if the substance is a compound
+
+		Mass of 1 mol of Ca = 40g
+		Mass of 1 mol of O2 = 32g
+
+	Avogadro constant
+		One mole of a substance contains the same number of particles as one mole of any other substance. The particles can be atoms, molecules or ions.
+
+		The number of atoms, molecules or ions in one mole of a substance is called the Avogadro constant. Its value is 6.02 × 1023 per mole,
+
+Moles and masses - Higher
+
+	The mass of a substance can be calculated from the number of moles, and the number of moles of a substance can be calculated from its mass. The link between the two quantities is the relative formula mass.
+
+	Mass = relative formula mass × amount
+
+	Calculate the mass of 0.25 mol of carbon dioxide molecules. (Mr of CO2 = 44)
+	mass = 0.25 * 44 = 11 g
+
+	Calculate the amount of carbon atoms in 6.0 g of carbon. (Ar of C = 12)
+	amount = mass / relative atomic mass 
+	amount = 12/6 = 2 mole
+
+Mole calculations - Higher
+	A balanced equation shows the amounts in moles of reactants that react and the amounts of products that are made. From these amounts, the masses of reactants and products can be calculated.
+
+	Amounts from equations
+	In a balanced equation, the coefficients (the numbers in front of the formulae) show the amounts of the reactants and products. If there is no coefficient, the amount is one mole.
+
+	For example, the equation below shows that one mole of zinc reacts with two moles of hydrochloric acid to make one mole of zinc chloride and one mole of hydrogen molecules.
+		Zn(s) + 2HCl(aq) → ZnCl2(aq)+ H2(g)
+
+	Example : 2Mg(s) + O2(g) → 2MgO(s)
+	The equation shows that 2 mol of magnesium metal reacts with 1 mol of oxygen molecules.
+
+	The masses of substances shown in a balanced equation can be calculated using the equation: mass = relative formula mass × amount
+		Magnesium, Mg	24 × 2 = 48 g
+		Oxygen, O2	2 × 16 = 32 g
+		Magnesium oxide, MgO	(24 + 16) × 2 = 80 g
+
+	In the reaction shown by the equation below, what mass of sulfur dioxide can be made from 16 g of sulfur? (Mr of SO2 = 64)
+		S(s) + O2(g) → SO2(g)
+
+		Amount = mass / relative atomic mass = 16/32 = 0.5 mol
+	The equation shows that 1 mol of sulfur reacts with 1 mol of oxygen molecules to make 1 mol of sulfur dioxide. This means that 0.5 mol of sulfur makes 0.5 mol of sulfur dioxide.
+
+	mass of SO2 = relative formula mass × amount
+	= 64 × 0.5
+	= 32 g
+
+	In the reaction shown by the equation below, what mass of nitrogen, N2, is needed to make 120 g of nitrogen monoxide, NO? (Mr of NO = 30 and Mr of N2 = 28) N2(g) + O2(g) → 2NO(g)
+
+	Amount of NO = 120/30 = 4 Mol
+	1 Mol of N2 makes 2 Mol of NO
+	So to make 4 Mol of NO we need 2 Mol of N2
+	Mass of 2 Mol of N2 = 2*28=56g
+
+Reactions and moles - Higher
+
+	Limiting reactants
+	A reaction finishes when one of the reactants is all used up. The other reactant has nothing left to react with, so some of it is left over:
+
+		the reactant that is all used up is called the limiting reactant
+		the reactant that is left over is described as being in excess
+	Reacting mass calculations
+		The maximum mass of product formed in a reaction can be calculated using:
+			the balanced equation
+			the mass of the limiting reactant, and 
+			the Ar (relative atomic mass) or Mr (relative formula mass) values of the limiting reactant and the product
+Calculating concentrations
+
+	The concentration of a solution can be shown in g/dm3 or mol/dm3. It is often more useful to know the concentration of a reactant in mol/dm3 so that the amount of reactant in a given volume can be calculated.
+
+	Example
+	0.5 mol of sodium hydroxide is dissolved in 2 dm3 of water. Calculate the concentration of the sodium hydroxide solution formed.
+	concentration = maount of solute in mol / volume in dm3
+		= 0.5/2 = 0.25 mol/dm3
+		volume must be in dm3 not cm3, 1 cm3 = 1000 dm3
+
+	to convert from mol/dm3 to g/dm3, multiply by the relative formula mass
+	to convert from g/dm3 to mol/dm3, divide by the relative formula mass
+
+Volumes of solutions in reactions
+
+	The amount in moles of a solute in a given volume of solution can be calculated if the concentration of the solution is known. The mass of solute can then be calculated.
+
+	Example
+		Calculate the amount of sodium hydroxide, NaOH, in 25.0 cm3 of solution of concentration 0.1 mol/dm3.
+
+		0.1 = x / 0.025 dm3 
+		=> x = 0.0025 mol

@@ -1,0 +1,45 @@
+Calculations in chemistry
+
+Relative formula mass
+
+Atoms have very little mass so their relative atomic masses are used. The relative atomic mass of an element, symbol Ar, is the relative mass of its atoms compared to the mass of a carbon-12 atom. it has no unit as it's reative mass
+
+The relative formula mass of a substance made up of molecules is the sum of the relative atomic masses of the atoms in the numbers shown in the formula.
+
+Calculate the relative formula mass, Mr, of calcium hydroxide, Ca(OH)2.
+
+(Ar of Ca = 40, Ar of O = 16, Ar of H = 1)
+
+Mr = 40 + 2 × (16 + 1)
+
+40 + 34 = 74
+
+Law of conservation of mass
+The law of conservation of mass states that no atoms are lost or made in a chemical reaction. Instead, the atoms join together in different ways to form products. This is why, in a balanced symbol equation, the number of atoms of each element is the same on both sides of the equation.
+
+Reactions in closed systems
+No substances can enter or leave a closed system, such as a stoppered flask. Sometimes, reactions that happen in open beakers are closed systems, for example acid-alkali neutralisation reactions. Since all the reactants and products stay in the beaker, the total mass of the beaker and the substances in it stay the same during the reaction.
+
+Reactions in non-enclosed systems
+Substances can enter or leave a non-enclosed system. These systems include open flasks, boiling tubes or crucibles that let gases enter or leave.
+
+Chemical measurements
+Whenever a measurement is made in chemistry, there is always some uncertainty in the result obtained. There are many causes of uncertainty in chemical measurements. For example it may be difficult to judge:
+
+whether a thermometer is showing a temperature of 24.0°C, 24.5°C or 25.0°Cexactly when a chemical reaction has finished
+There are two ways of estimating uncertainty:
+
+by considering the resolution of measuring instruments
+from the range of a set of repeat measurements
+
+Concentration of solutions
+A solution forms when a solute dissolves in a solvent
+. The concentration of a solution is a measure of how 'crowded' the solute particles are. The more concentrated the solution, the more particles it contains in a given volume.
+
+8 g of sodium hydroxide is dissolved in 2 dm3 of water. Calculate the concentration of the sodium hydroxide solution formed.
+concentration = 8g/d dm3
+
+250 ml = 250 cm3
+
+Volumes used in concentration calculations must be in dm3, not in cm3 or ml. It is useful to know that 1 dm3 = 1000 cm3. 
+

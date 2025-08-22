@@ -1,0 +1,16 @@
+Ionic compounds
+
+Forming ions
+    An ion is an atom or group of atoms with a positive or negative charge. Ions form when atoms lose or gain electrons to obtain a full outer shell:
+        metal atoms lose electrons to form positively charged ions (because more proton than electron)
+        non-metal atoms gain electrons to form negatively charged ions
+        the ions formed have full outer shells
+Forming ionic bonds
+    Positive and negative ions form when a metal reacts with a non-metal, by transferring electrons. The oppositely charged ions are strongly attracted to each other, forming ionic bonds.
+
+Dot and cross diagrams
+    when sodium reacts with chlorine, electrons transfer from sodium atoms to chlorine atoms. The diagrams show two ways of representing this electron transfer.
+    Sodium electrons are in dot and Chlorine the electrons are shown as cross.
+
+Conducting electricity
+    A substance can conduct electricity if:it contains charged particles, such as ions, andthese particles are free to move from place to place

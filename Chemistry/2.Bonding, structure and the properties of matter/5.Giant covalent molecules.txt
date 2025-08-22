@@ -1,0 +1,55 @@
+Giant covalent molecules
+    small molecules, which contain a fixed number of atoms joined by covalent bonds (O2, H2O)
+    giant covalent substances, which contain many atoms joined by covalent bonds (Silica silicon doaxide, graphite, diamond)
+
+    Example of giant covalent structure
+        Silicon dioxide (often called silica) is the main compound found in sand is an example of giant covalent structure.
+        It contains many silicon and oxygen atoms. 
+        All the atoms in its structure are linked to each other by strong covalent bonds. 
+        The atoms are joined to each other in a regular arrangement, forming a giant covalent structure. 
+        There is no set number of atoms joined together in this type of structure.
+
+    High melting points and boiling points
+        Substances with giant covalent structures are solids at room temperature. They have very high melting points and boiling points. This is because large amounts of energy are needed to overcome their strong covalent bonds to make them melt or boil.
+
+    Conduction of electricity
+        Most substances with giant covalent structures have no charged particles that are free to move. This means that most cannot conduct electricity. Graphite, a form of carbon which can conduct electricity, is an exception.
+
+Diamond and graphite
+    Diamond and graphite are different forms of the element carbon. They both have giant structures of carbon atoms, joined together by covalent bonds. However, their structures are different so some of their properties are different.
+
+    Diamond
+    Structure and bonding
+        Diamond is a giant covalent structure in which:
+            each carbon atom is joined to four other carbon atoms by strong covalent bonds  
+            the carbon atoms form a regular tetrahedral network structure 
+            there are no free electrons
+        Properties and uses
+            The rigid network of carbon atoms, held together by strong covalent bonds, makes diamond very hard. 
+            This makes it useful for cutting tools, such as diamond-tipped glass cutters and oil rig drills.
+        Like silica diamond also has highe boiling and melting point
+    Graphite
+        Structure and bonding
+        Graphite has a giant covalent structure in which:
+            each carbon atom forms three covalent bonds with other carbon atoms
+            the carbon atoms form layers of hexagonal rings
+            there are no covalent bonds between the layers
+            there is one non-bonded - or  delocalised- electron from each atom
+
+        Properties and uses
+            Graphite has delocalised electrons, just like metals. 
+            These electrons are free to move between the layers in graphite, so graphite can conduct electricity. 
+            This makes graphite useful for electrodes in batteries and for electrolysis.
+
+            The forces between the layers in graphite are weak. This means that the layers can slide over each other. 
+            This makes graphite slippery, so it is useful as a lubricant.
+
+Graphene and fullerenes
+    Graphene and fullerenes are forms of carbon. Their structures are different from those of diamond and graphite, which are also forms of carbon.
+
+
+Polymers
+    Polymers have very large molecules. The atoms in a polymer molecule are joined together by strong covalent bonds in long chains. There are variable numbers of atoms in the chains of a given polymer. One example of a polymer is poly(ethene).
+
+    Properties of polymers
+    The intermolecular forces between polymer molecules are strong compared to the intermolecular forces between small molecules. This means that polymers melt at higher temperatures than substances with small molecules. They are solids at room temperature.

@@ -1,0 +1,57 @@
+Transition metals
+
+Physical properties of transition elements
+    Most metals are transition metals. They include iron, copper and chromium. The transition elements are in the central part of the periodic table.
+    transition element : A metal that is located in between groups 2 and 3 of the periodic table and has coloured compounds.
+    Physical properties
+        The transition elements share some physical properties with all metals:
+        they conduct electricity in the solid and liquid statesthey are shiny when freshly cut
+
+    Some properties of transition elements are different from those of the metals in group 1. Compared to other metals, most transition metals have:
+        higher melting points
+        higher densities
+        greater strength
+        greater hardness
+
+    Remember that these are typical properties – some transition metals may not show one or more of them. For example, mercury melts at just -39°C, so it is a liquid at room temperature.
+
+Typical transition elements
+    The elements below have properties that are typical of transition elements:
+        chromium, Cr
+        manganese, Mn
+        iron, Fe
+        cobalt, Co
+        nickel, Ni
+        copper, Cu
+Chemical properties of transition elements
+
+Reactions with oxygen
+    The group 1 elements react quickly with oxygen in the air at room temperature. Most transition elements react slowly, or not at all, with oxygen at room temperature. Some transition metals react with oxygen on heating, for example:
+        copper + oxygen → copper oxide
+        2Cu(s) + O2(g) → 2CuO(s)
+
+Reactions with water
+    The group 1 elements react vigorously with cold water. Most transition elements react slowly with cold water, or not at all.
+        Iron reacts with water and oxygen at room temperature to form hydrated iron(III) oxide, or rust.
+Reactions with halogens
+    The group 1 elements react vigorously with the halogens. Some transition elements also react with halogens, for example:
+        iron + chlorine → iron(III) chloride
+        Fe(s) + Cl2(g) → FeCl3(s)
+
+Ions with different charges
+    Transition elements form ions with different charges. For example:
+    manganese forms Mn2+ and Mn3+ ions copper forms Cu+ and Cu2+ ions
+
+Coloured compounds
+    Metals that are not transition elements usually form white compounds. Transition elements form coloured compounds.
+
+    The table shows the colours of some iron compounds.
+        Compound	                    Colour
+        Iron(II) hydroxide, Fe(OH)2	    Pale green
+        Iron(III) hydroxide, Fe(OH)3	Orange-brown
+        Iron(III) oxide, Fe2O3	        Red-brown
+
+Catalytic activity
+    Catalysts are substances that increase the rate of reaction without being used up in the reaction. For example:
+        iron is the catalyst in the Haber process, which makes ammonia
+        manganese(IV) oxide increases the decomposition of hydrogen peroxide to oxygen and water

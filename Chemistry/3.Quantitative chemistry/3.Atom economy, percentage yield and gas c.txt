@@ -1,0 +1,157 @@
+Atom economy, percentage yield and gas calculations
+
+Atom economy
+    No atoms are gained or lost in a chemical reaction. However, some atoms in the reactants may not end up in the desired product. They instead form other products, and so are regarded as by-products.
+
+    For example, hydrogen can be manufactured by reacting methane with steam:
+        methane + steam → hydrogen + carbon monoxide
+        CH4(g) + H2O(g) → 3H2(g) + CO(g)
+        In this reaction, carbon and oxygen atoms in the reactants do not form the useful product. Carbon monoxide is a waste gas.
+
+    The atom economy of a reaction is a measure of the amount of starting materials that end up as useful products. 
+    It is important for sustainable development and for economic reasons to use reactions with high atom economy.
+
+    Calculating percentage atom economy => 
+    atom economy = (Total molecular mass of desired products / Total molecular mass of reactant products) * 100
+
+    Hydrogen can be manufactured by reacting methane with steam:
+
+    CH4(g) + H2O(g) → 3H2(g) + CO(g)
+
+    Calculate the atom economy for the reaction. (Ar of H = 1, Ar of C = 12, Ar of O = 16)
+
+    total Mr of reactants = 16 + 18 = 34 and total Mr of desired product = 3 × 2 = 6
+    atom economy = 6/34 * 100 = 17.6%
+
+    Q2: Ethanol, CH3CH2OH, can be produced by the fermentation of glucose, C6H12O6:
+
+    C6H12O6(aq) → 2CH3CH2OH(aq) + 2CO2(g)
+
+    Calculate the atom economy for the reaction. (Mr of C6H12O6 = 180, Mr of CH3CH2OH = 46)
+    atom economy = (2*46 /180) *100 = 51.1%
+
+Percentage yield
+The theoretical yield is the maximum possible mass of a product that can be made in a chemical reaction.
+
+It can be calculated from:
+the balanced equation
+the mass and relative formula mass of the limiting reactant 
+the relative formula mass of the product
+
+percentage yield = (mass of actual product made / maximum theoritical mass of product) * 100
+
+Copper oxide reacts with sulfuric acid to make copper sulfate and water. In an experiment, 1.6 g of dry copper sulfate crystals are made. If the theoretical yield is 2.0 g, calculate the percentage yield of copper sulfate.
+
+Percentage yield = 1.6 /2.0 * 100  = 80%
+
+Choosing reaction pathways - Higher
+    Usually, there is more than one way to make a particular substance. 
+    A reaction pathway describes the sequence of reactions needed to produce a desired product. 
+    The pathway chosen for a product depends on factors such as:
+        percentage yield
+        atom economy rate of reaction
+        equilibrium position
+        usefulness of by-products
+
+    ... more
+
+Avogadro's law - Higher
+    Avogadro's law states that when the temperature and pressure stay the same:
+    equal volumes of different gases contain an equal number of molecules
+
+    This means that equal amounts in moles of gases occupy the same volume under the same conditions of temperature and pressure. For example:
+        1 mol of hydrogen gas occupies the same volume as 1 mol of methane gas
+        10 mol of nitrogen monoxide gas occupy the same volume as 10 mol of argon gas
+
+    Hydrogen reacts with chlorine to form hydrogen chloride:
+
+    H2(g) + Cl2(g) → 2HCl(g)
+
+    The mole ratio of hydrogen to chlorine is 1:1. This means, for example, that in terms of volume:
+        1 cm3 of hydrogen reacts exactly with 1 cm3 of chlorine
+    The mole ratio of hydrogen to hydrogen chloride is 1:2. This means, for example:
+        1 cm3 of hydrogen produces 2 cm3 of hydrogen chloride
+
+    Question
+        Nitrogen reacts with hydrogen to produce ammonia:
+        N2(g) + 3H2(g) → 2NH3(g)
+        Calculate the volume of ammonia that can be produced from 150 cm3 of hydrogen and an excess of nitrogen.
+
+        The mole ratio of hydrogen to ammonia is 3:2
+        Volume of ammonia = 150/3 * 2 = 100cm3
+
+    Question
+        Hydrogen reacts with oxygen to produce steam:
+        2H2(g) + O2(g) → 2H2O(g)
+        Calculate the volume of steam that can be produced from 50 cm3 of oxygen and an excess of hydrogen.
+
+        The mole ratio of oxygen to steam is 1:2
+        So, Volume of steam produced = 100 cm3
+
+    Molar gas volume - Higher
+        At a given temperature and pressure, one mole of any gas occupies the same volume:
+        the molar volume is the volume occupied by one mole of any gas, at room temperature and pressure
+
+        The volume of a known amount of gas can be calculated: Volume = amount in mol × molar volume
+        Question
+            Calculate the volume of 0.25 mol of hydrogen at room temperature and pressure. (Molar volume = 24 dm3)
+            volume = amount in mol × molar volume
+                volume = 0.25 × 24 = 6 dm3
+
+        Calculating the amount of a gas
+            The amount of a known volume of gas can be calculated: Amount in mol  = volume / molar volume
+
+Calculations involving molar volume - Higher
+    The molar volume can be used in calculations involving the masses of solids, and volumes of gases, in reactions.
+
+    Calculating a volume from a mass
+        Worked example
+        4.6 g of sodium reacts completely with excess water:
+        2Na(s) + 2H2O(l) → 2NaOH(aq) + H2(g)
+        Calculate the volume of hydrogen produced. (Ar of Na = 23, molar volume = 24 dm3)
+
+        Step 1 - Calculate the amount of sodium in moles
+            Amount in mol = mass/ atomic mass = 4.6/23 = 0.20 Mol
+            Amount of sodium = 0.20 mol
+
+        Step 2 - Find the amount of hydrogen in moles
+            From the  balanced equation, the mole ratio Na:H2 is 2:1
+            Therefore 0.20 mol of Na produces = 0.10 mol of H2
+
+        Step 3 - Calculate the volume of hydrogen
+            Volume = amount in mol × molar volume
+            Volume = 0.10 × 24 = 2.4 dm3
+
+    Question
+    Calcium carbonate decomposes to form calcium oxide and carbon dioxide when it is heated:
+    CaCO3(s) → CaO(s) + CO2(g)
+    Calculate the volume of carbon dioxide produced from completely decomposing 1.0 g of calcium carbonate. (Mr of CaCO3 = 100, molar volume = 24,000 cm3)
+
+    Volume taken by 1 mole of any gas = 24,000 cm3
+    From the balanced equation mole ratio of calcium carbonate to carbon dioxide is 1:1
+
+    Amount (in mole)for 1.0 g of calcium carbonate = 1/100 = 0.01 Mole
+    So 0.01 Mole of calcium carbonate would produce 0.01 Mole carbon dioxide
+    Volume taken by 0.01 Mole carbon dioxide = 0.01 * 24000 cm3 = 240cm3
+
+    Calculating a mass from a volume
+    Worked example
+    Lithium hydroxide absorbs carbon dioxide from the air:
+    2LiOH(s) + CO2(g) → Li2CO3(s) + H2O(l)
+    Calculate the mass of lithium hydroxide needed to absorb 12 dm3 of carbon dioxide. (Mr of LiOH = 24, molar volume = 24 dm3)
+
+        Volume of carbon dioxide to be absored is 12 dm3
+        Amount of carbon dioxide in mole = 12/12 = 0.5 Mole
+        From the balanced equation Mole ratio of lithium hydroxide and carbon dioxide is 2:1
+        that means to absorb 0.5 Mole of carbon dioxide, 1 Mole of lithium hydroxide would be needed
+        Mass of lithium hydroxide needed is = 1 * 24 = 24 gm
+
+    Question
+    Sodium reacts with chlorine to produce sodium chloride:
+    2Na(s) + Cl2(g) → 2NaCl(s)
+    Calculate the mass of sodium chloride produced from 960 cm3 of chlorine and an excess of sodium. (Mr of NaCl = 58.5, molar volume = 24,000 cm3 )
+
+    Amount of 960 cm3 of chlorine = 960/24,000 = 0.04 Mole
+    Mole ratio of chlorine and sodium chloride is 1:2
+    So Amount of sodium chloride =  0.08 Mole
+    Mass of sodium chloride = 0.08 * 58.5 = 4.68 g

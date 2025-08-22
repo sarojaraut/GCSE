@@ -1,0 +1,40 @@
+Metals and alloys
+    Structure and bonding in metals
+        Metallic bonding
+            Metals consist of giant structures of atoms arranged in a regular pattern.
+            The electrons from the outer shells of the metal atoms are delocalised, and are free to move through the whole structure. 
+            This sharing of delocalised electrons results in strong metallic bonding.
+    Properties of metals
+        The structure and bonding of metals explains their properties:
+
+            they are electrical conductors because their delocalised electrons carry electrical charge through the metal
+            they are good conductors of thermal energy because their delocalised electrons transfer energy
+            they have high melting points and boiling points, because the metallic bonding in the giant structure of a metal is very strong - large amounts of energy are needed to overcomethe metallic bonds in melting and boiling
+
+Alloys
+    An alloy is a mixture of two or more elements, where at least one element is a metal. 
+    Many alloys are mixtures of two or more metals.
+
+    Many pure metals are too soft for many uses. 
+    They can be made harder by adding another element to the pure metal, so forming an alloy. 
+    This explains why an alloy often has more uses than the pure elements it is made from.
+
+    Pure iron, for example, is very soft. Adding a small amount of tungsten to iron makes tool steel, which is harder than pure iron. Steels are examples of alloys. There are many types of steel.
+
+        Steel	         Elements	         Properties
+        Mild steel	     Carbon and iron	Easy to bend and pull into wires
+        Tool steel	     Tungsten and iron	Hard, can be heated to high temperatures
+        Stainless steel	 Chromium and iron	Hard, does not rust easily
+
+    Explaining alloy hardness
+        In the solid state, a pure metal has a giant metallic structure. 
+        The atoms are arranged in layers. 
+        When a force is applied, the layers may slide over each other. 
+        The greater the force needed, the harder and stronger the metal.
+
+        In a pure metal, the force needed to make the layers slide over each other is small. This explains why many pure metals are soft.
+
+        In an alloy, there are atoms of different sizes. 
+        The smaller or bigger atoms distort the layers of atoms in the pure metal. 
+        This means that a greater force is required for the layers to slide over each other. 
+        The alloy is harder and stronger than the pure metal.

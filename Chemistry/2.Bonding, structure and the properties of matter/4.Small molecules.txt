@@ -1,0 +1,24 @@
+Small molecules
+
+Covalent bonds
+Forming a covalent bond
+    A covalent bond is formed when two atoms share a pair of electrons. Covalent bonding occurs in most non-metal elements, and in compounds formed between non-metals.
+
+    
+Properties of substances with small molecules
+    A substance with small molecules has strong covalent bonds that hold the atoms together in its molecules. 
+    There are weak forces between molecules and their neighbours. The structure and bonding of substances with small molecules explains their properties.
+
+    Low melting points and boiling points
+        Most substances with simple molecules have low melting points and boiling points. Many are in the liquid or gas state at room temperature.
+
+    There are intermolecular forces between small molecules. Intermolecular forces are much weaker than the strong covalent bonds in molecules. Relatively little energy is needed to overcome the intermolecular forces, so small molecular substances have low melting and boiling points.
+
+    Substance	Melting point	Boiling point	State at 20°C
+        O2	    -218°C	            -183°C	         Gas
+        H2O	    0°C	                100°C	         Liquid
+    Conduction of electricity
+        A substance can conduct electricity if:
+            it contains charged particles, and
+            these particles are free to move from place to place
+        Small molecules have no overall electric charge, so they cannot conduct electricity, even when liquid or dissolved in water.

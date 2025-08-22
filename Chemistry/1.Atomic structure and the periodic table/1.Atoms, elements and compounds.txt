@@ -1,0 +1,73 @@
+Atoms, elements and compounds
+    https://www.bbc.co.uk/bitesize/guides/zg2h4qt/revision/1
+Chemical symbols
+
+    All substances are made from tiny particles called atoms. An atom is the smallest part of an element that can exist.
+
+    Atoms of each element are represented by their own chemical symbol. 
+    one or two letter and starts with capital
+    There are 118 different elements. 
+    Elements are arranged into groups with similar properties. Groups are numbered from 1 to 7, then 0. 
+    metals are on the left of the stepped line, and non-metals are on the right.
+
+
+Chemical formulae of elements
+    A chemical formula is used to represent an element or compound in balanced chemical equations. e.g helium, He
+    The formula for most elements is just its chemical symbol.
+    Some non-metal elements exist as molecules that are made up of two atoms joined together.
+    I Bring Clay For Our New House. I2, Br2, Cl2, F2, O2, N2, H2
+
+Chemical formulae of compounds
+    A compound is a substance that contains two or more elements that are chemically combined. The elements in a compound are present in fixed proportions.
+
+    Sodium chloride	    NaCl
+    Potassium bromide	KBr
+    Magnesium iodide	MgI2
+    Carbon dioxide	    CO2
+    Carbon monoxide	    CO
+    Sulfur trioxide	    SO3
+    Water	            H2O
+    Ammonia	            NH3
+    Methane	            CH4
+    HydrogenSulfide     H2S : Poison gas in fart
+
+    In compounds made up of non-metal elements only, the second word of the compound's name starts with mon-, di-, or tri-, eg carbon dioxide. This shows the number of atoms of this element for every one atom of the first element in the name.
+    
+    Many compounds exist naturally. 
+    It is not easy to split up a compound into its elements - the only way to do this is in chemical reactions.
+
+Chemical formulae of ions
+    An ion is a charged particle formed when an atom, or a group of atoms, loses or gains electrons. 
+    The number and sign of its electrical charges are shown in superscript text.
+
+    Sodium Ion ; Na+
+    Magnesium : Mg2+ (Two positive)
+    Chloride : cl-
+    Oxide : O2-
+
+    The numbers of ions in a formula must give an equal number of positive and negative charges. 
+        Magnesium chloride	MgCl2
+        Sodium oxide	Na2O
+        Magnesium oxide	MgO
+Word equations
+    A word equation represents a chemical reaction using the names of the substances involved. Word equations do not show any chemical symbols or formulae.
+    Word equations always take this form: reactants → products
+        A + sign separates two or more reactants, or two or more products.
+
+    There can be different numbers of reactants and products. For example:
+        sodium + chlorine → sodium chloride
+        calcium carbonate → calcium oxide + carbon dioxide
+        nitrogen + hydrogen → ammonia
+
+Balanced chemical equations
+    A balanced chemical equation represents a chemical reaction using the formulae of the reactants and products. It shows the number of units of each substance involved.
+
+    State symbols
+        Balanced chemical equations sometimes include state symbols in brackets after each formula. They show the physical state of that substance.
+        H2O(l) is liquid water but H2O(g) is steam and H2O(s) is ice. (aq)	is used for Aqueous solution state symbol
+    
+    Balancing an equation
+    The law of conservation of mass states that no atoms are lost or made during a chemical reaction, so the total mass of the products is equal to the total mass of the reactants.
+
+    N2 + H2 → NH3 After balancing N2 + 3H2 → 2NH3
+    Add the state symbols if asked to do so.	N2(g) + 3H2(g) → 2NH3(g)

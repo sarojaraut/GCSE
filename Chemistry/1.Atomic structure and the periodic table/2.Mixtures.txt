@@ -1,0 +1,32 @@
+2.Mixtures
+
+    Pure substances and mixtures
+        a pure substance consists only of one element or one compound
+        a mixture consists of two or more different substances, not chemically joined together
+    The substances in a mixture can be elements, or compounds, or both. Being part of a mixture does not change the chemical properties of the substances that are in it
+
+    Separating mixtures
+        Mixtures can be separated by physical processes. These processes do not involve chemical reactions, and no new substances are made.
+
+        Filtration and crystallisation
+            Filtration : Filtratio is used to separate aninsolubl solid from a liquid.
+        Crystallisation is used to produce solid crystals from a solution. When the solution is warmed, some of solvent evaporates leaving crystals behind. 
+            To obtain large, regularly shaped crystals from crystallisation:
+                put the solution in an evaporating basin
+                warm the solution by placing the evaporating basin over a boiling water bath
+                stop heating when crystals begin to form around the edge of the basin
+                After the remaining solution has cooled down, pour the excess liquid away (or filter it). Dry the crystals using a warm oven or by patting them with filter paper.
+
+        Distillation
+            Simple distillation is used to separate a solvent from a solution. It is useful for producing pure water from seawater.
+            Simple distillation works because the dissolved solute has a much higher boiling point than the solvent. 
+            When the solution is heated, solvent vapour leaves the solution. 
+            It moves away and is cooled and condensed. The remaining solution becomes more concentrated as the amount of solvent in it decreases.
+
+        Paper chromatography
+            Paper chromatography is used to separate mixtures of soluble substances. These are often coloured substances such as food colourings, inks, dyes or plant pigments.
+            Phases
+            Chromatography relies on two different ‘phases’:
+                the stationary phase, which in paper chromatography is very uniform, absorbent paper
+                the mobile phase is the solvent that moves through the paper, carrying different substances with it
+                The different dissolved substances in a mixture are attracted to the two phases in different proportions. This causes them to move at different rates through the paper.

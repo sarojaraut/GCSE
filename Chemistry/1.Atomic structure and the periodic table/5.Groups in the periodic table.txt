@@ -1,0 +1,125 @@
+Groups in the periodic table
+
+Group 0 - physical properties
+
+    Group 0 contains non-metal elements placed in the vertical column on the far right of the periodic table. The elements in group 0 are called the noble gases. They exist as single atoms.
+
+    He, Ne, Ar, Kr, Xe, Rn, Og
+
+    The noble gases all have low boiling points:
+    helium, at the top of group 0, has the lowest boiling point of any element
+    the attractive forces between the atoms become stronger.
+    This is because, going down group 0: the atoms become larger
+    the intermolecular forces between the atoms become stronger more energy is needed to overcome these forces
+
+Group 0 - chemical properties
+    Compared to other elements, the noble gases are inert - they are extremely unreactive and do not take part in chemical reactions.
+
+    All the noble gases have complete outer shells:
+    Atoms of group 0 elements already have stable arrangements of electrons
+    This means that they have no tendency to lose, gain, or share electrons.
+
+Group 1 - physical properties
+
+    li, Na, K, Rb, Cs, Fr
+
+    The elements in group 1 are called the alkali metals
+
+    The alkali metals share similar physical properties. For example, they:
+    are soft (they can be cut with a knife)
+    have relatively low melting points
+    have low densities
+
+    Going down group 1, the melting point decreases.
+    Atomic radius increases, weakening the metallic bonds. 
+    This is due to the increasing number of electron shells, which leads to greater distance and less attraction between the nucleus and the outer, delocalized electrons. 
+
+
+Group 1 - chemical reactions with water
+    The alkali metals react with water to produce a metal hydroxide and hydrogen. For example, sodium reacts with water:
+    sodium + water → sodium hydroxide + hydrogen
+    2Na(s) + 2H2O(l) → 2NaOH(aq) + H2(g)
+
+    Sodium hydroxide is an alkali. It is a base that dissolves in water to form an alkaline solution. This solution: has a pH greater than 7turns universal indicator solution blue or purple
+
+    potassium + water → potassium hydroxide + hydrogen
+    2K(s) + 2H2O(l) → 2KOH(aq) + H2(g)
+
+    The table shows observations when lithium, sodium and potassium are added to water. 
+    Notice that the reactivity of these metals increases going down the group. 
+    This pattern is seen with all reactions of group 1 elements. 
+    For example, the reaction of caesium with chlorine is more vigorous than the reaction of potassium with chlorine.
+
+    Element	                  Observation when added to water
+    Lithium, Li	              Fizzes steadily; slowly becomes smaller until it disappears
+    Sodium, Na	              Fizzes rapidly; melts to form a ball; quickly becomes smaller until it disappears
+    Potassium, K	          Burns violently with sparks and a lilac flame; quickly melts to form a ball; disappears rapidly, often with a small explosion
+
+Group 1 - chemical reactions with oxygen and chlorine
+    The group 1 elements react with oxygen from the air to make metal oxides.
+    At room temperature, oxygen reacts with the surface of the metal. This forms a white oxide, which covers the surface. The metal below the surface does not react.
+    The alkali metals burn vigorously when heated and placed in a gas jar of oxygen. The oxide forms as white smoke.
+    sodium + oxygen → sodium oxide
+    4Na(s) + O2(g) → 2Na2O(s)
+
+    The reactivity of the group 1 elements increases down the group, so their reactions with oxygen get more vigorous.
+
+Reactions with chlorine
+    The group 1 elements react vigorously with chlorine. The products of the reactions are chlorides. At room temperature the chlorides are white solids. They dissolve in water to form colourless solutions. For example:
+    sodium + chlorine → sodium chloride
+    2Na(s) + Cl2(g) → 2NaCl(s)
+    The reactions with chlorine get more vigorous going down the group.
+
+Explaining the trend in reactivity
+    Going down group 1:
+
+    the atoms become larger
+    the outer electron becomes further from the nucleus
+    the force of attraction between the nucleus and the outer electron decreases
+    the outer electron is lost more easily
+
+Group 7 - physical properties
+    Group 7 contains non-metal elements placed in a vertical column on the right of the periodic table. The elements in group 7 are called the halogens.
+
+    Physical properties
+        The halogens exist as simple molecules. Each molecule is made up of a pair of halogen atoms joined by a single covalent bond. 
+        In all groups of the periodic table, the further down the group an element is, the higher its relative molecular mass.
+        covalent bond : A bond between atoms formed when atoms share electrons to achieve a full outer shell of electrons.
+
+        At room temperature
+            Element  	Colour	       State
+        Chlorine, Cl2	Pale green	    Gas
+        Bromine, Br2	Brown	        Liquid
+        Iodine, I2	    Purple-black	Solid
+
+        In group 7, the further down the group an element is, the higher its melting point and boiling point. This is because, going down group 7:
+        the molecules become larger
+        the intermolecular forces become strongermore energy is needed to overcome these forces
+
+    Group 7 - chemical properties
+
+        When a group 7 element takes part in a reaction, its atoms each gain one electron. 
+        These atoms form negatively charged ions. The ions have a stable arrangement of electrons, with a complete outer shell.
+
+        Reactions with metals
+            The halogens react with metals to produce salts. The salts are made up of ions, which are held together by ionic bonds. For example, chlorine reacts with sodium:
+                sodium + chlorine → sodium chloride
+                2Na(s) + Cl2(g) → 2NaCl(s)
+
+            Sodium and chlorine react vigorously when heated, giving an orange flame and clouds of white sodium chloride.
+            In group 7, the reactivity of the elements decreases down the group.
+        
+        Reactions with non-metals
+            The halogens react with non-metals such as hydrogen. 
+            When a halogen reacts with hydrogen, the product is a compound called a hydrogen halide. For example, chlorine reacts with hydrogen:
+                hydrogen + chlorine → hydrogen chloride
+                H2(g) + Cl2(g) → 2HCl(g)
+
+            The hydrogen halides are gases at room temperature. They dissolve in water to produce acidic solutions. 
+            Hydrogen chloride dissolves in water to produce hydrochloric acid, HCl(aq).
+
+    Group 7 - displacement reactions
+        A more reactive halogen can displace a less reactive halogen from solutions of its salts. 
+        For example, chlorine is more reactive than iodine. A solution of chlorine can displace iodine from potassium iodide solution:
+        chlorine + potassium iodide → potassium chloride + iodine
+        Cl2(aq) + 2KI(aq) → 2KCl(aq) + I2(aq)

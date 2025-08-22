@@ -1,0 +1,30 @@
+The three states of matter
+
+Solids, liquids and gases
+    The kinetic particle theory of matter is a model that describes the arrangement, movement and energy of particles in a substance. 
+    The model is used to explain the physical properties of solids, liquids and gases.
+    Solid, Liquid, Glass: Closeness of particles, ararngement order, movement, energy, 2d diagram: refer image
+
+    Solids:
+        have a fixed shape and cannot flow, because their particles cannot move from place to place
+        cannot be compressed (squashed), because their particles are close together and have no space to move into
+    Liquids:
+        flow and take the shape of their container, because their particles can move around each other
+        cannot be compressed, because their particles are close together and have no space to move into
+    Gases:
+        flow and completely fill their container, because their particles can move quickly in all directions
+        can be compressed, because their particles are far apart and have space to move into
+Changes of state
+
+    Solid  <-> liquid (melt, freeze)
+    Liquid <-> gas (boil, condense)
+    Some substances can change directly from solid to gas without becoming a liquid in between. This is called sublimation, Solid carbon dioxide ('dry ice') can sublime
+
+Explaining change of state
+    Melting, evaporating and boiling
+    Energy must be transferred, by heating, to a substance for these changes of state to happen. During these changes the particles gain energy to break some of the bonds between particles during melting and 
+
+    Given temperature < melting point	Solid
+    Given temperature is between melting and boiling points	Liquid
+    Given temperature > boiling point	Gas
+

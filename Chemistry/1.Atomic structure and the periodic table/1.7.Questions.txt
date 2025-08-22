@@ -1,0 +1,169 @@
+Questions
+    https://www.bbc.co.uk/bitesize/guides/zy2cmsg/revision/1
+
+    What are the chemical formulae of the elements neon, nitrogen and sodium? Ne, N2, Na
+
+    Predict which becomes white more quickly on exposure to air - a piece of rubidium, or a piece of lithium. Explain your answer.
+    The rubidium becomes white more quickly. This is because rubidium is below lithium in group 1, so rubidium is more reactive.
+    The reactivity of the group 1 elements increases down the group, so their reactions with oxygen get more vigorous.
+
+    Compare the properties of sodium and chromium. How does the data show that chromium is a typical transition element, and sodium is a typical group 1 metal?
+        Chromium has a much higher melting point than sodium. The density of chromium is also greater than sodium.
+    Predict the differences in the hardness and strength of nickel and potassium. Give a reason for your prediction.
+        Nickel is harder and stronger than potassium. The reason for this prediction is that nickel is a transition element and potassium is in group 1.
+
+Multiple choice questions
+
+    Which two substances are mixtures? Air and Steel
+    The electronic structures of the atoms of five elements are shown below:
+    Which element is a metal in the same group of the periodic table as element A? Same number of electron in outer shell
+
+    The table below shows the boiling points of some elements in group 7 of the periodic table. 
+    Why does iodine have a higher boiling point than chlorine? 
+    Ans : The forces between iodine molecules are stronger. 
+    Covalent bond between iodine atoms stronger also looks like an potential solution but covalent bond is also true for Cl and Br
+
+    Chlorine displaces bromine from bromide ions.
+    Cl2 + 2Br- → 2Cl- + Br2 
+    Ans : Bromide ions lose electrons and are oxidised
+    When negative ions lose electrons, they are undergoing oxidation.
+
+Line matching
+    Images Q-A1
+    Trick that each group elements has that many electrons on their outer shell
+Sentence completion
+
+    Use words from the list to complete the sentences.
+
+    Group 1 elements have ______________ melting points.
+    Group 1 elements are ________ metals.
+
+    Ans Low, soft
+
+    Atoms are made up of sub-atomic particles. Protons are in the _______ of an atom. Their relative charge is _______. The particles that move around outside the nucleus are called _______. Their relative charge is _______.
+
+    Ans
+    Atoms are made up of sub-atomic particles. Protons are in the nucleus of an atom. Their relative charge is +1. The particles that move around outside the nucleus are called electrons. Their relative charge is -1.
+
+Structured questions
+    Why is aluminium positioned in group 3 of the periodic table?
+        It has three electrons in its outer energy level/outer shell.
+    
+    A student carries out an experiment to determine the melting point of a waxy solid. She heats a sample until it melts, then measures and records its temperature as it cools down.Explain how the student could use her results to decide whether the waxy solid is a pure substance or a mixture.
+        Answer
+        Plot a graph of temperature against time. [1 mark]
+        Temperature remains constant at the melting point. [1 mark]
+        A pure substance gives a sharp melting point (line should be horizontal). [1 mark]
+        A mixture melts over a range of temperatures (line will not be horizontal). [1 mark]
+
+    Use data from table 1 to explain why ethanol and water can be separated using fractional distillation.
+
+        Ethanol has a lower boiling point than water. [1 mark]
+        On heating, ethanol vapour leaves the mixture of liquids first. [1 mark]
+        The ethanol vapour can be cooled and condensed separately. [1 mark]
+
+    Use data from table 2 to choose two atoms that are different isotopes of the same element. Explain your choice.
+        Same number of proton
+        different number of neutron
+
+    Maths questions
+        An atom of phosphorus has the symbol 31-15 P. Give the number of protons, neutrons and electrons in this atom of phosphorus.
+
+        The radius of an atom is 1 × 10-10 m. The radius of the nucleus of this atom is 1 × 10-14 m. Calculate how many times smaller the radius of the nucleus is than the radius of the atom.
+
+        Answer
+            (1 × 10-10 m) ÷ (1 × 10-14 m) [1 mark]
+            Nucleus is 10,000 times smaller [1 mark]
+
+        Magnesium exists naturally as three isotopes. Table 1 shows the relative abundance of each isotope. Calculate the relative atomic mass, Ar, of magnesium.
+            Ar = (  24 * 79 + 25*10 + 26*11)/100
+
+Practical questions
+    
+    Describe how a sample of copper chloride crystals could be made from copper carbonate and dilute hydrochloric acid.
+        Add excess copper carbonate to dilute hydrochloric acid.
+        Heat filtrate to evaporate some water.
+
+    A student removed water from salty water using the apparatus.
+        Evaporation and Condensation 
+
+Six-mark questions
+    Describe the structure of an atom, including properties of its subatomic particles.
+        nucleus surrounded by electrons
+        electrons arranged in shells
+        nucleus contains protons and neutrons
+        number of protons and electrons is the same
+        protons are positively charged, electrons are negatively charged, neutrons are neutral
+        overall charge on an atom is zero
+        protons and neutrons have the same mass, electrons are very much lighter particles
+        most of the mass is concentrated in the nucleus
+        nucleus is very small compared to the overall size of an atom
+
+    Two elements in group 1 of the periodic table are lithium and sodium.
+    Very small pieces of lithium and sodium were reacted separately with water.
+    Describe the similarities and differences in what is seen and in the products of the reactions.
+
+        Similarities - both:
+            float/on the surface
+            move around
+            effervescence/bubble/fizz
+            decrease in size/disappear/dissolve
+            produce hydrogen/H2
+            produce (metal) hydroxide/LiOH and NaOH
+            produce alkaline solution/solution with pH greater than 7/add named indicator to the solution and correct colour change
+            correct products shown in equations
+
+        Differences:
+            sodium more vigorous/more effervescence/moves faster
+            melts
+            forms ball/sphere
+            produces a flame/catches fire/sparks
+
+    In the periodic table, the transition elements and group 1 elements are metals.
+    Some of the properties of two transition elements and two group 1 elements are shown in table 1.
+
+        Physical properties:
+            transition elements
+                high melting points
+                high densities
+                strong
+                hard
+            group 1
+                low melting points
+                low densities
+                soft
+        Chemical properties:
+            transition elements
+                low reactivity
+                used as catalysts
+                ions with different charges
+                coloured compounds
+            group 1
+                very reactive
+                not used as catalysts
+                white/colourless compounds
+                only forms a +1 ion
+
+    Group 1 of the periodic table contains the alkali metals lithium, sodium and potassium.
+    The alkali metals show a pattern in their reactivity with water.
+    This pattern is shown when small pieces of lithium, sodium and potassium are added separately to water.
+    Describe the reactions and explain the pattern in reactivity.
+
+        Description:
+            effervescence/fizzing/bubbles
+            float/on surface
+            move
+            produce hydrogen (may be shown in word or balanced equation)
+            an alkaline/metal hydroxide solution (may be shown in word or balanced equation)
+            gets smaller/disappears/dissolves
+            reactivity increases with increasing atomic number/down the group/potassium effervesces more than sodium and lithium/potassium moves faster than sodium or lithium
+            sodium and potassium melt/form a (silver-coloured) ball
+            hydrogen burns when potassium/ sodium react
+            potassium gives a lilac flame/sodium gives a yellow flame
+            universal indicator added to water turns blue/purple
+        Explanation:
+            (group 1 metals) react by losing one electron
+            electron is more easily lost with increasing atomic number/down the group
+            electron/ outer shell is further away from nucleus/atomic radius increases/there are more electron shells with increasing atomic number/down the group
+            more shielding (of outer electron)/less attraction between nucleus and outer electron/ more shells between outer electron and nucleus with increasing atomic number/down the group
+

@@ -1,0 +1,109 @@
+Questions
+https://www.bbc.co.uk/bitesize/guides/z9rhk2p/revision/1
+
+    Multiple choice questions
+
+        Figure 1 shows the structure of an element. What is the name of this element? Graphite
+        Why does the element in figure 1 conduct electricity? It has delocalised electrons
+        shows some boiling point data. Which statement explains the data in the table?
+            The intermolecular forces between the molecules in methane are weaker than the intermolecular forces between the molecules in water. IN small molecules it's the inter molecular force that decides the melting point and boiling pint but giant covalent molecules it's strong covalent bond that decides the melting point and boiling point
+        Which statement describes a limitation of the particle model?
+            In the model there are no forces between particles
+
+Line matching
+    Draw one line from each statement to the diagram which shows the structure. particle arrangement in solid, gas liquid and ionic
+
+Sentence completion
+    Metals are good conductors of electricity because they contain electrons that are ______________ .
+    Metals have high melting points because their bonding is ________ .
+
+    Polymers have _______ molecules. The atoms in the polymer molecules are joined together by strong _______ bonds.
+        large, covalent
+Structured questions
+    Give one advantage of using nanoparticles in sun creams.
+        nanoparticles provide better coverage
+        nanoparticles give more protection from the Sun's ultraviolet rays
+
+    shows the structure of an alloy. Explain why this alloy is harder than the pure metal Y.
+        The atoms are different sizes. [1]
+        Therefore there are no layers to slide over each other. [1]
+
+    Explain how a covalent bond holds two atoms together.
+        There is an electrostatic force of attraction between a shared pair of negatively charged electrons [1] 
+        and two positively charged nuclei. [1]
+    
+    Explain, in terms of its structure, why graphite can be used as a lubricant.
+        The carbon atoms in graphite are arranged in layers. [1]
+        There are only weak intermolecular forces between the layers. [1]
+        The layers can slide over each other. [1]
+
+Maths Questions
+    A coarse particle has a diameter of 1 × 10-6 m. A nanoparticle has a diameter of 1.6 × 10-9 m.
+    Calculate how many times bigger the diameter of the coarse particle is than the diameter of the nanoparticle.
+
+    Gold is mixed with other metals to make jewellery. Histogram showing percentage of Au, Ag and Cu
+    
+    A nanoparticle has a cubic shape. The length of its sides is 4 nm.Calculate the surface area to volume ratio for the nanoparticle.
+
+Practical questions
+    Name one piece of apparatus suitable for measuring the boiling point of a liquid.
+        A thermometer / temperature probe.
+    Give two reasons why hazard symbols are used on containers in the laboratory
+        To indicate the dangers associated with the contents. [1]
+        To inform people about precautions to take when using these substances in the laboratory. [1]
+
+    Hazard	                  Possible harm	               Possible precaution
+    Electricity supply	     Electric shock	               Switch off before handling apparatus
+    Copper sulfate solution	 Causes skin irritation	       Avoid getting on skin/wear gloves
+
+Six Mark Questions
+    The table shows the ability of different substances to conduct electricity.
+
+        solid calcium chloride contains ions/cations/anions which are charged particles
+        solid calcium chloride does not conduct because charged particles are not free to move because they are held together by strong electrostatic forces/ionic bonds in lattice
+        molten calcium chloride conducts because ions/cations/anions are present which are charged particles and are free to move
+        the ions have separated, and move to the electrode of opposite charge
+        diamond does not conduct because it is a giant molecular covalent structure with no free electrons
+        outer electrons of carbon atoms are used in bonding
+        zinc metallic structure consists of delocalised free electrons which can move between layers of metals atoms/cations
+
+    Describe the arrangement and movement of particles in each of the three states of matter. Explain what happens to the particles in a liquid during boiling.
+
+        particles in solids are close together and regularly arranged
+        particles in solids vibrate about fixed positions
+        particles in liquids are close together and randomly arranged
+        particles in liquids move around each other
+        particles in gases are far apart and randomly arranged
+        during boiling, energy is transferred to particles
+        bonds/forces of attraction between particles break/are overcome
+
+    The table shows the melting points of different substances.
+        sodium chloride contains ions in a regular lattice
+        there are electrostatic forces of attraction between oppositely charged ions
+        the forces/ionic bonds are strong
+        large amounts of energy are needed to overcome/break these forces/bonds
+        water exists as simple molecules
+        there are weak intermolecular forces between molecules
+        less energy needed to overcome these forces
+        diamond exists as giant molecules
+        there are covalent bonds between atoms
+        many strong covalent bonds
+        a very large amount of energy is needed to break bonds
+
+    The kinetic particle theory describes the arrangement, movement and relative energy of particles in the three states of matter.
+    Evaluate the strengths and weaknesses of this model.
+
+    Strengths include:
+        particles in solids and liquids are shown close together, but far apart in gases
+        particles in solids are shown regularly arranged, but randomly arranged in liquids and gases
+    Weaknesses include:
+        particles are shown in 2D only (and not in 3D)
+        particles in gases are too close together
+        the model is static/not moving
+        the relative energy of particles is not modelled
+        bonds/forces between particles are not modelled
+        
+    Supported conclusion given, eg:
+
+        model is accurate for arrangements, but not for movement and relative energy of particles
+
