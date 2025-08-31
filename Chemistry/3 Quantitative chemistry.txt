@@ -1,0 +1,203 @@
+# GCSE Chemistry Single Science AQA - Quantitative Chemistry Questions and Answers
+
+This comprehensive list covers key topics in Quantitative Chemistry, including relative masses, moles, empirical formula, concentration, titrations, percentage yield, atom economy, limiting reactants, and gas volumes. Questions are based on standard AQA syllabus content and BBC Bitesize resources.
+
+## Multiple Choice Questions
+
+1. What is the relative atomic mass (A_r) of an element?  
+   A) The mass of one atom in grams  
+   B) The average mass of the atoms of the element compared to 1/12 the mass of a carbon-12 atom  
+   C) The mass of the protons and neutrons in the nucleus  
+   D) The mass of the electrons  
+   **Answer: B**
+
+2. What is the relative formula mass (M_r) of a compound?  
+   A) The mass of one molecule in grams  
+   B) The sum of the relative atomic masses of all the atoms in the formula  
+   C) The mass of the compound divided by the number of moles  
+   D) The number of atoms in the compound  
+   **Answer: B**
+
+3. How many moles are there in 24 g of carbon (A_r = 12)?  
+   A) 1 mole  
+   B) 2 moles  
+   C) 0.5 moles  
+   D) 4 moles  
+   **Answer: B**
+
+4. What is the empirical formula of a compound with 40% carbon, 6.67% hydrogen, and 53.33% oxygen?  
+   A) CH2O  
+   B) CH3O  
+   C) C2H4O  
+   D) C3H6O  
+   **Answer: A** (Moles: C 40/12=3.33, H 6.67/1=6.67, O 53.33/16=3.33; divide by 3.33: 1:2:1)
+
+5. What is the concentration of a solution in mol/dm³ if 0.1 moles are dissolved in 0.5 dm³?  
+   A) 0.05 mol/dm³  
+   B) 0.2 mol/dm³  
+   C) 0.5 mol/dm³  
+   D) 2 mol/dm³  
+   **Answer: B**
+
+6. In a titration, 25 cm³ of acid reacts with 20 cm³ of 0.1 mol/dm³ alkali. What is the concentration of the acid if the reaction is 1:1?  
+   A) 0.08 mol/dm³  
+   B) 0.1 mol/dm³  
+   C) 0.125 mol/dm³  
+   D) 0.2 mol/dm³  
+   **Answer: A** (Moles alkali = 20/1000 × 0.1 = 0.002; concentration acid = 0.002 / (25/1000) = 0.08 mol/dm³)
+
+7. What is percentage yield?  
+   A) The amount of product obtained divided by the amount expected × 100  
+   B) The amount of reactant used divided by the amount available × 100  
+   C) The mass of product divided by the mass of reactant × 100  
+   D) The number of moles of product divided by the number of moles of reactant × 100  
+   **Answer: A**
+
+8. What is atom economy?  
+   A) The percentage of atoms in the reactants that end up in the desired product  
+   B) The percentage of the reactant that is converted to product  
+   C) The efficiency of the reaction in terms of energy  
+   D) The cost-effectiveness of the reaction  
+   **Answer: A**
+
+9. What is the limiting reactant?  
+   A) The reactant that is completely used up in the reaction  
+   B) The reactant that is present in excess  
+   C) The reactant that produces the most product  
+   D) The reactant that is the most expensive  
+   **Answer: A**
+
+10. At STP (standard temperature and pressure), what volume does 1 mole of any gas occupy?  
+    A) 22.4 dm³  
+    B) 24 dm³  
+    C) 22 dm³  
+    D) 24.4 dm³  
+    **Answer: A**
+
+## One and Two Mark Questions
+
+1. Define relative atomic mass. (1 mark)  
+   **Answer:** The average mass of the atoms of an element compared to 1/12 the mass of a carbon-12 atom.
+
+2. Calculate the relative formula mass of CO₂. (A_r C=12, O=16) (1 mark)  
+   **Answer:** 12 + (16 × 2) = 44
+
+3. How many moles are in 12 g of carbon? (A_r=12) (1 mark)  
+   **Answer:** 12 / 12 = 1 mole
+
+4. What is the empirical formula of CH₄? (1 mark)  
+   **Answer:** CH₄
+
+5. Calculate the concentration in mol/dm³ if 2 moles are dissolved in 1 dm³. (1 mark)  
+   **Answer:** 2 mol/dm³
+
+6. State the units for concentration. (1 mark)  
+   **Answer:** mol/dm³ or g/dm³
+
+7. What is the formula for calculating moles? (1 mark)  
+   **Answer:** Moles = mass / molar mass
+
+8. Define empirical formula. (1 mark)  
+   **Answer:** The simplest whole number ratio of atoms in a compound.
+
+9. What does STP stand for? (1 mark)  
+   **Answer:** Standard Temperature and Pressure
+
+10. Calculate the number of moles in 36 g of water (M_r=18). (1 mark)  
+    **Answer:** 36 / 18 = 2 moles
+
+## Three and Four Mark Questions
+
+1. Calculate the number of moles in 50 g of CaCO₃. (M_r=100) (2 marks)  
+   **Answer:** Moles = 50 / 100 = 0.5 moles
+
+2. Find the empirical formula of a compound with 60% C, 13.3% H, 26.7% O. (A_r C=12, H=1, O=16) (3 marks)  
+   **Answer:** Moles: C 60/12=5, H 13.3/1=13.3, O 26.7/16=1.67; divide by 1.67: 3:8:1; empirical formula C₃H₈O
+
+3. In a reaction, 10 g of reactant produces 8 g of product, but the expected yield is 10 g. Calculate the percentage yield. (2 marks)  
+   **Answer:** Percentage yield = (8 / 10) × 100 = 80%
+
+4. Calculate the atom economy for the reaction: 2H₂ + O₂ → 2H₂O, where water is the desired product. (M_r H₂=2, O₂=32, H₂O=18) (3 marks)  
+   **Answer:** Mass of desired product = 2 × 18 = 36; total mass reactants = (2 × 2) + 32 = 36; atom economy = (36 / 36) × 100 = 100%
+
+5. A solution contains 0.05 moles in 250 cm³. Calculate the concentration in mol/dm³. (2 marks)  
+   **Answer:** Volume = 250 / 1000 = 0.25 dm³; concentration = 0.05 / 0.25 = 0.2 mol/dm³
+
+6. Explain why percentage yield is less than 100% in real reactions. (2 marks)  
+   **Answer:** Due to side reactions, incomplete reactions, or loss of product during purification.
+
+7. Calculate the mass of 0.5 moles of NaCl. (M_r=58.5) (2 marks)  
+   **Answer:** Mass = 0.5 × 58.5 = 29.25 g
+
+8. What is the difference between actual yield and theoretical yield? (2 marks)  
+   **Answer:** Theoretical yield is the maximum possible yield calculated from the equation; actual yield is the amount obtained in practice.
+
+## Maths Questions
+
+1. Calculate the molar mass of MgSO₄. (A_r Mg=24, S=32, O=16)  
+   **Answer:** 24 + 32 + (16 × 4) = 120 g/mol
+
+2. If 5 g of Ca reacts with excess HCl, how many moles of H₂ are produced? (Equation: Ca + 2HCl → CaCl₂ + H₂, A_r Ca=40)  
+   **Answer:** Moles Ca = 5 / 40 = 0.125; moles H₂ = 0.125 (1:1 ratio with Ca)
+
+3. A 0.1 mol/dm³ solution has 500 cm³. How many moles are present?  
+   **Answer:** Volume = 0.5 dm³; moles = 0.1 × 0.5 = 0.05
+
+4. Calculate the volume of 2 moles of CO₂ at STP. (1 mole = 22.4 dm³)  
+   **Answer:** 2 × 22.4 = 44.8 dm³
+
+5. In titration, 30 cm³ of 0.2 mol/dm³ NaOH neutralizes acid. Calculate moles of NaOH.  
+   **Answer:** 30/1000 × 0.2 = 0.006 moles
+
+6. Percentage yield is 75% for a reaction producing 12 g of product. What is the theoretical yield?  
+   **Answer:** Theoretical yield = 12 / 0.75 = 16 g
+
+7. Atom economy = 80% for a reaction with total reactant mass 50 g. What mass of desired product?  
+   **Answer:** Mass = 0.8 × 50 = 40 g
+
+8. Empirical formula from 50% C, 50% O. (A_r C=12, O=16)  
+   **Answer:** Moles C=50/12≈4.17, O=50/16≈3.125; divide by 3.125: 1.33:1 ≈ 4:3; CO₃? Wait, 4.17/3.125≈1.33, 3.125/3.125=1; 1.33:1 = 4:3; C₄O₃
+
+## Six Mark Questions
+
+1. A student titrates 25 cm³ of sulfuric acid (H₂SO₄) with sodium hydroxide (NaOH). The average titre is 24.5 cm³ of 0.1 mol/dm³ NaOH. The equation is H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. Calculate the concentration of the sulfuric acid. (6 marks)  
+   **Answer:**  
+   - Moles of NaOH = volume × concentration = 0.0245 dm³ × 0.1 mol/dm³ = 0.00245 moles  
+   - From equation, 2 moles NaOH react with 1 mole H₂SO₄, so moles H₂SO₄ = 0.00245 / 2 = 0.001225 moles  
+   - Volume of acid = 25 / 1000 = 0.025 dm³  
+   - Concentration = 0.001225 / 0.025 = 0.049 mol/dm³
+
+2. In a reaction, 10 g of calcium carbonate (CaCO₃) reacts with excess hydrochloric acid (HCl) to produce 4.4 g of carbon dioxide (CO₂). The equation is CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. Calculate the percentage yield. (M_r CaCO₃=100, CO₂=44) (6 marks)  
+   **Answer:**  
+   - Moles CaCO₃ = 10 / 100 = 0.1 moles  
+   - From equation, 1 mole CaCO₃ produces 1 mole CO₂, so expected moles CO₂ = 0.1  
+   - Expected mass CO₂ = 0.1 × 44 = 4.4 g  
+   - Actual mass = 4.4 g  
+   - Percentage yield = (4.4 / 4.4) × 100 = 100%
+
+3. A compound has 52.2% C, 13.0% H, 34.8% O. Find the empirical formula and molecular formula if M_r = 46. (A_r C=12, H=1, O=16) (6 marks)  
+   **Answer:**  
+   - Moles: C 52.2/12=4.35, H 13.0/1=13.0, O 34.8/16=2.175  
+   - Divide by 2.175: C 2, H 6, O 1; empirical formula C₂H₆O  
+   - Empirical M_r = 24 + 6 + 16 = 46; molecular formula = empirical formula = C₂H₆O
+
+4. 5 g of magnesium reacts with excess oxygen to produce magnesium oxide. The mass of oxide is 8.3 g. Calculate the percentage yield. (Equation: 2Mg + O₂ → 2MgO, A_r Mg=24, O=16, M_r MgO=40) (6 marks)  
+   **Answer:**  
+   - Moles Mg = 5 / 24 = 0.2083 moles  
+   - From equation, 2 moles Mg produce 2 moles MgO, so moles MgO = 0.2083  
+   - Expected mass MgO = 0.2083 × 40 = 8.332 g  
+   - Actual mass = 8.3 g  
+   - Percentage yield = (8.3 / 8.332) × 100 ≈ 99.6%
+
+5. Calculate the volume of hydrogen produced at STP when 2.4 g of magnesium reacts with excess hydrochloric acid. (Equation: Mg + 2HCl → MgCl₂ + H₂, A_r Mg=24) (6 marks)  
+   **Answer:**  
+   - Moles Mg = 2.4 / 24 = 0.1 moles  
+   - From equation, 1 mole Mg produces 1 mole H₂, so moles H₂ = 0.1  
+   - Volume at STP = 0.1 × 22.4 = 2.24 dm³
+
+6. In a titration, 20 cm³ of potassium hydroxide (KOH) solution is neutralized by 15 cm³ of 0.2 mol/dm³ nitric acid (HNO₃). The equation is KOH + HNO₃ → KNO₃ + H₂O. Calculate the concentration of KOH. (6 marks)  
+   **Answer:**  
+   - Moles HNO₃ = 0.015 dm³ × 0.2 mol/dm³ = 0.003 moles  
+   - From equation, 1:1 ratio, so moles KOH = 0.003 moles  
+   - Volume KOH = 20 / 1000 = 0.02 dm³  
+   - Concentration KOH = 0.003 / 0.02 = 0.15 mol/dm³
