@@ -1,0 +1,76 @@
+Chemical cells
+    Chemical cells use chemical reactions to transfer energy by electricity. 
+    The voltage of a cell depends upon a number of factors, 
+        including what the electrodes are made from, 
+        and the substance used as the electrolyte.
+
+    A simple cell can be made by connecting two different metals in contact with an electrolyte. 
+    A number of cells can be connected in series to make a battery, which has a higher voltage than a single cell.
+
+    In non-rechargeable cells, eg alkaline cells, a voltage is produced until one of the reactants is used up. 
+    When this happens, we say the battery ‘goes flat’.
+
+    In rechargeable cells and batteries, like the one used to power your mobile phone, the chemical reactions can be reversed when an external circuit is supplied.
+
+    Here is a simple reactivity series: Au, Cu, Zn, Mg. reactivity increases from Au to Mg.
+
+    If we connect different combinations of these metals to make a cell, we find that the voltage changes. In the below table, the positive electrodes and what they are made from are listed along the top and the negative electrodes along the side.
+
+                 Magnesium -2.37	Zinc -0.76	    Copper +0.34
+    Magnesium	0.00 V	            +1.61 V	        +2.71
+    Zinc	    -1.61 V	            0.00 V	        +1.10 V
+    Copper	    -2.71 V	            -1.10 V	        0.00 V
+
+
+    Fuel cells
+
+    Fuel cells work in a different way than chemical cells. Fuel cells produce a voltage continuously, as long as they are supplied with:
+        a constant supply of a suitable fuel
+        oxygen, eg from the air
+
+    The fuel is oxidised electrochemically, rather than being burned, so the reaction takes place at a lower temperature than if it wasto be burned. 
+    Energy is released as electrical energy, not thermal energy (heat).
+
+    Hydrogen-oxygen fuel cells
+        Hydrogen-oxygen fuel cells are an alternative to rechargeable cells and batteries. 
+        In a hydrogen-oxygen fuel cell, hydrogen and oxygen are used to produce a voltage. 
+        Water is the only product. 
+        
+        The overall reaction in a hydrogen-oxygen fuel cell is:
+            hydrogen + oxygen → water
+            2H2(g) + O2(g) → 2H2O(l)
+
+        Electrode half equations - Higher
+            At the negative electrode: 2H2 + 4OH- → 4H2O + 4e-
+            At the positive electrode: O2 + 2H2O + 4e- → 4OH-
+
+        When you add these two half equations together, you get the following overall equation:
+
+            2H2 + 4OH- + O2 + 2H2O + 4e- → 4H2O + 4e- + 4OH-
+
+            The hydroxide ions, electrons and two H2O molecules will now cancel because they are on both sides, leaving the overall equation:
+
+            2H2 + O2 → 2H2O
+Evaluating different cells
+
+    Type of cell
+    Alkaline cell	
+        Pros : Cheaper to manufacture	
+        Cons : May end up in landfill sites once fully discharged; recyclable though it is expensive
+    Rechargeable cell	
+        Pros : Can be recharged many times before being recycled, reducing the use of resources
+        Cons : 	Costs more to manufacture
+    Hydrogen fuel cell	
+        Pros : Easy to maintain as there are no moving parts; small size; water is the only chemical product	
+        Cons : Very expensive to manufacture; need a constant supply of hydrogen fuel, which is a flammable gas
+
+    Fuel cells have different strengths and weaknesses, depending on the intended use. For example, fuel cells are used in spacecraft and vehicles.
+
+    Fuel cells in spacecraft
+        Hydrogen-oxygen fuel cells are used in spacecraft. In addition to the strengths in the table above, the water they produce is useful as drinking water for astronauts.
+
+    Hydrogen-oxygen fuel cells must be supplied with hydrogen fuel and oxygen. This could be a problem once a spacecraft leaves the Earth. However, spacecraft in orbit, such as the International Space Station, have 
+    solar cells. These convert light into electricity, so the hydrogen and oxygen can be replaced by the 
+    electrolysis of water.
+
+    Solar cells only work when they are in the light, so the fuel cells allow electricity to be produced even when the spacecraft is in the dark.

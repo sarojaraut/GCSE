@@ -1,0 +1,164 @@
+Questions
+
+    1. What is the relative formula mass of potassium sulfate, K2SO4? Relative atomic masses (Ar): potassium = 39, sulfur = 32, oxygen = 16
+    2. A solution of sugar has a concentration of 3 g/dm3. What is the mass of sugar in 0.5 dm3 of solution?
+    3. Sulfur dioxide reacts with oxygen to produce sulfur trioxide: 2SO2(g) + O2(g) → 2SO3(g). What mass of oxygen, in grams, would react completely with 1.28 g of sulfur dioxide? Relative atomic masses (Ar): sulfur = 32, oxygen = 16
+    4. A student made zinc sulfate in this reaction: ZnO(s) + H2SO4(aq) → ZnSO4(aq) + H2O(l). He started with 4.05 g of zinc oxide. What is the theoretical mass of zinc sulfate? Relative atomic masses (Ar): zinc = 65, oxygen = 16, sulfur = 32.
+
+    Ans 
+    1: 174
+    2: 1.5 gm
+    3: 0.32 gm
+
+Link box questions
+
+Structured and short answer questions
+
+    A student heated some copper carbonate in a boiling tube.
+    The reaction shown by the equation below occurred.
+    CuCO3(s) → CuO(s) + CO2(g)
+    He measured the mass of the contents of the boiling tube before and after the reaction.
+
+    His results are in table 1.
+
+    When mass was measured	Mass of contents of crucible
+    Before the reaction	          2.48 g
+    After the reaction	          1.60 g
+
+    Mass decreased [1] because one of the products/carbon dioxide was formed as a gas that escaped into the air. [1]
+
+    CuCO3 = 64 + 12 + 48 = 124
+    CO2 = 44 
+
+    0.02 mol CuCO3 produces 0.02 mol of CO2
+    
+    2. A student heated some magnesium ribbon in a crucible with a lid.
+        The reaction shown by the equation below occurred.
+        2Mg(s) + O2(g) → 2MgO(s)
+        She measured the mass of the contents of the crucible before and after the reaction.
+        Her results are in table 2.
+        Table 2
+        When mass was measured	Mass of contents of crucible
+        Before the reaction	            1.50 g
+        After the reaction	            2.30 g
+        Explain the change in mass.
+
+    Ans
+        The mass increased. [1]
+        Because magnesium joined with oxygen/a gas from the air. [1]
+
+    Sample question 3 - Higher
+        Question
+        A student has a solution. The student knows:
+
+        the mass of a solute in the solution
+        the volume of the solution
+        the mass of one mole of the solute
+        Explain how to find the concentration of the solution in mol/dm3. [2 marks]
+
+    Ans 
+        Calculate the concentration in g/dm3 by dividing the mass of the solute in g by the volume of solution in dm3. [1]
+
+    Sample question 4 - Higher
+        Question
+        A student wanted to make 10.0 g of zinc chloride.
+        The equation for the reaction is:
+        ZnO(aq) + 2HCl(aq) → ZnCl2(aq) + H2O(l)
+        Calculate the mass of zinc oxide the student needs to react with the dilute acid to make 10.0 g of zinc chloride. [4 marks]        
+        Then divide the concentration in g/dm3 by the mass of one mole of solute to find the concentration in mol/dm3. [1]
+
+    Ans
+        Mr of zinc chloride = 65 + (2 × 35.5) = 136 [1]
+        Amount of zinc chloride in mol = 10.0 g ÷ 136 g/mol = 0.0735294 mol [1]
+        Amount of zinc oxide required = 0.0735294 mol
+        Mr of zinc oxide = 65 + 16 = 81 [1]
+        Mass of zinc oxide = 0.0735294 mol × 81 g/mol = 6.0 g (2 significant figures) [1]
+
+Maths questions
+
+    Sample question 1 - Foundation
+    Question
+        Calcium nitrate contains calcium ions and nitrate ions.
+        Calculate the relative formula mass of calcium nitrate, Ca(NO3)2.
+        (relative atomic masses: Ca = 40, N = 14, O = 16) [2 marks]
+
+    Sample question 2 - Foundation
+    Question
+        Magnesium reacts with oxygen:
+        2Mg + O2 → 2MgO
+        Calculate the maximum mass of magnesium oxide that can be formed from 4.8 g of magnesium.
+        (Relative atomic mass of Mg = 24; relative formula mass of MgO = 40) [2 marks]
+
+        Amount of magnesium = 4.8/24 = 0.2 Mol
+        Molar ration between Mg and MgO is 1 : 1 
+        So this reaction would create 0.2 Mol of MgO
+        Mass of 0.2 Mol of MgO = 40 * 0.2 = 8 gm 
+
+    Sample question 3 - Higher
+        Question
+        Calculate the mass of 0.25 mol of carbon dioxide, CO2.
+        (relative atomic masses: C = 12, O = 16)
+
+        11g
+    Sample question 4 - Higher
+        Question
+        50 cm3 of potassium hydroxide solution of concentration 40 g/dm3 is needed for an experiment.
+        Calculate the mass of potassium hydroxide that must be dissolved in water to make 50 cm3 of solution of this concentration. [2 marks]
+
+            Volume in dm3 = 50 /1000 = 0.050 dm3
+            Mass = concentration × volume
+            Mass = 40 g/dm3 × 0.050 dm3 [1]
+            = 2 g [1]
+
+Six-mark questions
+
+    Sample question 1 - Foundation
+        A teacher mixed aluminium and iodine powder, and added a drop of water.
+        The reaction shown by the equation below occurred.
+        2Al(s) + 3I2(s) → 2AlI3(s)
+        Explain what is shown by the formulae in the equation, and by the equation itself. [6 marks]
+    Answer
+        The reactants are aluminium and iodine
+        Iodine exists as molecules, each made up of two iodine atoms
+        The product is aluminium iodide
+        In aluminium iodide there are three atoms of iodine for every one atom of aluminium
+        Two atoms of aluminium react with (3 × 2) = 6 atoms of iodine
+        There are the same number of atoms of each element before and after the reaction
+
+    Sample question 2 - Foundation
+        State the law of conservation of mass, and explain why some reactions may appear to involve a change in mass. [6 marks]
+    Answer
+        In a chemical reaction no atoms are lost or made.
+        The mass of products is equal to the mass of reactants.
+        Sometimes the mass appears to increase.
+        This is often because a solid reactant has joined to a gas from the air.
+        Sometimes the mass appears to decrease.
+        This is often because one of the products is a gas which is released to the air.
+
+    Sample question 3 - Higher
+        Explain why 1 mol of aluminium sulfate has a number of ions that is five times greater than the number of atoms in 1 mol of aluminium metal.
+        Include a chemical formula in your answer.
+        The value of the Avogadro constant is 6.02 × 1023/mol. [6 marks]
+    Answer
+        The formula of aluminium sulfate is Al2(SO4)3.
+        There are 2 mol of aluminium ions and 3 mol of sulfate ions/a total of 5 mol of ions in 1 mol of aluminium sulfate.
+        There is 1 mol of aluminium atoms in 1 mol of aluminium metal.
+        The Avogadro constant is the number of particles in one mole of a substance.
+        1 mol of aluminium sulfate has 5 mol × 6.02 × 1023/mol = 3.01 × 1024 ions.
+        1 mol of aluminium metal has 1 mol × 6.02 × 1023/mol = 6.02 × 1023 atoms.
+
+    Sample question 4 - Higher
+        A student reacts calcium carbonate with hydrochloric acid.
+        Suggest how she can use the apparatus in the list below to show that the mass of the contents of the beaker decreases.
+        Apparatus:
+            beaker
+            balance
+            spatula
+            watch glass
+    Answer
+        Place the watch glass on the balance.
+        Use the spatula to place some calcium carbonate on the watch glass and record the mass of calcium carbonate.
+        Place a beaker of hydrochloric acid on the balance. Record the mass of acid + beaker.
+        Calculate the total mass of reactants + beaker.
+        Add the calcium carbonate to the acid in the beaker on the balance.
+        Record the mass when the effervescence finishes.

@@ -1,0 +1,141 @@
+https://www.bbc.co.uk/bitesize/topics/zcdj97h
+
+Reactions of metals
+    The reactivity series of metals 
+        When metals react with other substances, the metal atoms lose electrons to form positive ions.
+
+        The table summarises some reactions of metals in the reactivity series. Hydrogen and carbon are shown for comparison.
+        (1.reactivity series of metals.png)
+
+    Reactions of metals with water
+        When a metal reacts with water, a metal hydroxide and hydrogen are formed. For example, sodium reacts rapidly with cold water:
+
+        Sodium + water → sodium hydroxide + hydrogen
+        2Na(s) + 2H2O(l) → 2NaOH(aq) + H2(g)
+
+        In general, the more reactive the metal, the more rapid the reaction is.
+
+    Reactions of metals with dilute acids
+        When a metal reacts with a dilute acid, a salt and hydrogen are formed. For example, magnesium reacts rapidly with dilute hydrochloric acid:
+
+        Magnesium + hydrochloric acid → magnesium chloride + hydrogen
+        Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)
+
+        The more reactive the metal, the more rapid the reaction is. A metal below hydrogen in the reactivity series will not react with dilute acids.
+
+    Question
+        Describe and explain the observations when a small piece of lithium is placed on the surface of a big container of water. A few drops of universal indicator have been added to the water.
+
+            There is fizzing as the lithium reacts with the water to produce hydrogen gas. The colour of the universal indicator changes from green to purple as an alkaline solution of lithium hydroxide is produced.
+
+        Platinum is placed below gold in the reactivity series. Predict its reaction with dilute acids and explain your answer.
+
+Oxidation, reduction and displacement reactions
+    Oxidation is the gain of oxygen. 
+    Reduction is the loss of oxygen.
+    
+    Reactions of metals with oxygen
+        Many metals react with oxygen to make metal oxides. For example, magnesium burns rapidly in air:
+            Magnesium + oyxgen → magnesium oxide
+            2Mg(s) + O2(g) → 2MgO(s)
+        The reactions are oxidation reactions because the metal gains oxygen
+
+    Oxygen can be removed from metal oxides in chemical reactions. For example:
+        Copper oxide + carbon → copper + carbon dioxide
+        2CuO(s) + C(s) → 2Cu(l) + CO2(g)
+        In this reaction, carbon is oxidised because it gains oxygen. At the same time, copper oxide is reduced because oxygen is removed from it.
+
+    Displacement in solutions
+        A more reactive metal can displace a less reactive metal from its compounds. 
+        For example, magnesium is more reactive than copper. It displaces copper from copper sulfate solution:
+        
+        Magnesium + copper sulfate → magnesium sulfate + copper
+        Mg(s) + CuSO4(aq) → MgSO4(aq) + Cu(s)
+
+        magnesium becomes coated with copper
+        the blue colour of the solution fades as blue copper sulfate solution is replaced by colourless magnesium sulfate solution
+    
+    Displacement reactions as redox reactions - Higher tier
+        A balanced equation for the reaction between magnesium and copper sulfate solution can be written in terms of the ions involved:
+            Mg(s) + Cu2+(aq) + SO42-(aq) → Mg2+(aq) + SO42-(aq) + Cu(s)
+
+            Sulfate ions, SO42-, appear on both sides of the equation, but they do not take part in the reaction. The equation can be rewritten without them:
+            Mg(s) + Cu2+(aq) → Mg2+(aq) + Cu(s)
+
+            It can be split into two half equations:
+
+                Mg(s) → Mg2+(aq) + 2e- (oxidation)
+                Cu2+(aq) + 2e- → Cu(s) (reduction)
+
+                magnesium atoms lose electrons - they are oxidised
+                copper ions gain electrons - they are reduced
+            Reduction and oxidation happen at the same time, so the reactions are called redox reactions.
+
+            Oxidation is the loss of electrons, and reduction is the gain of electrons.
+
+    Extracting iron and copper
+    Ores
+        Unreactive metals such as gold are found in the Earth's crust as the uncombined elements. However, most metals are found combined with other elements to form compounds.
+        An ore is a rock that contains enough of a metal or a metal compound to make extracting the metal worthwhile.
+
+    Extraction methods
+        The extraction method used depends upon the metal's position in the reactivity series. 
+        In principle, any metal could be extracted from its compounds using electrolysis. 
+        However, large amounts of electrical energy are needed to do this, so electrolysis is expensive.
+
+            Copper oxide + carbon → copper + carbon dioxide
+            2CuO(s) + C(s) → 2Cu(l) + CO2(g)
+            Copper oxide is reduced as carbon is oxidised, so this is an example of a redox reaction.
+
+    Extracting iron
+        Iron(III) oxide is reduced to molten iron when it reacts with carbon. One of the products is carbon monoxide:
+        iron(III) oxide + carbon → iron + carbon monoxide
+
+        Fe2O3(s) + 3C(s) → 2Fe(l) + 3CO(g)
+
+        This method of extraction works because carbon is more reactive than iron, so it can displace iron from iron compounds. Extracting a metal by heating with carbon is cheaper than using electrolysis
+
+    Question
+        In the reaction of iron(III) oxide with carbon, state which substance is reduced and which substance is oxidised.
+        Carbon is oxidides and Fe is reduced. OIL RIG
+    
+    Extracting aluminium
+        Aluminium is more reactive than carbon so it must be extracted from its compounds using electrolysis. 
+        Even though aluminium is more abundant than iron in the Earth's crust, aluminium is more expensive than iron. 
+        This is mainly because of the large amounts of electrical energy used in the extraction process.
+
+    Electrolysis of aluminium oxide
+    The electrolyte
+        electrolyte : A substance which, when molten or in solution, will conduct an electric current.
+
+        Aluminium ore is treated to produce pure aluminium oxide. 
+        The electrolytes used in electrolysis are ionic compounds:
+            in the molten state, or 
+            dissolved in water
+        Aluminium oxide is insoluble in water, so it must be molten to act as an electrolyte. 
+        However, the melting point of aluminium oxide is high. 
+        A lot of energy must be transferred to break its strong ionic bonds, and this is expensive. 
+        
+        To reduce costs, powdered aluminium oxide is dissolved in molten cryolite. 
+        This ionic compound melts at a lower temperature than aluminium oxide, reducing costs. 
+        However, significant amounts of energy are required to melt the cryolite.
+
+    The electrolysis process
+        The diagram shows an electrolysis cell used to extract aluminium. 
+        Both electrodes are made of graphite, a form of carbon with a high melting point and which conducts electricity.
+
+        During electrolysis:
+            at the cathode, aluminium ions gain electrons and form aluminium atoms
+            at the anode, oxide ions lose electrons and form oxygen gas
+
+            The oxygen reacts with the carbon anodes, forming carbon dioxide. So the anodes are gradually oxidised. 
+            They must be replaced frequently, adding to the cost of producing aluminium.
+
+        Explain, with the help of a half equation, how oxide ions are oxidised during the electrolysis of aluminium oxide.
+            The half equation is: 2O2- → O2 + 4e-. 
+            It shows that oxide ions lose electrons, and oxidation is loss of electrons.
+
+        Explain, with the help of a half equation, how aluminium ions are reduced during the electrolysis of aluminium oxide.
+
+        The half equation is: Al3+ + 3e-  => Al3+
+        It shows that aluminium ions gain electrons, and reduction is gain of electrons.

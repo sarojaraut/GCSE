@@ -1,0 +1,28 @@
+Questions
+Multiple choice questions
+    The diagram shows the reaction profile of an exothermic reaction. 
+    What does the energy value of 1370 kJ represent? 
+        Ans:Activation energy
+
+    Magnesium needs to be heated before it reacts with oxygen in the air. 
+    What conclusion can you draw from this?
+        Ans : The reaction has a high activation energy
+
+    Which of the following statements correctly explains why a reaction is endothermic?
+        A	More energy is released when breaking reactant bonds than is absorbed when making product bonds	
+        B	More energy is absorbed when breaking reactant bonds than is released when making product bonds	
+        C	Less energy is absorbed when breaking reactant bonds than is released when making product bonds	
+        D	Less energy is released when breaking reactant bonds than is absorbed when making product bonds
+        
+        Ans : More energy is absorbed when breaking reactant bonds than is released when making product bonds
+
+    Which of the following reactions releases most energy to the surroundings?
+
+        A	Reaction energy change = -456 kJ/mol	
+        B	Reaction energy change = +547 kJ/mol	
+        C	Reaction energy change = -38 kJ/mol	
+        D	Reaction energy change = +1456 kJ/mol
+
+        Ans : A
+
+    

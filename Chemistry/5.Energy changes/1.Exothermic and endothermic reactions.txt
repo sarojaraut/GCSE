@@ -1,0 +1,85 @@
+Exothermic and endothermic reactions
+
+    When a chemical reaction happens, energy is transferred to or from the surroundings. When energy is transferred to the surroundings, this is called an exothermic reaction, and the temperature of the surroundings increases. Examples of exothermic reactions include:
+        combustion reactions : The process of burning by heat.
+        many oxidation reactions : The gain of oxygen, or loss of electrons, by a substance during a chemical reaction.
+        most neutralisation reactions : The reaction between an acid and a base to form a salt plus water.
+
+        Everyday uses of exothermic reactions include self-heating cans and hand warmers.
+
+
+    When energy is taken in from the surroundings, this is called an endothermic reaction and the temperature of the surroundings decreases. Examples of endothermic reactions include:
+        thermal decomposition reactions : Type of reaction in which a compound breaks down to form two or more substances when it is heated.
+        the reaction of citric acid and sodium hydrogencarbonate
+
+        Everyday uses of endothermic reactions include instant ice packs which can be used to treat sports injuries.
+
+
+    Example : Sodium hydroxide solution is poured into a beaker of hydrochloric acid produces salt sodium chloride and water is a exothermic reaction
+
+Investigating exothermic and endothermic reactions
+    Practical : https://www.bbc.co.uk/bitesize/guides/zwfr2nb/revision/2
+
+Reaction profiles
+    Reaction profiles
+        An energy level diagram shows whether a reaction is exothermic or endothermic. 
+        It shows the energy in the reactants and products, and the difference in energy between them.
+        energy level diagram Plotts graph by showing progress(time) in x axis and energy in y axis. 
+        exothermic : reactant at a higher energy and product at lower energy
+        endothermic : reactant at a lower energy and product at higher energy
+    Exothermic reaction : The energy level decreases in an exothermic reaction. This is because energy is given out to the surroundings.
+    Endothermic reaction : The energy level increases in an endothermic reaction. This is because energy is taken in from the surroundings.
+
+    It is usually more helpful to describe how the energy of the chemicals changes during the reaction, so a reaction profile is more useful than an energy level diagram.
+
+
+    A reaction profile includes the activation energy, which is the minimum energy needed by particles when they collide for a reaction to occur. The activation energy is shown as a 'hump' in the line, which:
+        starts at the energy of the reactants
+        is equal to the difference in energy between the top of the 'hump' and the reactant
+    The overall change in energy in a reaction is the difference between the energy of the reactants and products.
+
+Explaining energy changes in reactions - Higher
+    Energy is transferred when bonds are broken or are formed.
+                             Breaking bonds	     Forming bonds
+    Type of process	         Endothermic	     Exothermic
+    Heat energy transferred	 Taken in	         Given out
+
+    During a chemical reaction:
+        bonds in the reactants are broken
+        new bonds are made in the products
+
+    A reaction is:
+        exothermic :  if more heat energy is released in making bonds in the products than is taken in when breaking bonds in the reactants
+        endothermic :  if less heat energy is released in making bonds in the products than is taken in when breaking bonds in the reactants
+
+Calculating energy changes - Higher
+    Using bond energies
+    Example  : Hydrogen and chlorine react to form hydrogen chloride gas:
+                H−H + Cl−Cl → 2 × (H−Cl)
+                Use the bond energies in the table to calculate the energy change for this reaction.
+
+                Bond	Bond energy
+                H−H	    436 kJ mol-1
+                Cl−Cl	243 kJ mol-1
+                H−Cl	432 kJ mol-1
+
+    Answer :
+    Energy in = 436 + 243 = 679 kJ mol-1
+    Energy out = (2 × 432) = 864 kJ mol-1
+    Energy change = in - out = 679 - 864 = -185 kJ mol-1
+
+    The energy change is negative. This shows that the reaction is exothermic.
+
+    Example : Hydrogen reacts with oxygen to form water:
+        2 × (H−H) + O=O → 2 × (H-O-H)
+        Use the bond energies in the table to calculate the energy change for this reaction.
+        Bond	Bond energy
+        H−H	    436 kJ mol-1
+        O=O	    498 kJ mol-1
+        O-H	    464 kJ mol-1
+        Energy in  = 2 * 436 + 498 = 1370 kJ mol-1
+        Energy out = 2 * 2* 464 = 1856 kJ mol-1
+        Energy change = in - out
+            = 1370 - 1856
+            = -486 kJ mol-1
+        The energy change is negative. This shows that the reaction is exothermic.

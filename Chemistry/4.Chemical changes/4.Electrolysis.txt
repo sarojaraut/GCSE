@@ -1,0 +1,38 @@
+Electrolysis
+
+    Electrolytes
+        Electrolytes are ionic compounds that are:
+            in the molten state (heated so they become liquids), or
+            dissolved in water
+
+        Under these conditions, the ions in electrolytes are free to move within the liquid or solution.
+
+        Electrolysis
+            is a process in which electrical energy, from a direct current (dc) supply, breaks down electrolytes. 
+            The free moving ions in electrolytes are attracted to the oppositely charged electrodes which connect to the dc supply.
+
+    Products of electrolysis
+        When ions reach an electrode, they gain or lose electrons. As a result, they form atoms or molecules of elements:
+
+    Molten lead bromide, PbBr2(l), is an electrolyte. During electrolysis:
+        Pb2+ ions gain electrons at the cathode and become Pb atoms
+        Br- ions lose electrons at the anode and become Br atoms, which pair up to form Br2 molecules
+
+Electrolysis of solutions
+    Electrolysis of acidified waterWater is a poor conductor of electricity, but it does contain some hydrogen ions, H+, and hydroxide ions, OH-. 
+    These ions are formed when a small proportion of water molecules naturally dissociate. If water is acidified with a little dilute sulfuric acid:
+
+    H+ ions are attracted to the cathode, gain electrons and form hydrogen gas
+    OH- ions are attracted to the anode, lose electrons and form oxygen gas
+
+    Electrolysis of dissolved ionic compounds
+        An electrolyte formed by dissolving an ionic compound contains:
+
+            hydrogen ions from the water, and positive ions from the compound
+            hydroxide ions from the water, and negative ions from the compound
+
+        At the cathode : Whether hydrogen or a metal is produced at the cathode depends on the position of the metal in the metal reactivity series:
+            the metal is produced at the cathode if it is less reactive than hydrogen
+            hydrogen is produced at the cathode if the metal is more reactive than hydrogen
+
+        
