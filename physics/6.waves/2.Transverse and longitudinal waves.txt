@@ -1,0 +1,89 @@
+Transverse and longitudinal waves - AQA
+
+    longitudinal waves
+        In longitudinal waves, the vibrations are parallel to the direction of wave travel.
+            sound waves
+            ultrasound waves
+            seismic P-waves
+        These are pressure or push waves as the particles move parallel to the wave.
+        Longitudinal waves show areas of compression and rarefaction:compressions are regions of high pressure due to particles being close together, rarefactions are regions of low pressure due to particles being spread further apart
+
+    Transverse waves
+        In transverse waves, the vibrations are at right angles to the direction of wave travel.
+            ripples on the surface of water
+            vibrations in a guitar string
+            a Mexican wave in a sports stadium
+            electromagnetic waves - eg light waves, microwaves, radio waves
+            seismic S-waves
+
+    Electromagnetic waves
+    Electromagnetic waves are transverse waves. 
+    Their vibrations or oscillations are changes in electrical and magnetic fields at right angles to the direction of wave travel.
+
+    All electromagnetic waves:
+        transfer energy as radiation from the source of the waves to an absorber
+        can travel through a vacuum such as in space
+        travel at the same speed through a vacuum or the air
+
+    Electromagnetic waves travel at 300 million metres per second (m/s) through a vacuum.
+
+    Electromagnetic waves form a continuous spectrum of waves. This includes:
+        waves with a very short wavelength, high frequency and high energy
+        waves with a very long wavelength, low frequency and low energy
+
+        long wave length, low frequency, low energy > radio waves, microwaves, infrared, visible light, ultra violet, x ray, gamma ray > high frequency high energy
+
+        red light has the lowest frequencies of visible light
+        violet light has the highest frequencies of visible light
+    
+        Radio waves, microwaves, infrared and visible light
+            Radio waves are transmitted easily through air. 
+            They do not cause damage if absorbed by the human body, and they can be reflected to change their direction. 
+            These properties make them ideal for communications, such as television and radio.
+        Radio wave
+            Radio waves can be produced by oscillations in electrical circuits. 
+            When radio waves are absorbed by a conductor, they create an alternating current. 
+            This electrical current has the same frequency as the radio waves. 
+            Information is coded into the wave before transmission, which can then be decoded when the wave is received. Television and radio systems use this principle to broadcast information.
+        Microwaves 
+            High frequency microwaves have frequencies which are easily absorbed by molecules in food. 
+            The internal energy of the molecules increases when they absorb microwaves, which causes heating. 
+            Microwaves pass easily through the atmosphere, so they can pass between stations on Earth and satellites in orbit.
+
+        Infrared
+            Infrared light is used by electrical heaters, cookers for cooking food, and by infrared cameras which detect people in the dark.
+            Infrared light has frequencies which are absorbed by some chemical bonds. 
+            The internal energy of the bonds increases when they absorb infrared light, which causes heating. 
+            This makes infrared light useful for electrical heaters and for cooking food. 
+            All objects emit infrared light. 
+            The human eye cannot see this light but infrared cameras can detect it. This 'thermal imaging' is useful for detecting people in the dark.
+
+        Visible light
+            Visible light is the light we can see. It is used in fibre optic communications, where coded pulses of light travel through glass fibres from a source to a receiver.
+
+    Ultraviolet, EM waves in medicine and ionising radiation
+        Ultraviolet
+            We cannot see ultraviolet light but it can have hazardous effects on the human body. U
+            ltraviolet light in sunlight can cause the skin to tan or burn. 
+            Fluorescent substances are used in energy-efficient lamps - they absorb ultraviolet light produced inside the lamp, and re-emit the energy as visible light.
+        Electromagnetic waves in medicine
+            Changes in atoms and their nuclei can cause electromagnetic waves to be generated or absorbed. 
+            Gamma rays are produced by changes in the nucleus of an atom. 
+            They are a form of nuclear radiation. 
+            High energy waves such as X-rays and gamma rays are transmitted through body tissues with very little absorption. 
+            This makes them ideal for internal imaging. X-rays are absorbed by dense structures like bones, which is why X-ray photos are used to help identify broken bones.
+        Ionising radiation
+            Ultraviolet waves, X-rays and gamma rays are types of ionising radiation. They can add or remove electrons from molecules, producing electrically charged ions. Ionisation can have hazardouseffects on the body:
+
+            ultraviolet waves can cause skin to age prematurely and increase the risk of skin cancer x-rays and gamma rays can cause the mutation of genes, which can lead to cancer
+
+        Radiation dose
+            Radiation dose is a measure of the risk of harm caused by exposing the body to ionising radiation. 
+            Radiation dose is measured in Sieverts (Sv). As radiation dose figures are generally small, they are usually given in millisieverts (mSv):
+
+            1000 mSv = 1 Sv
+            Background radiation is all around us, all the time. Sources include:
+                radioactive rocks in the Earth's crust
+                cosmic rays from space
+                man-made sources such as nuclear weapons fallout and nuclear accidents
+                The level of background radiation and dose are affected by factors such as the jobs that people do and the places where people live.

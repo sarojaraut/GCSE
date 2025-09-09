@@ -1,34 +1,42 @@
 Properties of waves
-Waves are one way in which energy may be transferred between stores.
-Both mechanical and electromagnetic waves will transfer energy but not matter.
+    Types of waves
+        Waves are one way in which energy may be transferred between stores.
+        Both mechanical and electromagnetic waves will transfer energy but not matter.
 
-Waves can be described as oscillations , or vibrations about a rest position.
+        Waves can be described as oscillations , or vibrations about a rest position.
 
-In longitudinal waves the vibrations are parallel to the direction of wave travel.
-In transverse waves the vibrations are at right angles to the direction of wave travel.
+        In longitudinal waves the vibrations are parallel to the direction of wave travel.
+        In transverse waves the vibrations are at right angles to the direction of wave travel.
+    
+    Parts of a wave
+        Waves are described using the following terms:
 
-Waves are described using the following terms:
+        rest position - the undisturbed position of particles or fields when they are not vibrating
+        displacement - the distance that a certain point in the medium has moved from its rest position
+        peak - the highest point above the rest position
+        trough - the lowest point below the rest position
+        amplitude - the maximum displacement of a point of a wave from its rest position
+        wavelength - distance covered by a full cycle of the wave, usually measured from peak to peak, or trough to trough
+        time period - the time taken for a full cycle of the wave, usually measured from peak to peak, or trough to trough
+        frequency - the number of waves passing a point each second
+    
+    Wave period and wave speed
+        T = 1 / f
+        the period (T) is measured in seconds (s)
+        frequency (f) is measured in hertz (Hz)
 
-rest position - the undisturbed position of particles or fields when they are not vibrating
-displacement - the distance that a certain point in the medium has moved from its rest position
-peak - the highest point above the rest position
-trough - the lowest point below the rest position
-amplitude - the maximum displacement of a point of a wave from its rest position
-wavelength - distance covered by a full cycle of the wave, usually measured from peak to peak, or trough to trough
-time period - the time taken for a full cycle of the wave, usually measured from peak to peak, or trough to trough
-frequency - the number of waves passing a point each second
+        wave speed = frequency × wavelength
+        v = f λ
+        wave speed (v) is measured in metres per second (m/s)
+        frequency (f) is measured in Hertz (Hz)
+        wavelength (λ) is measured in metres (m)
 
-T = 1 / f
-the period (T) is measured in seconds (s)
-frequency (f) is measured in hertz (Hz)
+        v =  / t
+        speed (v) is measured in metres per second (m/s)
+        distance (s) is measured in metres (m)
+        time (t) is measured in seconds (s)
+    
+    Measuring the speed of sound in air
+        An observer 400 m away records a 1.2 s time difference between seeing the hand signal and hearing the bang of the starting pistol.
 
-wave speed = frequency × wavelength
-v = f λ
-wave speed (v) is measured in metres per second (m/s)
-frequency (f) is measured in Hertz (Hz)
-wavelength (λ) is measured in metres (m)
-
-v =  / t
-speed (v) is measured in metres per second (m/s)
-distance (s) is measured in metres (m)
-time (t) is measured in seconds (s)
+        v = d/t = 400/12 = 333.67 m/s
