@@ -31,7 +31,7 @@ Transverse and longitudinal waves - AQA
         waves with a very short wavelength, high frequency and high energy
         waves with a very long wavelength, low frequency and low energy
 
-        long wave length, low frequency, low energy > radio waves, microwaves, infrared, visible light, ultra violet, x ray, gamma ray > high frequency high energy
+        long wave length, low frequency, low energy > radio waves, microwaves, infrared, visible light, ultra violet, x ray, gamma ray > short wavelength, high frequency high energy
 
         red light has the lowest frequencies of visible light
         violet light has the highest frequencies of visible light

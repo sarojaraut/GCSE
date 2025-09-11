@@ -1,0 +1,54 @@
+Sound waves
+    Sound waves are longitudinal waves. They cause particles to vibrate parallel to the direction of wave travel. 
+    The vibrations can travel through solids, liquids or gases. 
+    The speed of sound depends on the medium through which it is travelling. 
+    When travelling through air, the speed of sound is about 330 metres per second (m/s). 
+    Sound cannot travel through a vacuum because there are no particles to carry the vibrations.
+
+    The ear
+        The human ear detects sound. Sound waves enter the ear canal and cause the eardrum to vibrate. 
+        Three small bones transmit these vibrations to the cochlea. 
+        This produces electrical signals which pass through the auditory nerve to the brain, where they are interpreted as sound.
+
+    Properties of sound
+        The frequency of a sound wave is related to the pitch that is heard:
+            high frequency sound waves are high pitched
+            low frequency sound waves are low pitched
+        The amplitude of a sound wave is related to the volume of the sound:
+            high amplitude sound waves are loud
+            low amplitude sound waves are quiet
+
+    The cochlea is only stimulated by a limited range of frequencies. This means that humans can only hear certain frequencies. The range of normal human hearing is 20 Hertz (Hz) to 20,000 Hz (20 kHz).
+
+Ultrasound
+    Ultrasound waves have a frequency higher than the upper limit for human hearing - above 20,000 Hertz (Hz)
+
+    Uses of ultrasound
+        Uses of ultrasound include:
+
+        breaking kidney stones
+        cleaning jewellery
+
+        In both of these applications, the vibrations caused by the ultrasound shake apart the dirt or kidney stones, breaking them up. 
+
+    Ultrasound imaging creates a picture of something that cannot be seen directly, such as an unborn baby in the womb, or faults and defects inside manufactured parts.
+
+    Echo sounding
+        High frequency sound waves can be used to detect objects in deep water and to measure water depth. The time between a pulse of sound being transmitted and detected and the speed of sound in water can be used to calculate the distance of the reflecting surface or object. The process is very similar to ultrasound imaging. However, the sound waves used are within normal hearing range
+
+Seismic waves
+    Seismic waves are produced by earthquakes in the Earth’s crust. They can cause damage to structures on th Earth’s surface, as well as tsunamis.
+
+    There are two types of seismic waves:
+    P-waves, which are longitudinal waves
+    S-waves, which are transverse waves
+        P-waves and S-waves have different properties.
+        P-waves has faster relative speed and can travel through solids and liquids
+    S-waves has slower relative speed and can travel through only solids
+
+    Investigating Earth structure using seismic waves
+        Seismic waves from large earthquakes are detected around the world. Their paths are curved as the waves refract due to the gradually changing density of the layers.
+
+        S-waves are not detected on the opposite side of the Earth - this suggests that the mantle has solid properties, but the outer core must be liquid.
+
+        P-waves are detected on the opposite side of the Earth. Refractions between layers cause two shadow zones where no P-waves are detected. The size and positions of these shadow zones indicate there is a solid inner core.

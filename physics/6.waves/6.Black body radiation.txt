@@ -1,0 +1,18 @@
+Black body radiation
+
+    Emission and absorption of infrared radiation
+        All bodies (objects) emit and absorb infrared radiation. 
+            The hotter the body:
+                the more infrared radiation it gives out in a given time
+                the greater the proportion of emitted radiation is visible light
+    Black bodies
+        There are no known objects that are perfect at absorbing or emitting all the radiation, of every possible frequency, that may be directed at it. 
+        Some objects do, however, come close to this and these are referred to as "black bodies".
+
+    A perfect black body is a theoretical object. It would have these properties:
+        it would absorb all the radiation that falls on it
+        it would not reflect or transmit any radiation
+
+        An object that is good at absorbing radiation is also a good emitter, so a perfect black body would be the best possible emitter of radiation.
+
+        Stars are considered to be black bodies because they are very good emitters of most wavelengths in the electromagnetic spectrum.

@@ -1,0 +1,36 @@
+Reflection and refraction
+    Reflection of waves
+        Waves - including sound and light - can be reflected at the boundary between two different materials. The reflection of sound causes echoes.
+        The law of reflection states that: angle of incidence = angle of reflection
+        The angles of incidence and reflection are measured between the light ray and the normal - an imaginary line at 90° to the surface.
+
+        Specular reflection
+            Reflection from a smooth, flat surface is called specular reflection. This is the type of reflection that happens with a flat mirror. The image in a mirror is:
+                upright
+                virtual
+
+            In a virtual image, the rays appear to diverge from behind the mirror, so the image appears to come from behind the mirror.
+
+        Diffuse reflection
+            If a surface is rough, diffuse reflection happens. Instead of forming an image, the reflected light is scattered in all directions. This may cause a distorted image of the object, as occurs with rippling water, or no image at all. 
+            Each individual reflection still obeys the law of reflection, but the different parts of the rough surface are at different angles.
+
+    Reflection and refraction
+        Different materials have different densities. Light waves may change direction at the boundary between two transparent materials. Refraction is the change in direction of a wave at such a boundary.
+
+        Refraction can cause optical illusions as the light waves appear to come from a different position to their actual source.
+
+        Explaining refraction - Higher
+            The density of a material affects the speed that a wave will be transmitted through it. In general, the denser the transparent material, the more slowly light travels through it
+
+            Glass is denser than air, so a light ray passing from air into glass slows down. If the ray meets the boundary at an angle to the normal, it bends towards the normal.
+
+            The reverse is also true. A light ray speeds up as it passes from glass into air, and bends away from the normal by the same angle.
+
+            A useful way of remembering the speed and direction changes of light during refraction is ‘FAST’: Faster - Away / Slower - Towards.
+
+        Wave speed, frequency and wavelength in refraction
+            wave speed = frequency × wavelength
+            For a given frequency of light, the wavelength is proportional to the wave speed
+            So if a wave slows down, its wavelength will decrease. 
+            Although the wave slows down, its frequency remains the same, due to the fact that its wavelength is shorter.

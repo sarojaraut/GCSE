@@ -1,0 +1,90 @@
+Lenses 
+    A lens is a shaped piece of transparent glass or plastic that refracts light.
+
+    A lens can be convex or concave.
+    Convex lenses
+        A convex lens is thicker in the middle than it is at the edges. 
+        Parallel light rays that enter the lens converge. 
+        They come together at a point called the principal focus.
+        In a ray diagram, a convex lens is drawn as a vertical line with outward facing arrows to indicate the shape of the lens. 
+        The distance from the lens to the principal focus is called the focal length.
+
+    Concave lenses
+        A concave lens is thinner in the middle than it is at the edges. This causes parallel rays to diverge. They separate but appear to come from a principle focus on the other side of the lens.
+
+        In a ray diagram, a concave lens is drawn as a vertical line with inward facing arrows to indicate the shape of the lens.
+
+    Real and virtual images
+        The images formed by a lens can be:
+
+        upright or inverted (upside down compared to the object)
+        magnified or diminished (smaller than the object)
+        real or virtual
+        
+        A real image is an image that can be projected onto a screen. A virtual image appears to come from behind the lens.
+
+        To draw a ray diagram:
+            Draw a ray from the object to the lens that is parallel to the principal axis. Once through the lens, the ray should pass through the principal focus.
+            Draw a ray which passes from the object through the centre of the lens.
+
+    Convex lenses
+        The type of image formed by a convex lens depends on the lens used and the distance from the object to the lens.
+
+        A camera or human eye
+            Cameras and eyes contain convex lenses. For a distant object that is placed more than twice the focal length from the lens, the image is:
+                inverted
+                diminished
+                real
+
+        Projectors
+            Projectors contain convex lenses. For an object placed between one and two focal lengths from the lens, the image is:
+                inverted
+                magnified
+                real
+
+        Magnifying glasses
+            A magnifying glass is a convex lens used to make an object appear much larger than it actually is. This works when the object is placed at a distance less than the focal length. The image is:
+                upright
+                magnified
+                virtual
+        Only the person using the magnifying glass can see the image. 
+        The image cannot be projected onto a screen because it is a virtual image.
+
+        Concave lenses
+            Concave lenses always produce images that are:
+
+            upright
+            diminished
+            virtual
+        
+            Peep hole lenses
+                Peep holes are set into doors so the occupant can identify a visitor before opening the door.
+
+                For an object viewed through a concave lens, light rays from the top of the object will be refracted and will diverge on the other side of the lens. These rays will appear:
+                    from the same side of the principal axis meaning the image will be upright
+                    further from the principal axis, so the image will be smaller than the object
+
+Magnification
+    Magnification is a measure of the size of an image compared to the size of the object. Lenses and curved mirrors can produce magnified images.
+
+    Magnification  = image height / object height`
+
+Colour
+    Within the visible light range of the electromagnetic spectrum there is a spectrum of colour.   
+    This is a continuous range of colours. In order of increasing frequency and decreasing wavelength these are given as: ROYGBIV
+
+    Absorption of light
+        Waves can be absorbed at the boundary between two different materials. When waves are absorbed by a surface, the energy of the wave is transferred to the particles in the surface.
+
+        For example, grass appears green in white light:red, orange, yellow, blue, indigo and violet are absorbed by the grass, green light is reflected by the grass and detected by our eyes
+
+        Transmission of light
+            Waves can also be transmitted at the boundary between two different materials. 
+            When waves are transmitted, the wave continues through the material. 
+            Air, glass and water are common materials that are very good at transmitting light
+
+        Translucent materials transmit some light but are not completely clear. Lamp shades, shower curtains and window blinds are often translucent objects.
+
+        Coloured objects in coloured light
+            An object appears to be black if it absorbs all the wavelengths of visible light. For example, an object that appears blue in white light will appear black in red light. 
+            This is because the red light contains no blue light for the object to reflect.
