@@ -1,0 +1,69 @@
+Mains electricity
+
+    Current : Alternating and direct current
+
+    Direct current: A direct current flows in only one direction.
+    On a voltage-time graph this would appear as a straight horizontal line at a constant voltage.
+    Car batteries, dry cells and solar cells all provide a direct current (dc) that only flows in one direction.
+
+    Alternating current:An alternating current regularly changes direction.
+        On a voltage-time graph, this would appear as a curve alternating between positive and negative voltages. 
+        The positive and negative values indicate the direction of current flow.
+
+    In the UK, the mains electrical supply is generated at a frequency of 50 Hertz (Hz) and is delivered to houses at 230 Volts (V).
+Household electricity
+    Plugs
+    Each part of the plug has a function.
+    Fuse	    : A glass or ceramic canister containing a thin wire that melts if the current gets too high
+    Live wire	: Copper wire coated with brown plastic along which the current enters the device
+    Neutral wire: Copper wire coated with blue plastic that also connects to the cable in the wall and completes the circuit
+    Earth wire	: Copper wire coated in striped plastic that provides a path for current to flow from the case of the device to the ground if there is a fault
+
+    Earthing
+    Without the earth wire, if a fault occurs and the live wire becomes loose, there is a danger that it will touch the case. The next person who uses the appliance could get electrocuted.
+    The earth wire is therefore connected to the case and is attached to a metal plate or water pipe underground. 
+    In the event of a fault, the live current passing through the case will follow this path to the ground instead of passing through a person.
+
+    Fuses
+        A fuse provides a built-in fail-safe to the electrical circuit for a device. 
+        The fuse contains a thin wire that will melt if the current gets too high. 
+        If there is a fault that causes the casing of the device to become live, a large current will flow through the low-resistance earth wire. This high current will cause the fuse to melt.
+
+        Once the fuse has melted, the circuit is broken and no more current flows through the device. This means the case of the device is no longer live and there is no more risk of electrocution.
+
+Electrical appliances
+    The amount of energy transferred depends on the power (the energy transferred each second) and the amount of time the appliance is switched on for. The energy transferred by an appliance can be calculated using the equation: energy = power × time => E = P * t
+        This is when:
+            energy (E) is measured in joules (J)
+            power (P) is measured in watts (W)
+            time (t) is measured in seconds (s)
+
+Alternating current and the National Grid
+
+    Transformers are used to change voltages and currents in transmission lines.
+    As the power transferred must stay the same:
+        increasing voltage decreases current
+        decreasing voltage increases current
+
+In the National Grid, a step-up transformer is used to increase the voltage and reduce the current. The voltage is increased from about 25,000 Volts (V) to 400,000 V causing the current to decrease. Less current means less energy is lost through heating the wire.
+
+
+    Transmission lines
+        As an electric current flows through the thick cables held up by the pylons, they will get hotter and dissipate energy to the surroundings. 
+        The electrical power dissipated depends on current and resistance:
+
+        To ensure that the minimum amount of power is lost from the cables:
+            the cables are thick so that their resistance is low
+            high voltages are used to reduce the current through the transmission lines
+        A low resistance and a low current mean that the transmission wires will not heat up as much. As a result, most of the power is delivered to the consumer, and not lost through the wires.
+
+
+How much energy is transferred by a 1,500 W hair dryer in 15 minutes?
+    = 1500 * 900 = 1350,000 J = 1.35 MJ
+
+What is the power of an electric heater that draws a current of 8 amps (A) when plugged into the mains?
+    P = V * I = 230 * 8 = 1840W
+
+If the electric heater is used for 20 minutes, how much energy is transferred in that time?
+    E = P * t = 1840 * 1200 = 2208000J = 2.208MJ
+

@@ -1,0 +1,149 @@
+Electric circuits
+
+    Switch : A switch used to turn a circuit on (closed) and off (open).
+
+    Lamp : An electrical current heats the filament in a bulb so that it gives out light.
+
+    Fixed resistor : A resistor restricts or limits the flow of electrical current. A fixed resistor has a resistance that does not change.
+
+    Variable resistor : Moving the position of the slider on this resistor, changes the resistance. A variable resistor is used in some dimmer switches and volume controls.
+
+    Thermistor : The resistance of a thermistor depends on its temperature. At low temperatures, the thermistor has a high resistance. As the temperature increases, the resistance decreases. A thermistor  can be used in thermostats or heat activated fire alarms.
+
+    Light-dependent resistor (LDR) : The resistance of a LDR depends on light intensity. At low light levels, the LDR has a high resistance. As the light intensity increases, the resistance decreases. A LDR can be used as a sensor in cameras or automatic lights that come on when it gets dark.
+
+    Semiconductor diode : A semiconductor diode allows current to flow in one direction only. Current will not flow in the other direction. Diodes are used to convert an alternating current into a direct current.
+
+Electrical charge and current
+    There are two types of current: direct and alternating. 
+        In a direct current, the flow of electrons is consistently in one direction around the circuit. 
+        In an alternating current, the direction of electron flow continually reverses.
+
+    Charge
+        Electrons are negatively charged particles and they transfer energy through wires as electricity.
+        Charge is a property of a body which experiences a force in an electric field. Charge is measured in coulombs (C).
+        One coulomb of charge is a package equivalent to 6,250,000,000,000,000,000 electrons. 6.25 * 10** 18
+
+    Current
+        Electrical current is the rate of flow of electric charge.
+        When current flows, electrical work is done and energy transferred. 
+        The amount of charge passing a point in the circuit can be calculated using the equation:
+        charge = current * time => Q = I * t
+            charge (Q) is measured in coulombs (C)
+            current (I) is measured in amps (A)
+            time (t) is measured in seconds (s)
+        One amp is the current that flows when one coulomb of charge passes a point in a circuit in one second.
+
+Potential difference and resistance
+
+    The current through a component depends on both the resistance of the component and the potential difference across the component.
+
+    Potential difference (or voltage) is a measure of energy, per unit of charge, transferred between two points in a circuit. A potential difference of 1 volt means that 1 joule of work is done per coulomb of charge.
+
+    Measuring potential difference : V = E/Q
+        To measure the potential difference across a component, a voltmeter must be placed in parallel with that component in order to measure the difference in energy from one side of the component to the other. 
+        Potential difference is also known as voltage and is measured in volts (V).
+
+    Energy, voltage and charge
+        When a charge moves through a potential difference, electrical work is done and energy transferred. The potential difference can be calculated using the equation: PD = Energy / Charge => V = E / Q
+            This is when:
+                potential difference (V) is measured in volts (V)
+                energy (E) is measured in joules (J)
+                charge (Q) is measured in coulombs (C)
+            One volt is the potential difference when one coulomb of charge transfers one joule of energy.
+
+    Resistance
+        When a charge moves through a potential difference, electrical work is done and energy transferred. The potential difference can be calculated using the equation: potential difference = current × resistance => V = I * R
+                potential difference (V) is measured in volts (V)
+                current (I) is measured in amps (A)
+                resistance (R) is measured in ohms (Ω)
+            One volt is the potential difference when one coulomb of charge transfers one joule of energy.
+            Conductors have a low resistance. Insulators have a high resistance.
+
+    Series circuits
+        In series circuits, electrical components are connected one after another in a single loop.
+        
+        Circuit rules
+            An electron will pass through every component on its way round the circuit. If one of the bulbs is broken then current will not be able to flow round the circuit. If one bulb goes out, they all go out.
+        Current in series
+            A series circuit is one loop; all electrons in that loop form one current. An ammeter will measure the same current wherever it is placed in the circuit:
+            I1 = I2 = I3
+        Potential difference in series
+            The current will transfer energy from the power supply to the components in the circuit. Since energy has to be conserved, all of the source energy is shared between the components. Since potential difference is used to measure changes in energy, the potential difference supplied is equal to the total of the potential differences across all other components:
+
+            Vs = V1 + V2
+        Resistance in series
+            If resistors are connected in series, the current must flow through both of them meaning the resistances are added together:
+            Rtotal = R1 + R2
+        In series circuits:
+        current is the same through each component
+        the total potential difference of the power supply is shared between the components
+        the total resistance of the circuit is the sum of individual resistors
+    
+    Parallel circuits
+        In parallel circuits, electrical components are connected alongside one another, forming extra loops.
+
+        Circuit rules
+            An electron will not pass through every component on its way round the circuit. 
+            If one of the bulbs is broken then current will still be able to flow round the circuit through the other loop.
+            If one bulb goes out, the other will stay on.
+
+        Current in parallel
+            Since there are different loops, the current will split as it leaves the cell and pass through one or other of the loops. An ammeter placed in different parts of the circuit will show how the current splits: I1 = I2 + I4 = I3
+
+        Potential difference in parallel
+            Since energy has to be conserved, the energy transferred around the circuit by the electrons is the same whichever path the electrons follow. Since potential difference is used to measure changes in energy, the potential difference supplied is equal to the potential differences across each of the parallel components: Vs = V1 = V2
+        Resistance in parallel
+            If resistors are connected in parallel the supply current is divided between them. The overall resistance is reduced as the current may follow multiple paths.
+
+        In parallel circuits:
+            the total current supplied is split between the components on different loops
+            potential difference is the same across each loop
+            the total resistance of the circuit is reduced as the current can follow multiple paths
+
+Energy and power in electric circuits
+    Heating up wires
+        As electrons flow through wires, they collide with the ions in the wire which causes the ions to vibrate more. 
+        This increased vibration of the ions increases the temperature of the wire. 
+        Energy has been transferred from the chemical energy store of the battery into the internal energy store of the wire.
+
+    The amount of energy transferred each second (power) between the energy stores can be calculated using the equation:
+        power = current × potential difference => P = I * V
+        This is when:
+            power (P) is measured in watts (W)
+            current (I) is measured in amps (A)
+            potential difference (V) is measured in volts (V)
+        One watt is equal to one joule per second (J/s). ( I in amp (Columb/Second) and V in volt (Joule/Columb) )
+
+        Power can also be written as: power = current2 × resistance => P = I**2 * R
+            This is when:
+                power (P) is measured in watts (W)
+                current (I) is measured in amps (A)
+                resistance  (R) is measured in ohms (Ω)
+
+    Efficient transmission of power
+
+Maths Question
+A current of 1.5 amps (A) flows through a simple electrical circuit. How many coulombs of charge flow a point in 60 seconds?
+Q = I * t = 1.5 * 60 = 90C
+
+How much current flows when 10 C passes down a wire in 2 s?
+ I = Q / t = 10 / 2 = 5 A
+
+What is the potential difference between two points if 2 C of charge shifts 4 J?
+
+    V = E/Q = 4/2 = 2V
+
+How much energy is transferred when 3 C of charge moves through a potential difference of 6 V?
+E = QV = 6*3 = 18 J
+
+What is the potential difference if a current of 2 A flows through a resistance of 40 Ω?
+    V = I * R = 2 * 40 = 80V
+
+What is the resistance of a component if 12 V causes a current of 2 A through it?
+    R = V / I = 12/2 = 6Ω
+
+How much energy is transferred each second by a current of 2 amps (A) driven by a potential difference of 230 volts (V)?
+    P = I V = 2 * 230 = 460 W
+What power is dissipated by a current of 3 A through a 10 Ω resistor?
+    P = I**2 * R = 90 W
