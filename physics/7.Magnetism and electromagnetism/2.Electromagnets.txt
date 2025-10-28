@@ -1,0 +1,46 @@
+2.Electromagnets
+
+    When a current flows in a wire, it creates a circular magnetic field around the wire. This magnetic field can deflect the needle of a magnetic compass. The strength of the magnetic field is greater:
+        closer to the wire
+        if the current is increased
+
+    Solenoids
+        A solenoid consists of a wire coiled up into a spiral shape.
+
+    The motor effect - Higher
+        A wire carrying a current creates a magnetic field. This can interact with another magnetic field, causing a force that pushes the wire at right angles. This is called the motor effect.
+
+        force = magnetic flux density × current × length (BHl)
+            F is force in newtons (N)
+            B is magnetic flux density (magnetic field strength) in tesla (T)
+            I is current in amperes - also referred to as amps (A) 
+            l is length in metres (m)
+
+        Fleming’s left hand rule - Higher
+            The force on a given length of wire in a magnetic field increases when:
+                the current in the wire increases
+                the strength of the magnetic field increases
+
+        For any given combination of current and magnetic field strength, the force is greatest when the direction of the current is 90° to the direction of the magnetic field. There is no motor effect force if the current and magnetic field are parallel to each other.
+
+        Hold your thumb, forefinger and second finger at right angles to each other:
+            the forefinger is lined up with magnetic field lines pointing from north to south
+            the second finger is lined up with the current pointing from positive to negative
+            the thumb shows the direction of the motor effect force on the conductor carrying the current
+
+    Electric motors - Higher
+        A coil of wire carrying a current in a magnetic field experiences a force that tends to make it rotate. This effect can be used to make an electric motor.
+
+    Loudspeakers and headphones - Higher
+        The motor effect is used inside headphones, which contain small loudspeakers. In these devices, variations in an electric current cause variations in the magnetic field produced by an electromagnet. This causes a cone to move, which creates pressure variations in the air and forms sound waves.
+
+        Alternating current supplied to the loudspeaker creates sound waves in the following way:
+
+            a current in the coil creates an electromagnetic field
+            the electromagnetic field interacts with the permanent magnet generating a force, which pushes the cone outwards
+            the current is made to flow in the opposite direction
+            the direction of the electromagnetic field reverses
+            the force on the cone now pulls it back in
+            repeatedly alternating the current direction makes the cone vibrate in and out
+            the cone vibrations cause pressure variations in the air, which are sound waves
+            To make a loudspeaker cone vibrate correctly, the electric current must vary in the same way as the desired sound.

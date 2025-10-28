@@ -1,0 +1,10 @@
+Electromagnetic induction - Higher
+
+    Induced potential and the generator effect
+        A potential difference or voltage is needed to make an electric current flow in a circuit.
+            a coil of wire is moved in a magnetic field
+            a magnet is moved into a coil of wire
+
+            This is called electromagnetic induction and is often referred to as the generator effect.
+
+            

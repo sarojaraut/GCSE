@@ -1,0 +1,63 @@
+Transformers - Higher 
+
+    Transformers
+        A transformer is a device that can change the potential difference or voltage of an alternating current:
+            a step-up transformer increases the voltage
+            a step-down transformer reduces the voltage
+
+            potential difference : The potential difference (or voltage) of a supply is a measure of the energy given to the charge carriers in a circuit. Units = volts (V). This is the voltage between two points that makes an electric current flow between them.
+
+        When a transformer is working:
+            a primary voltage drives an alternating current through the primary coil
+            the primary coil current produces a magnetic field, which changes as the current changes
+            the iron core increases the strength of the magnetic field
+            the changing magnetic field induces a changing potential difference in the secondary coil
+            the induced potential difference produces an alternating current in the external circuit
+
+        Transformers can only work with alternating current.
+
+        Potential difference
+            The ratio of potential differences on the transformer coils matches the ratio of the numbers of turns on the coils.
+
+            This equation can be used to calculate what the output might be from a particular transformer, or to work out how to design a transformer to make a particular voltage change:
+
+            Vp / Vs = np / ns
+                This is when:
+
+                Vp is the potential difference in the primary (input) coil in volts (V)
+                Vs is the potential difference in the secondary (output) coil in volts (V)
+                np is the number of turns on the primary coil
+                ns is the number of turn on the secondary coil
+
+            In a step-up transformer, Vs > Vp, and ns > np
+            In a step-down transformer, Vs < Vp and ns < np
+
+            A mains (230 volt) transformer has 11,500 turns on its primary coil and 600 turns on its secondary coil. Calculate the voltage obtained from the secondary coil.
+
+            Vs =  230 * 600 /11500 = 12 volt
+
+        Electrical power
+            To calculate electrical power, use the equation:
+
+            power = potential difference × current
+            p =  V I
+                power (P) is measured in watts (W)
+                potential difference (V) is measured in volts (V)
+                current (I) is measured in amperes - also referred to as amps (A)
+
+            Assuming that a transformer is 100 per cent efficient, the following equation can be used to calculate the power output from the transformer:
+
+            Vs * Is = Vp * Ip
+
+            A step-down transformer converts 11,500 V into 230 V. The power output is used to run a 2,000 W kettle. Calculate the current flowing in the primary coil.
+
+            Secondary Power = Vs * Is = 2000
+            Primary Power = Vp * Ip = 2000
+            Ip = 2000/11500 = 0.174A
+
+    Power transmission
+        The National Grid carries electricity around Britain. The higher the current in a cable, the greater the energy transferred to the surroundings by heating. This means that high currents waste more energy than low currents.
+
+        To reduce energy transfers to the environment, the National Grid uses step-up transformers to increase the voltage from power stations to thousands of volts, which lowers the current in the transmission cables. Step-down transformers are then used to decrease the voltage from the transmission cables, so it is safer to distribute to homes and factories.
+
+        

@@ -1,0 +1,25 @@
+Magnetic fields
+
+    Poles of a magnet
+        A magnet can exert a force on another nearby magnet. Magnets have two poles: north and south pole
+        The magnetic force is strongest near the magnet's poles.
+        like poles (N-N or S-S) repel
+        unlike poles (N-S or S-N) attract
+        Magnetic forces are non-contact forces - this means that magnets affect each other without touching.
+    Induced and permanent magnetism
+        Iron, steel, nickel and cobalt are magnetic materials. They are affected by magnets and are attracted to either pole of a magnet.
+
+    A permanent magnet always causes a force on other magnets, or on magnetic materials. Key features of a permanent magnet:
+        it produces its own magnetic field the magnetic field cannot be turned on and off - it is there all the time
+        Bar magnets and horseshoe magnets are examples of permanent magnets.
+    Induced magnets
+        Unlike a permanent magnet, an induced magnet only becomes a magnet when it is placed in a magnetic field. The induced magnetism is quickly lost when the magnet is removed from the magnetic field.
+
+    Detecting and drawing magnetic fields
+        A magnetic field is invisible, but it can be detected using a magnetic compass. A compass contains a small bar magnet on a pivot so that it can rotate. The compass needle points in the direction of the Earth's magnetic field, or the magnetic field of a magnet.
+    Drawing a magnetic field
+        The diagram shows these key features:
+        the magnetic field lines never cross each other
+        the closer the lines, the stronger the magnetic field
+        the lines have arrowheads to show the direction of the force exerted by a magnetic north pole
+        the arrowheads point from the north pole of the magnet to its south pole
