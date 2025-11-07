@@ -1,4 +1,24 @@
 Communicable diseases
+
+    Pathogens
+        virus
+        bacteria
+        fungi
+        protist
+
+    Non-specific human defence : first line
+        skin
+        nose
+        bronchi and trachea
+        stomach
+    immune system : second line of defence
+        white blood cell called phagocytes and lymphocytes
+        phagocytes engulf and enzyme kills the pathogen
+        lymphocytes recognise proteins on the surface of pathogens called antigens. produces antibodies
+        antibodies cause pathogens to stick together and make it easier for phagocytes to engulf them
+        Some pathogens produce toxins, Lymphocytes can also produce antitoxins to neutralise these toxins
+
+
 Pathogens are disease-causing viruses, bacteria, fungi or protists, which can infect animals and plants. Humans have an immune system, which can defend them from pathogens.
 
 Pathogens
