@@ -1,0 +1,28 @@
+A matrix is a rectangular grid (array) of elements (numbers or letters) arranged in rows and columns
+The order of a matrix is its "number of rows" × "number of columns"
+a 2 × 2 matrix representing number of male and female students in two tutor group 
+                male   female
+tutor group A ( 8        6)
+tutor group B ( 7        9)
+
+Note : Should have been one pair of brackeet instead of two separate bracket
+
+Multiply matrix by scalar : simply multiply each element by scalar : So order remains the same
+
+Adding matrices (if order is same) just add correpsonding elements
+
+Matrix multiplication : Number of columns in first matrix should be same as number fo rows in second matrix
+Multiply the elements of the first row of the first matrix with corresponding element of first of column of second matrix and add them up
+Final order of matrix will be : number of rows of first matrix and number of columns of second matrix
+if a 2x3 matrix is multiplied with 3x2 matrix the result will be 2x2  matrix
+
+Zero matrix if all elements are 0, can be of any order
+Identity matrix : always a square matrix and  diagonal elemnts from top left to bottom right are 1 and everything else is 0
+
+ unit basis vectors, 
+ 1
+ 0
+ (the x-basis vector) and 
+ 0
+ 1
+ (the y-basis vector)

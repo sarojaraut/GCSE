@@ -1,0 +1,109 @@
+Page-214
+
+Gradient of a straight line is a measure of the steepness
+    The calculation is the "change in y" divided by the "change in x". 
+    A positive gradient means the line is increasing from left to right. 
+    A negative gradient means the line is decreasing from left to right. 
+
+    It can refer to the rate at which a quantity like temperature, pressure, or concentration changes over a distance. 
+
+
+
+Gradient of a curve
+    we can draw tangents at a point on curve and calculate tangents slope or use differentiation
+
+    Differentiation is used to find the gradient of a tangent to a curve.
+    While the gradient of a straight line is constant, for a curve, the gradient is always changing.
+    The gradient of a curve at a given point is defined as being the gradient of the tangent at that point.
+    The function that tells us the gradient of the tangent and curve at the given point is called the derivative.
+    The formal technique for finding the gradient of a tangent is known as differentiation from first principles and is written as:
+    f`(x)  = [ f (x + h) - f (x) ] /h [ as  (x+h)-x = h], 
+        where h is the horizontal distance between two points on the curve and has a limit tending to zero.
+
+    Using differentiation from first principles, differentiate f(x) = x**2 
+        => F`(x)  = [(x+h)**2 - x**2]/h 
+                    = 2x + h As h tends to zero, the derivative f`(x)=2x
+
+    Differentiation is used in maths for calculating rates of change.
+
+    For example in mechanics, the rate of change of displacement (with respect to time) is the velocity.
+    The rate of change of velocity (with respect to time) is the acceleration.
+
+    differentiating y with respect to x is written as dy/dx. This is also known as 'Leibniz Notation'.
+
+    There are many ways a question can ask you to differentiate:
+        Differentiate the function...
+        Find F`(x)
+        Find dy/dx
+        Calculate the rate of change of...
+        Find the derivative of…
+        Calculate the gradient of the tangent to the curve...
+
+    f(x) = a*x**n : f`(x) = a*n*x**n-1
+    y=sinx : dy/dx = cosx
+    y=cosx : dy/dx = -sinx
+
+    The chain rule: The chain rule is used to differentiate composite functions. It is written as:
+        dy/dx = dy/du * du/dx
+        e.g Differentiate y=(2x+4)**3
+        using chain rule we can rewrite : y=u**3 and u=2x+4 
+        dy/dx = dy/du * du/dx = 3u**2 * 2 = 6u**2 = 6(2x+4)**2
+
+        y=(sin2x)**2 
+        y = u**2
+        dy/du = 2u = 2sin2x
+        du/dx = 2cos2x (another chain rule)
+        dy/dx = 4sin2X*cos2X
+
+        expression might need expanding or dividing before dy/dx can be found out
+
+Equation of a tangent and normals
+    We can calculate the gradient of a tangent to a curve by differentiating.
+    In order to find the equation of a tangent, we:
+
+    Differentiate the equation of the curve
+    Substitute the value into the differentiated equation to find the gradient
+    Substitute the value into the original equation of the curve to find the y-coordinate
+    Substitute your point on the line and the gradient into y-b=m(x-a)
+
+    **for normals m1*m2 = -1
+    **how to find out if a line passes through original
+
+    **Increasing or decreasing function if dy/dx > 0 then increasing and dy/dx < 0 then decreasing
+    Some functions are increasing or decreasing in the whole domain or some are in parts
+
+    **Second derevetive
+
+        d/dx(dy/dx) = d**2y/d**2x = f``(x)
+
+    ** Stationary points in a curve is a point where gradient of the tangent is 0, i.e where tangent is horizontal
+    Maximum point where dy/dx=0 and gradient is positive to the left and negetive to the right
+    Minimum point where dy/dx=0 and gradient is negative to the left and positive to the right
+
+    One way is finding the stationary point where dy/dx expression is 0 and then choose an x value 1 less than stationaty point(x value) and an x value 1 more than stationaty point(x value)
+    And observe the dy/dx sign change for those two points
+    
+    Another method is finding the second derivative
+    d**2/d**y = rate of change of dy/dx
+        d**2/d**y > 0 then gradient must go from -ve to +ve , os it's minimum turning point
+        d**2/d**y < 0 then gradient must go from =ve to -ve , os it's maximum turning point
+
+    Application of maxima and minima
+
+    Y = c => dy/dx=0
+    y = f(x) + g(x) => dy/dx = f`(x) + g`(x)
+    gradient of tangent = dy/dx = m
+    gradient of tangent = -1/m where m = dy/dx
+    Stationary point is where dy/dx=0
+    f(x) is increasing at a point if dy/dx >0
+    f(x) is decreasing at a point if dy/dx <0
+    Nature of stationary point can be determined by looking at the sign of gradient at either side of stationary point
+    d**2/d**y is an alternative way of finding minima or maxima
+        d**2/d**y > 0 then gradient must go from -ve to +ve , os it's minimum turning point
+        d**2/d**y < 0 then gradient must go from =ve to -ve , os it's maximum turning point
+
+
+
+
+
+https://www.bbc.co.uk/bitesize/guides/zyj77ty/revision/1
