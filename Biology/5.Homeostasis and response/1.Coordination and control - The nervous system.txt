@@ -1,0 +1,141 @@
+Coordination and control - The nervous system 
+
+Homeostasis
+    Homeostasis maintains optimal conditions for enzyme action throughout the body, as well as all cell functions.
+    In the human body, these include the control of:
+        blood glucose concentration
+        body temperature
+        water levels
+    These automatic control systems may involve nervous responses (nervous system) or chemical responses (endocrine system).
+
+    Nervous system
+    The human nervous system consists of:
+        the central nervous system – the brain and spinal cord
+        the peripheral nervous system – nerve cells that carry information to or from the CNS
+
+The structure and function of the nervous system
+    The conditions inside our body must be carefully controlled if the body is to function effectively. The conditions are controlled in two ways with chemical and nervous responses.
+
+    All control systems include:
+        Cells called receptors, which detect stimuli (changes in the environment).
+        The coordination centre, such as the brain, spinal cord or pancreas, which receives and processes information from receptors around the body.
+        Effectors bring about responses, which restore optimum levels, such as core body temperature and blood glucose levels. Effectors include muscles and glands, and so responses can include muscle contractions or hormone release
+    Nerve cells
+        Nerve cells are called neurones. They are adapted to carry electrical impulses from one place to another. A bundle of neurones is called a nerve.
+        A bundle of neurones is called a nerve.
+
+        There are three main types of neurone: sensory, motor and relay.
+
+        They have some features in common:
+
+            A long fibre (axon) which is insulated by a fatty (myelin) sheath. They are long so they can carry messages up and down the body.
+            Tiny branches (dendrons) which branch further as dendrites at each end. These receive incoming impulses from other neurones.
+        Receptors to effectors
+            Information from receptors passes along neurones, as electrical impulses to co-ordinators such as the central nervous system or CNS. 
+            The CNS is the brain and spinal cord. 
+            Muscles contracting or glands secreting hormones are the response of effectors coordinated by the CNS.
+
+            Stimulus → receptor → coordinator → effector → response
+        Receptors
+            Receptors are groups of specialised cells. 
+            They detect a change in the environment (stimulus) and stimulate electrical impulses in response. 
+            Sense organs contain groups of receptors that respond to specific stimuli.
+                Skin	Touch, temperature and pain
+                Tongue	Chemicals (in food and drink, for example)
+                Nose	Chemicals (in the air, for example)
+                Eye	    Light
+                Ear	    Sound and position of head
+        Effectors
+            Effectors include muscles and glands - that produce a specific response to a detected stimulus.
+
+            For example:
+            a muscle contracting to move an arm
+            muscle squeezing saliva from the salivary gland
+            a gland releasing a hormone into the blood
+
+
+Reflex arc
+    Reflex actions : Automatic and rapid response to a stimulus.
+        There are different types of neurones that work together in a reflex action. 
+        This creates an automatic and rapid response to a stimulus, 
+            which minimises any damage to the body from potentially harmful conditions, such as touching something hot.
+        A reflex action follows this general sequence and does not involve the conscious part of the brain, which makes it much quicker.
+        stimulus -> receptor -> sensory neurons -> relay neurons -> motor neurons -> effector -> response 
+
+        The nerve pathway followed by a reflex action is called a reflex arc. For example, a simple reflex arc happens if we accidentally touch something hot.
+            Receptor in the skin detects a stimulus (the change in temperature).
+            Sensory neurone in hand sends electrical impulses to relay neurone, which are located in the spinal cord. 
+            They connect sensory neurones to motor neurones.
+            Motor neurone sends electrical impulses to an effector.
+            Effector produces a response (muscle contracts to move hand away).
+
+        Where two neurones meet there is a small gap, a synapse.
+            An electrical impulse travels along the first axon.
+            This triggers the nerve-ending of a neurone to release chemical messengers called neurotransmitters.
+            These chemicals diffuse across the synapse (the gap) and bind with receptor molecules on the membrane of the second neurone.
+            The receptor molecules on the second neurone bind only to the specificneurotransmitters released from the first neurone. This stimulates the second neurone to transmit the electrical impulse.
+
+The brain
+    The brain controls complex behaviour. It is made of billions of interconnected neurones and has different regions that carry out different functions.
+
+        There are four main areas in the brain:
+
+            The cerebrum (the outer layer is called the cerebral cortex), which is split into two hemispheres and is highly folded. It controls intelligence, personality, conscious thought and high-level functions, such as language and verbal memory.
+            The cerebellum, which controls balance, co-ordination of movement and muscular activity.
+            The medulla, which controls unconscious activities such as heart rate and breathing rate,
+            The hypothalamus, which is the regulating centre for temperature and water balance within the body. It plays a key role in maintaining homeostasis, regulating body temperature, hunger, thirst, blood pressure, and other essential processes. It also coordinates the endocrine system by releasing hormones that influence the pituitary gland and other hormone-producing organs. 
+
+MRI brain scans
+Modern imaging methods such as MRI (Magnetic Resonance Imaging) scans, use strong magnetic fields and radio waves to show details of brain structure and function. Patients are asked to perform various tasks and, by looking at the scan, scientists can see which parts of the brain are active when the task is carried out.
+
+The eye
+    The eye is a sense organ containing receptors sensitive to light intensity and colour.
+
+    Structure	Function
+    Cornea	     Refracts light - bends it as it enters the eye
+    Iris	     Controls how much light enters the pupil
+    Lens	     Further refracts light to focus it onto the retina
+    Retina	     Contains the light receptors
+    Optic nerve  Carries impulses between the eye and the brain
+    Sclera	     Tough white outer layer of the eye. It helps protect the eye from injury
+
+    The retina
+    Light passes through the eyeball to the retina. There are two main types of light receptors - rods and cones. Rods are more sensitive to light than cones so they are useful for seeing in dim light. There are three different types of cone cells which produce colour vision.
+
+    The pupil reflex
+        The amount of light entering the eye is controlled by a reflex action. The size of the pupil changes in response to bright or dim light. This is controlled by the muscles of the iris.
+
+How the eye works – Higher
+    Accommodation is the process of changing the shape of the lens to focus on near or distant objects.
+
+    To focus on a near object – the lens becomes thicker, this allows the light rays to refract (bend) more strongly.
+
+    To focus on a distant object – the lens is pulled thin, this allows the light rays to refract slightly.
+
+Common defects of the eye and how they can be overcome
+    Two common defects of the eyes are myopia (short-sightedness) and hyperopia (long-sightedness). In both cases rays of light do not focus on the retina so a clear image is not formed.
+
+    These two defects are treated with spectacle lenses, which refract (bend) the light rays so that they do focus on the retina.
+
+    Short sight
+        Someone with short-sight can see near objects clearly, but cannot focus properly on distant objects.
+
+        Short sight is caused by one of the following:
+
+        The eyeball being elongated - so that the distance between the lens and the retina is too great.
+        The lens being too thick and curved - so that light is focused in front of the retina.
+        Short-sightedness can be corrected by placing a concave lens in front of the eye, as shown in the diagrams below.
+
+    Long-sight
+        Someone who is long-sighted can see distant objects clearly, but they cannot focus properly on near objects.
+
+        Long-sightedness is caused by one of the following:
+
+        the eyeball being too short - so the distance between the lens and retina is too small
+        a loss of elasticity in the lens - meaning it cannot become thick enough to focus (which is often age-related)
+        As a result, the lens focuses light behind the retina instead of onto it. Long-sightedness is corrected by putting a convex lens in front of the eye, as shown in the diagrams below.
+
+    New technologies have provided alternatives to wearing spectacle lenses: the hard and soft contact lenses, laser surgery to change the shape of the cornea and a replacement lens in the eye. Contact lenses – work by being in 'contact' with your eye. They float on the surface of the cornea. They work like spectacle lenses, by focusing and refracting the light.
+
+    Laser surgery – reshapes the cornea surgically. Common for myopia but can be used for some hyperopia conditions.
+    Replacement lens – implanting artificial lenses is a recent development, and can placed in front of the original lens, through a small cut in the cornea, to correct an eye defect.
